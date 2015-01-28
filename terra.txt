@@ -1,0 +1,1106 @@
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="pt-BR" xml:lang="pt-BR">
+
+<head>
+	<!--// V. 22/01/2015 16:33 //-->
+	
+
+	
+		
+		
+		 
+
+	 
+		
+		
+	
+	
+	
+		
+		
+		
+	
+	
+	
+	
+	
+		
+			
+			
+		
+		
+			
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+		
+			
+			
+		
+		
+		
+	
+	
+	
+		
+		
+			<title>Terra - Notícias, esportes, coberturas ao vivo, diversão e estilo de vida</title>
+		
+	
+
+	
+
+	
+
+
+    
+    
+        
+    
+
+	
+        
+        
+            
+            
+        
+    
+
+	<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+	<meta charset="utf-8" />
+
+	<meta name="description" content="Veja no Terra as últimas notícias e as melhores coberturas ao vivo do Brasil e do Mundo, Esportes, Diversão, Vida e Estilo e assista os melhores vídeos no TerraTV." />
+	<meta name="keywords" content="" />		
+	<meta http-equiv="default-style" content="text/css" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
+	
+	<meta property="fb:admins" content="1640032884" /> 
+	<meta property="fb:app_id" content="319227784756907" /> 
+	<meta property="og:site_name" content="Terra" /> 
+
+	<link rel="shortcut icon" type="image/x-icon" href="http://s1.trrsf.com/favicon.ico" />   	
+   	<link rel="apple-touch-icon" type="image/x-icon" href="http://s1.trrsf.com/opera.jpg" />   	
+	
+		<link rel="canonical" href="http://www.terra.com.br/" />
+		
+	
+
+	
+	
+
+	<link rel="next" href="http://www.terra.com.br/?page=2"/>
+		
+	<!-- page  -->
+	<!-- pageSeo 1 -->
+	<!-- pageNextSeo 2 -->
+		
+	<!-- ZaZ start -->
+	
+
+	
+
+	
+	<link type="text/css" rel="stylesheet" href="http://s1.trrsf.com/update-1420484107/fe/zaz-morph/_css/zaz.min.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1422042311/fe/zaz-icons/css/basicsprites.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1410896711/fe/zaz-gambit/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s1.trrsf.com/update-1421325636/fe/zaz-comp-socialbuttons/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1422449442/fe/zaz-navbar/_css/context.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1421758519/fe/zaz-app-contentstatus/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s1.trrsf.com/update-1421862311/fe/zaz-app-teams/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1421862310/fe/zaz-app-breakingnews/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1422449442/fe/zaz-app-social-panel/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1398721836/fe/zaz-app-oneday/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1418393106/fe/zaz-app-essential/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1402665316/fe/zaz-app-live/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1413207634/fe/zaz-app-standings/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1406140837/fe/zaz-app-horoscope/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s1.trrsf.com/update-1410380437/fe/zaz-app-weather/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1400005519/fe/zaz-app-financial/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s1.trrsf.com/update-1398456908/fe/zaz-app-subjects-list/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1402428907/fe/zaz-app-profiles-list/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s1.trrsf.com/update-1421758519/fe/zaz-app-survey/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s1.trrsf.com/update-1421862311/fe/zaz-app-video-stream/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1422463513/fe/zaz-app-special-content/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="http://s1.trrsf.com/update-1419426906/fe/zaz-app-related-content/_css/theme-default.css"  />
+<link type="text/css" rel="stylesheet" href="http://s1.trrsf.com/update-1421945712/fe/zaz-app-special-menu/_css/theme-default.min.css"  />
+<link type="text/css" rel="stylesheet" href="http://s2.trrsf.com/update-1413379228/fe/zaz-app-topstories/_css/theme-default.css"  />
+<script type="text/javascript" data-includerInjection="http://s2.trrsf.com/update-1422363032/fe/zaz-cerebro/prd/scripts/zaz.inline.min.js" charset="utf-8">
+!function(){"use strict";if(window.zaz)return!1;var environment;window.zaz=function(){var minified=1,q=[],eq=[],o={};o.getQueue=function(){return q},o.getExtQueue=function(){return eq},o.use=function(fn,scope){return fn.scope=scope,q.push(fn),window.zaz},o.extend=function(name,fn){eq.push([name,fn])},o.status="pre-build",o.options={global:{}},o.globalVariables=function(){var list=[];if(Object&&Object.keys)list=Object.keys(window);else for(var prop in window)void 0!==window[prop]&&list.push(prop);return list}(),o.globalVariables=o.globalVariables.concat(["zaz","console","JSON3","GlobalStorage","require","define","nunjucks","Request","nunjucks"]),o.version="1.4.3",o.notSupported=!1,o.fullyLoaded=!1,o.lastRevision="January 27, 2015 at 12:45 UTC",minified=minified?".min":"";var environments={prd:location.protocol+"//s1.trrsf.com/fe/zaz-cerebro/prd/scripts/zaz.min.js",dsv:"http://dsv-fe01.tpn.terra.com/~{user}/zaz-cerebro/dist/prd/scripts/zaz.min.js",hlg:"http://{user}.zaz-cerebro.{branch}.hlg-fe.tpn.terra.com/dist/prd/scripts/zaz.min.js",prev:"http://zaz-cerebro.preview-fe.tpn.terra.com/prd/scripts/zaz.min.js"},cerebroLoader=document.currentScript||function(){var scripts=document.getElementsByTagName("script");return scripts[scripts.length-1]}(),relativeRX=/zaz\.(inline|embed)(\.min)?\.js/,cerebroFull=document.createElement("script"),cerebroLoaderSRC=cerebroLoader.getAttribute("src")||cerebroLoader.getAttribute("data-includerInjection")||environments.prd,cerebroFullSRC=relativeRX.test(cerebroLoaderSRC)?cerebroLoaderSRC.replace(relativeRX,"zaz$2.js").replace(/(\/update\-\d+)?\/fe\//,"/update-1422362713080/fe/"):environments.prd,cerebroFullOriginaSRC=cerebroFullSRC,customOptions={};return/[&\?]tpn=1/.test(location.search)&&(location.search.replace(/[&\?](?:zaz|cerebro)\.(.+?)=([^&\s]*)/g,function(match,key,value){return customOptions[key]=value,match}),customOptions.env&&"prd"!=customOptions.env&&environments[customOptions.env]?(/^hlg|dsv$/.test(customOptions.env)&&!customOptions.user&&(customOptions.user=/[&\?]user=([^\s&]+)/.exec(location.search),customOptions.user=customOptions.user?customOptions.user[1]:"terra"),/^hlg$/.test(customOptions.env)&&!customOptions.branch&&(customOptions.branch=/[&\?]branch=([^\s&]+)/.exec(location.search),customOptions.branch=customOptions.branch?customOptions.branch[1]:"master"),cerebroFullSRC=environments[customOptions.env].replace("{user}",customOptions.user).replace("{branch}",customOptions.branch)):customOptions.env="prd",/^0|false$/.test(customOptions.min)&&(cerebroFullSRC=cerebroFullSRC.replace(/\.min/,"")),"object"==typeof window.console&&"function"==typeof window.console.warn&&("prd"!=customOptions.env||cerebroFullOriginaSRC!=cerebroFullSRC&&"object"==typeof window.console)&&window.console.warn("Forcing include of cerebro from "+cerebroFullSRC+"\n-------")),cerebroFull.type="text/javascript",cerebroFull.charset="utf-8",cerebroFull.src=cerebroFullSRC,cerebroLoader.parentNode.appendChild(cerebroFull),o}(),window.zaz.environment=environment}();
+
+</script><noscript><!-- behavior layer --></noscript>
+
+	
+	<!-- ZaZ end -->
+
+
+
+    
+        
+            
+            
+        
+        
+    
+
+    
+        
+        
+            
+            
+        
+    
+
+     
+    
+    
+
+    
+        
+
+        
+            
+        
+    
+
+
+
+
+	<!-- METRICS //-->
+	<script type="text/javascript">
+		var tgmKey="br.homepage.home";
+		
+		var terra_info_channel = "br.portada.portada";
+var terra_info_channeldetail = "/";
+var terra_stats_idCrtfc = 300030;
+var terra_stats_uv_c="capa_n";
+var enableClick=true; 
+	
+		var terra_info_id= "20e07ef2795b2310VgnVCM3000009af154d0RCRD"; 
+		var terra_info_service  = "Pubv7";
+		var terra_info_type  = "CAP";
+		var terra_info_clssfctn = "novo_portal";
+		
+		var terra_info_pagetype = "home";
+		var terra_stats_dvctype = "web";
+		
+		
+		//Context
+		window.trr = {};
+		
+		window.trr.contextData = {
+		    device : "web",
+		    lang : "pt-BR",
+		    country : "br",
+		    channelId : "20e07ef2795b2310VgnVCM3000009af154d0RCRD",
+		    idItemMenu: "home",
+		    socialreader : false,
+		    
+		    
+		    
+		    
+		    liveTicker: {
+				idItemMenu: "home",
+				countryLive: "br"
+ 			}
+    
+		}
+	</script><noscript><!--  no script mess here --></noscript>
+
+    <script type="text/javascript"> 
+        /***** FEED TAGMAN-TGMKEYS ****/
+        var tempTgm = [{ "channel": [ "br.carnaval","br.lifestyle_spfw","br.specials_suapele","br.lifestyle_dormirbem","br.lifestyle_saudebucal","br.lifestyle_alimentacaoinfantil","br.economy_vidadeempresario","br.specials_cabelos","br.lifestyle_cruzeiros","br.economy","br.lifestyle_moda","br.specials_diadasmaes","br.lifestyle_carinho","br.lifestyle_diadosnamorados","br.news_inovacoestecnologicas","br.conteudopublicitario_napster","br.conteudopublicitario_terraads","br.conteudopublicitario_symantec","br.lifestyle_artigosdaada","br.lifestyle_atualidades","br.lifestyle_boahigieneoral","br.lifestyle_tratamentosdentais","br.news_ecommerce","br.economy_salaodoautomovelsp","br.entertainment_cifraclub","br.cobranded_idgnow","br.conteudopublicitario_chevrolet","br.lifestyle_sorrisoinstantaneo","br.conteudopublicitario_vivo","br.lifestyle_turismointernacional","br.conteudopublicitario_vivotrave","br.conteudopublicitario_fiat","br.economy_consumidor","br.conteudopublicitario_boeing","br.conteudopublicitario_gillette","br.conteudopublicitario_minturism" ]}];
+        if(tempTgm.length > 0)
+        {
+            window.tgmkeys =  tempTgm[0];
+        }else{
+            window.tgmkeys = [];
+        }   
+        /***** FEED TAGMAN-TGMKEYS ****/
+    </script>
+
+	<script type="text/javascript">
+        /***** FEED LIVE ****/
+        window.feedLive = ﻿{} ;
+        /***** FEED LIVE ****/
+	</script>
+	
+	<script type="text/javascript">
+        // croupier - 20e07ef2795b2310VgnVCM3000009af154d0RCRD
+        /***** FEED CROUPIER ****/
+        var timeline_cb = {"status": 200, "message": "Success", "num_pages": 8, "uuid": "c59f8294-c0a2-42cd-bf7a-8edad0726185", "created": "28-01-2015 22:17:05", "hostname": "1gv", "version": 1, "details": null, "cards": [{"reason_detail": 1, "fixedPosition": "1", "expirationDate": null, "tgmKey": null, "logo": null, "cartola": null, "id": "194510", "subTitle": null, "title": "Principais Hist\u00f3rias (8 itens)", "label": "Principais Hist\u00f3rias (8 itens)", "source": null, "type": "A", "reason_detail_score": "i:0.00,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:0.00", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "f", "date": "2014-12-09 12:56:41 -0200", "configs": {"cardsizes": ["h2"]}, "publishedTime": 1422483122000, "name": "TOP-STORIES", "croupier": {"reasons": {"f": {"position": 1}}, "score": "i:0.00,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:0.00"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 18:25:11 -0200", "subTitle": null, "socialURL": "http://economia.terra.com.br/,e5b54d68ee13b410VgnCLD200000b1bf46d0RCRD.html", "publishedDate": "2015-01-28 18:25:11 -0200", "url": "http://economia.terra.com.br/petrobras-despenca-10-e-leva-bovespa-a-fechar-em-baixa,e5b54d68ee13b410VgnCLD200000b1bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/negocios-energia-petrobras-producao.JPG", "verticalCrop": null, "alt": "Presidente da Petrobras, Maria das Gra\u00e7as Foster, em foto de arquivo em Bras\u00edlia. 01/08/2014 Foto: Ueslei Marcelino/Reuters", "horizontalCrop": null, "squareCrop": null}, "title": "Petrobras despenca 10% e leva Bovespa a fechar em baixa", "locations": null, "id": "e5b54d68ee13b410VgnCLD200000b1bf46d0RCRD", "channels": [{"hide": false, "name": "Economia", "reference": true, "title": "Economia: mercado, finan\u00e7as, bolsa de valores e dinheiro - Terra", "url": "http://economia.terra.com.br/", "description": "Not\u00edcias da economia do Brasil e do mundo. Tudo sobre imposto de renda, mercado financeiro, cota\u00e7\u00f5es, d\u00f3lar, investimentos, empresas e conversor de moedas.", "usedInURL": true, "label": "Economia", "metricsChannel": "br.noticias.economia", "originalPath": "/Home/Economia", "path": "Brasil.economia", "metricsSiteId": "300035", "id": "6f22bd10e1c4a310VgnVCM4000009bcceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=e5b54d68ee13b410VgnCLD200000b1bf46d0RCRD", "configs": null, "fullTitle": "Petrobras despenca 10% e leva Bovespa a fechar em baixa"}, {"category": "N", "firstPublishedDate": "2015-01-28 18:59:48 -0200", "subTitle": null, "socialURL": "http://diversao.terra.com.br/carnaval/,02432fb12123b410VgnCLD200000b2bf46d0RCRD.html", "publishedDate": "2015-01-28 19:01:53 -0200", "url": "http://diversao.terra.com.br/carnaval/comeca-venda-de-ingressos-remanescentes-para-desfiles-no-rj,02432fb12123b410VgnCLD200000b2bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2014/03/09/paloma-bernardi-7.jpg", "verticalCrop": null, "alt": "Foto: AgNews", "horizontalCrop": null, "squareCrop": null}, "title": "Come\u00e7a venda de ingressos remanescentes para desfiles no RJ", "locations": null, "id": "02432fb12123b410VgnCLD200000b2bf46d0RCRD", "channels": [{"hide": false, "name": "Carnaval", "reference": true, "title": "Carnaval 2015: Desfiles, escolas, famosos e mais - Terra", "url": "http://diversao.terra.com.br/carnaval/", "description": "Confira tudo na melhor cobertura do Carnaval 2015 do Rio de Janeiro, S\u00e3o Paulo, Salvador e mais. Tudo sobre os desfiles, blocos, sambas-enredo, famosos e muito mais.", "usedInURL": true, "label": "Carnaval ", "metricsChannel": "br.diversao.carnaval", "originalPath": "/Home/Divers\u00e3o/Carnaval", "path": "Brasil.diversao.carnaval", "logo": "http://images.terra.com/2015/01/20/carnaval3.png", "metricsSiteId": "510176", "id": "dd8becf8e03bb310VgnVCM3000009acceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=02432fb12123b410VgnCLD200000b2bf46d0RCRD", "configs": null, "fullTitle": "Come\u00e7a venda de ingressos remanescentes para desfiles no RJ"}, {"category": "N", "firstPublishedDate": "2015-01-28 17:58:50 -0200", "subTitle": null, "socialURL": "http://economia.terra.com.br/,2445ce541c13b410VgnCLD200000b2bf46d0RCRD.html", "publishedDate": "2015-01-28 17:58:50 -0200", "url": "http://economia.terra.com.br/dolar-avanca-ante-real-e-fecha-a-r-257-de-olho-nos-eua,2445ce541c13b410VgnCLD200000b2bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/negocios-mercados-globales.JPG", "verticalCrop": null, "alt": "Un hombre observa una pantalla electr\u00f3nica que muestra \u00edndices econ\u00f3micos en Tokio. Imagen de archivo, 6 enero, 2015. Las bolsas de Asia sub\u00edan el mi\u00e9rcoles mientras los inversores especulan si la Reserva Federal de Estados Unidos tomar\u00e1 un giro moderado en su comunicado al final de su reuni\u00f3n de pol\u00edtica monetaria m\u00e1s tarde en la sesi\u00f3n, en medio de se\u00f1ales de que un fortalecimiento del d\u00f3lar est\u00e1 debilitando las ganancias corporativas. Foto: Issei Kato/Reuters", "horizontalCrop": null, "squareCrop": null}, "title": "D\u00f3lar avan\u00e7a ante real e fecha a R$ 2,57 de olho nos EUA", "locations": null, "id": "2445ce541c13b410VgnCLD200000b2bf46d0RCRD", "channels": [{"hide": false, "name": "Economia", "reference": true, "title": "Economia: mercado, finan\u00e7as, bolsa de valores e dinheiro - Terra", "url": "http://economia.terra.com.br/", "description": "Not\u00edcias da economia do Brasil e do mundo. Tudo sobre imposto de renda, mercado financeiro, cota\u00e7\u00f5es, d\u00f3lar, investimentos, empresas e conversor de moedas.", "usedInURL": true, "label": "Economia", "metricsChannel": "br.noticias.economia", "originalPath": "/Home/Economia", "path": "Brasil.economia", "metricsSiteId": "300035", "id": "6f22bd10e1c4a310VgnVCM4000009bcceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=2445ce541c13b410VgnCLD200000b2bf46d0RCRD", "configs": null, "fullTitle": "D\u00f3lar avan\u00e7a ante real e fecha a R$ 2,57 de olho nos EUA"}, {"category": "N", "firstPublishedDate": "2015-01-28 19:55:20 -0200", "subTitle": null, "socialURL": "http://www.istoe.com.br/reportagens/402194_CERVERO+SEGUE+ESTRATEGIA+DE+ADVOGADOS+E+FICA+EM+SILENCIO+EM+DEPOIMENTO+A+PF?pathImagens=&path=&actualArea=internalPage", "publishedDate": "2015-01-28 19:55:20 -0200", "url": "http://www.istoe.com.br/reportagens/402194_CERVERO+SEGUE+ESTRATEGIA+DE+ADVOGADOS+E+FICA+EM+SILENCIO+EM+DEPOIMENTO+A+PF?pathImagens=&path=&actualArea=internalPage", "image": {"url": "http://images.terra.com/2014/12/15/negocios-energia-petrobras-investigacao.JPG", "verticalCrop": "/355/533/440/0/", "alt": "O ex-diretor da \u00e1rea internacional da Petrobras, Nestor Cerver\u00f3, em Bras\u00edlia. 02/12/2014 Foto: Ueslei Marcelino/Reuters", "horizontalCrop": "/795/533/3/0/", "squareCrop": "/533/533/245/0/"}, "title": "Cerver\u00f3 segue estrat\u00e9gia de advogados e se silencia na PF", "locations": null, "id": "558494", "channels": null, "mobile": null, "configs": null, "fullTitle": "Cerver\u00f3 segue estrat\u00e9gia de advogados e se silencia na PF"}, {"category": "N", "firstPublishedDate": "2015-01-28 16:05:04 -0200", "subTitle": null, "socialURL": "http://noticias.terra.com.br/mundo/oriente-medio/,69149d67fa13b410VgnVCM4000009bcceb0aRCRD.html", "publishedDate": "2015-01-28 16:05:04 -0200", "url": "http://noticias.terra.com.br/mundo/oriente-medio/estado-islamico-liberta-refens-japones-e-jordaniano-diz-tv,69149d67fa13b410VgnVCM4000009bcceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/27/mundo-japao-sequestro-militantes.JPG", "verticalCrop": null, "alt": "Imagem do jornalista japon\u00eas Kenji Goto exibida em tel\u00e3o em T\u00f3quio. 25/01/2015 Foto: Yuya Shino/Reuters", "horizontalCrop": null, "squareCrop": null}, "title": "Estado Isl\u00e2mico liberta ref\u00e9ns japon\u00eas e jordaniano, diz TV", "locations": null, "id": "69149d67fa13b410VgnVCM4000009bcceb0aRCRD", "channels": [{"hide": false, "name": "Oriente M\u00e9dio", "reference": true, "title": "Oriente M\u00e9dio: \u00faltimas informa\u00e7\u00f5es e novidades - Terra", "url": "http://noticias.terra.com.br/mundo/oriente-medio/", "description": "Confira as \u00faltimas not\u00edcias do Oriente m\u00e9dio, tudo sobre pol\u00edtica, diplomacia, conflitos, curiosidades e mais.", "usedInURL": true, "label": "Oriente M\u00e9dio", "metricsChannel": "br.noticias.mundo", "originalPath": "/Home/Not\u00edcias/Mundo/Oriente M\u00e9dio", "path": "Brasil.noticias.mundo.oriente-medio", "metricsSiteId": "300034", "id": "4fd5316871bf3310VgnVCM3000009af154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=69149d67fa13b410VgnVCM4000009bcceb0aRCRD", "configs": null, "fullTitle": "Estado Isl\u00e2mico liberta ref\u00e9ns japon\u00eas e jordaniano, diz TV"}, {"category": "N", "firstPublishedDate": "2015-01-28 19:19:41 -0200", "subTitle": null, "socialURL": "http://noticias.terra.com.br/brasil/,b32b72966323b410VgnCLD200000b1bf46d0RCRD.html", "publishedDate": "2015-01-28 19:19:41 -0200", "url": "http://noticias.terra.com.br/brasil/governo-pedira-no-stf-liberacao-de-lista-de-trabalho-escravo,b32b72966323b410VgnCLD200000b1bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2014/11/18/eco-18112014-trabalho-escravo-ecod.jpg", "verticalCrop": null, "alt": "Foto: Eco Desenvolvimento", "horizontalCrop": null, "squareCrop": null}, "title": "Governo pedir\u00e1 no STF libera\u00e7\u00e3o de lista de trabalho escravo", "locations": [{"city": null, "country": "br", "longitude": "-53.2", "countryName": "Brasil", "state": null, "latitude": "-10.3333333"}], "id": "b32b72966323b410VgnCLD200000b1bf46d0RCRD", "channels": [{"hide": false, "name": "Brasil", "reference": true, "title": "Not\u00edcias do Brasil: pol\u00edtica, pol\u00edcia, tr\u00e2nsito e sua cidade - Terra", "url": "http://noticias.terra.com.br/brasil/", "description": "Confira as \u00faltimas not\u00edcias, fotos e v\u00eddeos do Brasil, casos de pol\u00edticos e corrup\u00e7\u00e3o, crimes e investiga\u00e7\u00f5es policiais, o tr\u00e2nsito das principais cidades e muito mais.", "usedInURL": true, "label": "Brasil", "metricsChannel": "br.noticias.brasil", "originalPath": "/Home/Not\u00edcias/Brasil", "path": "Brasil.noticias.brasil", "metricsSiteId": "300033", "id": "5a94baa8deb05310VgnVCM4000009bf154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=b32b72966323b410VgnCLD200000b1bf46d0RCRD", "configs": null, "fullTitle": "Governo pedir\u00e1 no STF libera\u00e7\u00e3o de lista de trabalho escravo"}, {"category": "N", "firstPublishedDate": "2015-01-28 11:05:06 -0200", "subTitle": null, "socialURL": "http://esportes.terra.com.br/volei/,076ef5633903b410VgnVCM4000009bcceb0aRCRD.html", "publishedDate": "2015-01-28 11:26:33 -0200", "url": "http://esportes.terra.com.br/volei/fabiana-e-chamada-de-macaca-em-jogo-da-superliga-em-mg,076ef5633903b410VgnVCM4000009bcceb0aRCRD.html", "image": {"url": "http://images.terra.com/2014/10/24/fabianaclaudinovoleigetty.jpg", "verticalCrop": null, "alt": "Foto: Dino Panato/Getty Images ", "horizontalCrop": null, "squareCrop": null}, "title": "Fabiana \u00e9 chamada de \"macaca\" em jogo da Superliga em MG", "locations": null, "id": "076ef5633903b410VgnVCM4000009bcceb0aRCRD", "channels": [{"hide": false, "name": "V\u00f4lei", "reference": true, "title": "V\u00f4lei: Liga Mundial, Grand Prix, Superliga Feminina e Masculina e mais - Terra", "url": "http://esportes.terra.com.br/volei/", "description": "Tudo sobre V\u00f4lei: masculino, feminino, campeonatos - Liga Mundial, Grand Prix, Superliga - e mais.", "usedInURL": true, "label": "V\u00f4lei", "metricsChannel": "br.esportes.volei", "originalPath": "/Home/Esportes/V\u00f4lei", "path": "Brasil.esportes.volei", "metricsSiteId": "300132", "id": "4a125f10e8b99310VgnVCM4000009bcceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=076ef5633903b410VgnVCM4000009bcceb0aRCRD", "configs": null, "fullTitle": "Fabiana \u00e9 chamada de \"macaca\" em jogo da Superliga em MG"}, {"category": "N", "firstPublishedDate": "2015-01-28 13:36:00 -0200", "subTitle": null, "socialURL": "http://noticias.terra.com.br/brasil/,99d596734c03b410VgnCLD200000b1bf46d0RCRD.html", "publishedDate": "2015-01-28 13:36:00 -0200", "url": "http://noticias.terra.com.br/brasil/jovens-assassinados-entre-2013-e-2019-podem-passar-de-42-mil,99d596734c03b410VgnCLD200000b1bf46d0RCRD.html", "image": null, "title": "Jovens assassinados entre 2013 e 2019 podem passar de 42 mil", "locations": [{"city": null, "country": "br", "longitude": "-53.2", "countryName": "Brasil", "state": null, "latitude": "-10.3333333"}], "id": "99d596734c03b410VgnCLD200000b1bf46d0RCRD", "channels": [{"hide": false, "name": "Brasil", "reference": true, "title": "Not\u00edcias do Brasil: pol\u00edtica, pol\u00edcia, tr\u00e2nsito e sua cidade - Terra", "url": "http://noticias.terra.com.br/brasil/", "description": "Confira as \u00faltimas not\u00edcias, fotos e v\u00eddeos do Brasil, casos de pol\u00edticos e corrup\u00e7\u00e3o, crimes e investiga\u00e7\u00f5es policiais, o tr\u00e2nsito das principais cidades e muito mais.", "usedInURL": true, "label": "Brasil", "metricsChannel": "br.noticias.brasil", "originalPath": "/Home/Not\u00edcias/Brasil", "path": "Brasil.noticias.brasil", "metricsSiteId": "300033", "id": "5a94baa8deb05310VgnVCM4000009bf154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=99d596734c03b410VgnCLD200000b1bf46d0RCRD", "configs": null, "fullTitle": "Jovens assassinados entre 2013 e 2019 podem passar de 42 mil"}], "time": 1418137001000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422612549, "tgmKey": "br.news_brasil", "logo": null, "cartola": {"url": "http://noticias.terra.com.br/brasil/", "label": "Brasil"}, "id": "558515", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:6.000998,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:6.001", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 20:09:09 -0200", "configs": {"idItemMenu": "not-bras"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:6.000998,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:6.001"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 19:51:15 -0200", "subTitle": null, "socialURL": "http://noticias.terra.com.br/brasil/,171035b4b423b410VgnCLD200000b2bf46d0RCRD.html", "publishedDate": "2015-01-28 19:51:15 -0200", "url": "http://noticias.terra.com.br/brasil/youssef-diz-que-pagava-propina-a-mando-de-agentes-politicos,171035b4b423b410VgnCLD200000b2bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2014/10/28/youssefestadodesaudetwitter.jpg", "verticalCrop": null, "alt": "Foto: Twitter", "horizontalCrop": null, "squareCrop": null}, "title": "Youssef diz que pagava propina a mando de agentes pol\u00edticos", "locations": [{"city": null, "country": "br", "longitude": "-53.2", "countryName": "Brasil", "state": null, "latitude": "-10.3333333"}], "id": "171035b4b423b410VgnCLD200000b2bf46d0RCRD", "channels": [{"hide": false, "name": "Brasil", "reference": true, "title": "Not\u00edcias do Brasil: pol\u00edtica, pol\u00edcia, tr\u00e2nsito e sua cidade - Terra", "url": "http://noticias.terra.com.br/brasil/", "description": "Confira as \u00faltimas not\u00edcias, fotos e v\u00eddeos do Brasil, casos de pol\u00edticos e corrup\u00e7\u00e3o, crimes e investiga\u00e7\u00f5es policiais, o tr\u00e2nsito das principais cidades e muito mais.", "usedInURL": true, "label": "Brasil", "metricsChannel": "br.noticias.brasil", "originalPath": "/Home/Not\u00edcias/Brasil", "path": "Brasil.noticias.brasil", "metricsSiteId": "300033", "id": "5a94baa8deb05310VgnVCM4000009bf154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=171035b4b423b410VgnCLD200000b2bf46d0RCRD", "configs": null, "fullTitle": "Youssef diz que pagava propina a mando de agentes pol\u00edticos"}], "time": 1422482949000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422612549, "tgmKey": "br.sports_copadelrey", "logo": null, "cartola": {"url": "http://esportes.terra.com.br/futebol/internacional/espanha/copa-do-rei/", "label": "Copa do Rei"}, "id": "558516", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:6.000995,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:6.001", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 20:09:09 -0200", "configs": {"idItemMenu": "esp-futb-fint-crei"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:6.000995,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:6.001"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 20:00:02 -0200", "subTitle": null, "socialURL": "http://esportes.terra.com.br/futebol/internacional/espanha/copa-do-rei/,d036ce0d9723b410VgnVCM4000009bcceb0aRCRD.html", "publishedDate": "2015-01-28 20:16:54 -0200", "url": "http://esportes.terra.com.br/futebol/internacional/espanha/copa-do-rei/neymar-brilha-mas-ve-espanhol-provocar-com-7-x-1,d036ce0d9723b410VgnVCM4000009bcceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/neymarouvegerardjulienafp.jpg", "verticalCrop": "/1153/1734/1066/0/", "alt": "Neymar festeja belo gol no duelo contra o Atl\u00e9tico de Madrid Foto: Gerard Julien/AFP", "horizontalCrop": null, "squareCrop": "/1734/1734/867/0/"}, "title": "Neymar brilha, mas v\u00ea espanhol provocar com \"7 x 1\"", "locations": null, "id": "d036ce0d9723b410VgnVCM4000009bcceb0aRCRD", "channels": [{"hide": true, "name": "Copa do Rei", "reference": true, "title": "Futebol Espanhol: Copa Do Rei - Terra", "url": "http://esportes.terra.com.br/futebol/internacional/espanha/copa-do-rei/", "description": "Confira todas as informa\u00e7\u00f5es da Copa Do Rei do Futebol Espanhol: cobertura ao vivo, tabela de jogos e classifica\u00e7\u00e3o, artilheiros, v\u00eddeos e mais.", "usedInURL": true, "label": "Copa do Rei", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol/Internacional/Espanha/Copa do Rei", "path": "Brasil.esportes.futebol.internacional.espanha.copa-do-rei", "metricsSiteId": "510063", "id": "a6a893b9ea199310VgnVCM4000009bcceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=d036ce0d9723b410VgnVCM4000009bcceb0aRCRD", "configs": null, "fullTitle": "Neymar brilha, mas v\u00ea espanhol provocar com \"7 x 1\""}], "time": 1422482949000}, {"reason_detail": 4, "fixedPosition": "4", "expirationDate": null, "tgmKey": null, "logo": null, "cartola": null, "id": "2583", "subTitle": null, "title": null, "label": null, "source": null, "type": "A", "reason_detail_score": "i:0.00,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:0.00", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "f", "date": "2014-12-18 09:17:04 -0200", "configs": null, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"f": {"position": 4}}, "score": "i:0.00,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:0.00"}, "url": null, "items": [{"category": "WEATHER", "firstPublishedDate": "2014-02-14 17:51:14 -0200", "subTitle": null, "socialURL": null, "publishedDate": "2014-05-16 18:35:07 -0300", "url": null, "image": null, "title": "[Clima]", "locations": null, "id": "2583", "channels": null, "configs": {"cardsizes": ["w2h2"]}, "fullTitle": "[Clima]"}], "time": 1418901424000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422606703, "tgmKey": "br.news_brasil", "logo": null, "cartola": {"url": "http://noticias.terra.com.br/brasil/", "label": "Brasil"}, "id": "558317", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:6.000993,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:6.001", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 18:31:43 -0200", "configs": {"idItemMenu": "not-bras"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:6.000993,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:6.001"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 18:19:14 -0200", "subTitle": null, "socialURL": "http://noticias.terra.com.br/brasil/,98634d68ee13b410VgnCLD200000b1bf46d0RCRD.html", "publishedDate": "2015-01-28 18:23:54 -0200", "url": "http://noticias.terra.com.br/brasil/45-dos-brasileiros-fizeram-sexo-sem-camisinha-em-2013,98634d68ee13b410VgnCLD200000b1bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/camisinha.jpg", "verticalCrop": null, "alt": "Foto: iStock", "horizontalCrop": null, "squareCrop": null}, "title": "45% dos brasileiros fizeram sexo sem camisinha em 2013", "locations": null, "id": "98634d68ee13b410VgnCLD200000b1bf46d0RCRD", "channels": [{"hide": false, "name": "Brasil", "reference": true, "title": "Not\u00edcias do Brasil: pol\u00edtica, pol\u00edcia, tr\u00e2nsito e sua cidade - Terra", "url": "http://noticias.terra.com.br/brasil/", "description": "Confira as \u00faltimas not\u00edcias, fotos e v\u00eddeos do Brasil, casos de pol\u00edticos e corrup\u00e7\u00e3o, crimes e investiga\u00e7\u00f5es policiais, o tr\u00e2nsito das principais cidades e muito mais.", "usedInURL": true, "label": "Brasil", "metricsChannel": "br.noticias.brasil", "originalPath": "/Home/Not\u00edcias/Brasil", "path": "Brasil.noticias.brasil", "metricsSiteId": "300033", "id": "5a94baa8deb05310VgnVCM4000009bf154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=98634d68ee13b410VgnCLD200000b1bf46d0RCRD", "configs": null, "fullTitle": "45% dos brasileiros fizeram sexo sem camisinha em 2013"}], "time": 1422477103000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422601482, "tgmKey": "br.futebol", "logo": null, "cartola": {"url": "http://esportes.terra.com.br/futebol/", "label": "Futebol"}, "id": "558103", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:3.000990,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:3.001", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 17:04:42 -0200", "configs": {"idItemMenu": "esp-futb"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:3.000990,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:3.001"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 16:26:10 -0200", "subTitle": null, "socialURL": "http://esportes.terra.com.br/futebol/,696bce541c13b410VgnCLD200000b2bf46d0RCRD.html", "publishedDate": "2015-01-28 16:58:19 -0200", "url": "http://esportes.terra.com.br/futebol/arsenal-da-sensacao-da-copa-e-mais-r-43-mi-por-brasileiro,696bce541c13b410VgnCLD200000b2bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/gabrielpaulistaarsenalposareptwitter.jpg", "verticalCrop": null, "alt": "Foto: Twitter/Reprodu\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": null}, "title": "Arsenal d\u00e1 sensa\u00e7\u00e3o da Copa e mais R$ 43 mi por brasileiro", "locations": [{"city": null, "country": "br", "longitude": "-53.2", "countryName": "Brasil", "state": null, "latitude": "-10.3333333"}, {"city": null, "country": "gb", "longitude": "-3.2765753", "countryName": "Reino Unido", "state": null, "latitude": "54.7023545"}], "id": "696bce541c13b410VgnCLD200000b2bf46d0RCRD", "channels": [{"hide": false, "name": "Vit\u00f3ria", "reference": true, "title": "Vit\u00f3ria: jogos, estat\u00edsticas e fotos \u2013 Terra", "url": "http://esportes.terra.com.br/vitoria/", "label": "Vit\u00f3ria", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Equipes/Vit\u00f3ria", "path": "Brasil.esportes.equipes.vitoria", "logo": "http://images.terra.com/2012/10/23/vitoria.jpg", "metricsSiteId": "300845", "id": "9680d4628d39a310VgnVCM20000099cceb0aRCRD", "description": "Not\u00edcias e informa\u00e7\u00f5es sobre Vit\u00f3ria. Confira a lista de jogos, fotos, estat\u00edstica da temporada e um pouco da hist\u00f3ria do seu time de futebol favorito."}, {"hide": false, "name": "Campeonato Ingl\u00eas", "reference": true, "title": "Premier League. Campeonato Ingl\u00eas: Jogos Ao Vivo, not\u00edcias e fotos \u2013 Terra", "url": "http://esportes.terra.com.br/futebol/internacional/inglaterra/campeonato-ingles/", "label": "Campeonato Ingl\u00eas", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol/Internacional/Inglaterra/Campeonato Ingl\u00eas", "path": "Brasil.esportes.futebol.internacional.inglaterra.campeonato-ingles", "metricsSiteId": "510063", "id": "86bd93b9ea199310VgnVCM4000009bcceb0aRCRD", "description": "Premier League. Confira todas as informa\u00e7\u00f5es sobre o Campeonato Ingl\u00eas: cobertura ao vivo, tabela de jogos e classifica\u00e7\u00e3o, artilheiros, v\u00eddeos e mais\r\n"}, {"hide": false, "name": "Campeonato Espanhol", "reference": true, "title": "Campeonato Espanhol: Liga Espanhola Ao Vivo, Jogos e fotos - Terra", "url": "http://esportes.terra.com.br/futebol/internacional/espanha/campeonato-espanhol/", "label": "Campeonato Espanhol", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol/Internacional/Espanha/Campeonato Espanhol", "path": "Brasil.esportes.futebol.internacional.espanha.campeonato-espanhol", "metricsSiteId": "510063", "id": "03376be33a199310VgnVCM4000009bcceb0aRCRD", "description": "Confira todas as informa\u00e7\u00f5es sobre o Campeonato Espanhol - Liga BBVA: cobertura ao vivo, tabela de jogos e classifica\u00e7\u00e3o, artilheiros, v\u00eddeos e mais."}, {"hide": false, "name": "Futebol", "reference": true, "title": "Futebol: Jogos Ao Vivo, Brasileir\u00e3o, Libertadores, Europeu e tudo sobre seu time - Terra", "url": "http://esportes.terra.com.br/futebol/", "description": "Tudo sobre Futebol no Terra: clubes, jogos ao vivo, Brasileir\u00e3o, Copa do Brasil, campeonatos estaduais, Copa 2014, Libertadores e Futebol Europeu. Fotos, v\u00eddeos, tabelas, classifica\u00e7\u00e3o, artilheiros e mais.", "usedInURL": true, "label": "Futebol", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol", "path": "Brasil.esportes.futebol", "metricsSiteId": "300549", "id": "04d1b3f715879310VgnVCM5000009ccceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=696bce541c13b410VgnCLD200000b2bf46d0RCRD", "configs": null, "fullTitle": "Arsenal d\u00e1 sensa\u00e7\u00e3o da Copa e mais R$ 43 mi por brasileiro"}], "time": 1422471882000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422604230, "tgmKey": "br.sports_futebolamericano", "logo": null, "cartola": {"url": "http://esportes.terra.com.br/futebol-americano/", "label": "Futebol Americano"}, "id": "558270", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:3.000988,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:3.001", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 17:50:30 -0200", "configs": {"idItemMenu": "esp-fame"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:3.000988,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:3.001"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 17:47:06 -0200", "subTitle": null, "socialURL": "http://esportes.terra.com.br/futebol-americano/,48b9e7d30123b410VgnVCM5000009ccceb0aRCRD.html", "publishedDate": "2015-01-28 18:33:30 -0200", "url": "http://esportes.terra.com.br/futebol-americano/comerciais-do-super-bowl-nudez-e-kardashian-causam-polemica,48b9e7d30123b410VgnVCM5000009ccceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/23/charlottemckinneycarlsjrrep.jpg", "verticalCrop": "/540/812/402/0/", "alt": "Desnuda, Charlotte McKinney desfila por rua em propaganda Foto: Reprodu\u00e7\u00e3o", "horizontalCrop": "/1211/812/81/0/", "squareCrop": "/812/812/345/0/"}, "title": "Comerciais do Super Bowl: nudez e Kardashian causam pol\u00eamica", "locations": null, "id": "48b9e7d30123b410VgnVCM5000009ccceb0aRCRD", "channels": [{"hide": false, "name": "Futebol Americano", "reference": true, "title": "Futebol Americano: NFL, Super Bowl e mais \u2013 Terra", "url": "http://esportes.terra.com.br/futebol-americano/", "description": "Tudo sobre futebol americano: NFL, Super Bowl, principais times e jogadores, NFL draft e playoffs, tabela e classifica\u00e7\u00e3o e mais.", "usedInURL": true, "label": "Futebol Americano", "metricsChannel": "br.esportes.futebolamericano", "originalPath": "/Home/Esportes/Futebol Americano", "path": "Brasil.esportes.futebol-americano", "metricsSiteId": "300690", "id": "7e57230cf9699310VgnVCM5000009ccceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=48b9e7d30123b410VgnVCM5000009ccceb0aRCRD", "configs": null, "fullTitle": "Comerciais do Super Bowl: nudez e Kardashian causam pol\u00eamica"}], "time": 1422474630000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422608629, "tgmKey": "br.entertainment_gente", "logo": null, "cartola": {"url": "http://diversao.terra.com.br/gente/", "label": "Famosos"}, "id": "558345", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:3.000986,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:3.001", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 19:03:49 -0200", "configs": {"idItemMenu": "gent"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:3.000986,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:3.001"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 18:26:08 -0200", "subTitle": null, "socialURL": "http://diversao.terra.com.br/gente/,33622fb12123b410VgnCLD200000b2bf46d0RCRD.html", "publishedDate": "2015-01-28 18:54:47 -0200", "url": "http://diversao.terra.com.br/gente/aos-82-anos-ator-vencedor-do-oscar-assume-homossexualidade,33622fb12123b410VgnCLD200000b2bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/cultura-gente-joelgrey-gay.JPG", "verticalCrop": null, "alt": "Joel Grey em evento de 40 anos do filme \"Cabaret\" em Hollywood. 12/04/2012. Foto: Fred Prouser/Reuters", "horizontalCrop": "/800/537/0/0/", "squareCrop": null}, "title": "Aos 82 anos, ator vencedor do Oscar assume homossexualidade", "locations": null, "id": "33622fb12123b410VgnCLD200000b2bf46d0RCRD", "channels": [{"hide": false, "name": "Gente", "reference": true, "title": "Gente: not\u00edcias, fotos e v\u00eddeos de famosos  e mais - Terra", "url": "http://diversao.terra.com.br/gente/", "description": "Not\u00edcias dos famosos, v\u00eddeos, fotos sensuais de mulheres e homens famosos e mais.\r\n", "usedInURL": true, "label": "Famosos", "metricsChannel": "br.diversao.gente", "originalPath": "/Home/Divers\u00e3o/Gente", "keywords": "famosos, gente", "path": "Brasil.diversao.gente", "metricsSiteId": "300169", "id": "2301493d73088310VgnVCM4000009bcceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=33622fb12123b410VgnCLD200000b2bf46d0RCRD", "configs": null, "fullTitle": "Aos 82 anos, ator vencedor do Oscar assume homossexualidade"}], "time": 1422479029000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422610385, "tgmKey": "br.news_brasil", "logo": null, "cartola": {"url": "http://noticias.terra.com.br/brasil/cidades/", "label": "Cidades"}, "id": "558428", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500983,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 19:33:05 -0200", "configs": {"idItemMenu": "not-bras-cida"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500983,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 19:12:06 -0200", "subTitle": null, "socialURL": "http://noticias.terra.com.br/brasil/cidades/,e15ccab37223b410VgnVCM4000009bcceb0aRCRD.html", "publishedDate": "2015-01-28 19:12:06 -0200", "url": "http://noticias.terra.com.br/brasil/cidades/vc-reporter-sesc-e-criticado-por-remover-desenho-com-agua,e15ccab37223b410VgnVCM4000009bcceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/desperdicio-agua-sesc-pinheirosvc-reporterluciano-malaquias-muller.JPG", "verticalCrop": "/362/545/357/231/", "alt": "Foto: Luciano Malaquias Muller/vc rep\u00f3rter", "horizontalCrop": "/877/589/244/262/", "squareCrop": "/692/692/253/152/"}, "title": "vc rep\u00f3rter: Sesc \u00e9 criticado por remover desenho com \u00e1gua", "locations": [{"city": "S\u00e3o Paulo", "country": "br", "longitude": "-46.637365", "countryName": "Brasil", "state": "S\u00e3o Paulo", "latitude": "-23.5476397"}], "id": "e15ccab37223b410VgnVCM4000009bcceb0aRCRD", "channels": [{"hide": false, "name": "Cidades", "reference": true, "title": "Not\u00edcias das cidades e capitais do Brasil - Terra", "url": "http://noticias.terra.com.br/brasil/cidades/", "description": "Confira as principais not\u00edcias das capitais e grandes cidades do Brasil. Acompanhe o dia a dia das cidades brasileiras no Terra.", "usedInURL": true, "label": "Cidades", "metricsChannel": "br.noticias.brasil", "originalPath": "/Home/Not\u00edcias/Brasil/Cidades", "path": "Brasil.noticias.brasil.cidades", "metricsSiteId": "300033", "id": "edc151a77fb05310VgnVCM4000009bf154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=e15ccab37223b410VgnVCM4000009bcceb0aRCRD", "configs": null, "fullTitle": "vc rep\u00f3rter: Sesc \u00e9 criticado por remover desenho com \u00e1gua"}], "time": 1422480785000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422610661, "tgmKey": "br.sports_lutas", "logo": null, "cartola": {"url": "http://esportes.terra.com.br/lutas/mma/", "label": "MMA"}, "id": "558399", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500981,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 19:37:41 -0200", "configs": {"idItemMenu": "esp-luta-mma"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500981,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 18:56:03 -0200", "subTitle": null, "socialURL": "http://esportes.terra.com.br/lutas/mma/,9c651d763423b410VgnVCM5000009ccceb0aRCRD.html", "publishedDate": "2015-01-28 19:02:46 -0200", "url": "http://esportes.terra.com.br/lutas/mma/nick-diaz-perde-voo-e-treino-aberto-tera-so-anderson-silva,9c651d763423b410VgnVCM5000009ccceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/nickdiazleiteinstarep.jpg", "verticalCrop": null, "alt": "Foto: Instagram/Reprodu\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": null}, "title": "Nick Diaz perde voo, e treino aberto ter\u00e1 s\u00f3 Anderson Silva", "locations": [{"city": "Las Vegas", "country": "us", "longitude": "-115.149225", "countryName": "Estados Unidos da Am\u00e9rica", "state": "Nevada", "latitude": "36.1662859"}, {"city": null, "country": "br", "longitude": "-53.2", "countryName": "Brasil", "state": null, "latitude": "-10.3333333"}], "id": "9c651d763423b410VgnVCM5000009ccceb0aRCRD", "channels": [{"hide": false, "name": "MMA", "reference": true, "title": "MMA: torneios, UFC, principais lutadores e mais - Lutas - Terra", "url": "http://esportes.terra.com.br/lutas/mma/", "description": "Confira tudo sobre MMA e seus principais torneios: UFC, principais lutadores e mais.", "usedInURL": true, "label": "MMA", "metricsChannel": "br.esportes.lutas", "originalPath": "/Home/Esportes/Lutas/MMA", "path": "Brasil.esportes.lutas.mma", "metricsSiteId": "300688", "id": "8541835bbd699310VgnVCM5000009ccceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=9c651d763423b410VgnVCM5000009ccceb0aRCRD", "configs": null, "fullTitle": "Nick Diaz perde voo, e treino aberto ter\u00e1 s\u00f3 Anderson Silva"}], "time": 1422481061000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": null, "tgmKey": "br.entertainment_bbb", "logo": null, "cartola": {"url": "http://diversao.terra.com.br/tv/bbb/", "label": "BBB15"}, "id": "553694", "subTitle": null, "title": "BBB15", "label": "BBB15", "source": null, "type": "P", "reason_detail_score": "i:2.500979,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-26 07:43:21 -0200", "configs": {"idItemMenu": "tv-bbb"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500979,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": "http://diversao.terra.com.br/tv/bbb/", "items": [{"category": "N", "firstPublishedDate": "2015-01-28 17:21:45 -0200", "subTitle": null, "socialURL": "http://diversao.terra.com.br/tv/bbb/,01b00186ce13b410VgnVCM4000009bcceb0aRCRD.html", "publishedDate": "2015-01-28 17:21:45 -0200", "url": "http://diversao.terra.com.br/tv/bbb/bbb15-quero-fazer-amor-com-voce-diz-fernando-para-aline,01b00186ce13b410VgnVCM4000009bcceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/alinefernandobbbfacebook.jpg", "verticalCrop": "/467/702/105/0/", "alt": "Foto: Facebook/Reprodu\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": null}, "title": "BBB15: \"Quero fazer amor com voc\u00ea\", diz Fernando para Aline", "locations": null, "id": "01b00186ce13b410VgnVCM4000009bcceb0aRCRD", "channels": [{"hide": false, "name": "BBB", "reference": true, "title": "BBB15: Participantes, Pared\u00e3o, Enquete, Cobertura Ao Vivo e Fotos do Big Brother Brasil 15 - Terra", "url": "http://diversao.terra.com.br/tv/bbb/", "description": "Acompanhe tudo o que acontece na casa do Big Brother Brasil 15. Veja os participantes, enquete, cobertura ao vivo, as \u00faltimas fotos e not\u00edcias, provas, festas e mais.", "usedInURL": true, "label": "BBB15", "metricsChannel": "br.diversao.tv", "originalPath": "/Home/Divers\u00e3o/TV/BBB", "path": "Brasil.diversao.tv.bbb", "metricsSiteId": "510511", "id": "1b80de113426b310VgnVCM3000009acceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=01b00186ce13b410VgnVCM4000009bcceb0aRCRD", "configs": null, "fullTitle": "BBB15: \"Quero fazer amor com voc\u00ea\", diz Fernando para Aline"}, {"category": "N", "firstPublishedDate": "2015-01-28 08:39:35 -0200", "subTitle": null, "socialURL": "http://diversao.terra.com.br/tv/sala-de-tv/blog/2015/01/28/francieli-foi-eliminada-por-falha-da-producao-e-inimigo-externo/", "publishedDate": "2015-01-28 11:00:20 -0200", "url": "http://diversao.terra.com.br/tv/sala-de-tv/blog/2015/01/28/francieli-foi-eliminada-por-falha-da-producao-e-inimigo-externo/", "image": {"url": "http://images.terra.com/2015/01/27/239155.jpg", "verticalCrop": "/1612/2424/509/145/", "alt": "Francieli disputa vaga na casa nesta ter\u00e7a-feira (27) Foto: TV Globo/Divulga\u00e7\u00e3o", "horizontalCrop": "/1742/1169/485/362/", "squareCrop": "/1249/1249/799/343/"}, "title": "Fran \u00e9 eliminada por falha da produ\u00e7\u00e3o e inimigo externo", "locations": null, "id": "557408", "channels": null, "mobile": null, "configs": null, "fullTitle": "Fran \u00e9 eliminada por falha da produ\u00e7\u00e3o e inimigo externo"}, {"category": "N", "firstPublishedDate": "2015-01-28 08:38:36 -0200", "subTitle": null, "socialURL": "http://diversao.terra.com.br/gente/spot/blog/2015/01/28/eliminada-franciele-culpa-o-bbb-o-erro-nao-foi-meu-foi-do-programa/", "publishedDate": "2015-01-28 08:38:36 -0200", "url": "http://diversao.terra.com.br/gente/spot/blog/2015/01/28/eliminada-franciele-culpa-o-bbb-o-erro-nao-foi-meu-foi-do-programa/", "image": {"url": "http://images.terra.com/2015/01/28/fm0007.jpg", "verticalCrop": null, "alt": "Foto: Divulga\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": null}, "title": "Eliminada, Francieli diz: \"n\u00e3o quero fama. Vou me isolar\"", "locations": null, "id": "557407", "channels": null, "mobile": null, "configs": null, "fullTitle": "Eliminada, Francieli diz: \"n\u00e3o quero fama. Vou me isolar\""}, {"category": "N", "firstPublishedDate": "2015-01-28 13:06:46 -0200", "subTitle": null, "socialURL": "http://diversao.terra.com.br/tv/bbb/,c3a5b11aff03b410VgnVCM4000009bcceb0aRCRD.html", "publishedDate": "2015-01-28 13:06:46 -0200", "url": "http://diversao.terra.com.br/tv/bbb/voce-nao-e-objeto-diz-rafael-para-talita,c3a5b11aff03b410VgnVCM4000009bcceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/26/bbbfernandotalita.jpg", "verticalCrop": "/399/600/18/0/", "alt": "Foto: TV Globo/Divulga\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": null}, "title": "'Voc\u00ea n\u00e3o \u00e9 objeto', diz Rafael para Talita", "locations": null, "id": "c3a5b11aff03b410VgnVCM4000009bcceb0aRCRD", "channels": [{"hide": false, "name": "BBB", "reference": true, "title": "BBB15: Participantes, Pared\u00e3o, Enquete, Cobertura Ao Vivo e Fotos do Big Brother Brasil 15 - Terra", "url": "http://diversao.terra.com.br/tv/bbb/", "description": "Acompanhe tudo o que acontece na casa do Big Brother Brasil 15. Veja os participantes, enquete, cobertura ao vivo, as \u00faltimas fotos e not\u00edcias, provas, festas e mais.", "usedInURL": true, "label": "BBB15", "metricsChannel": "br.diversao.tv", "originalPath": "/Home/Divers\u00e3o/TV/BBB", "path": "Brasil.diversao.tv.bbb", "metricsSiteId": "510511", "id": "1b80de113426b310VgnVCM3000009acceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=c3a5b11aff03b410VgnVCM4000009bcceb0aRCRD", "configs": null, "fullTitle": "'Voc\u00ea n\u00e3o \u00e9 objeto', diz Rafael para Talita"}], "time": 1422265401000}, {"reason_detail": "", "title": null, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-27 18:44:01 -0200", "socialURL": "http://diversao.terra.com.br/gente/,ee3ebf4cf1d2b410VgnVCM10000098cceb0aRCRD.html", "publishedDate": "2015-01-27 18:45:45 -0200", "url": "http://diversao.terra.com.br/gente/maoboba-menino-da-apalpada-e-fernanda-gentil-posta-foto,ee3ebf4cf1d2b410VgnVCM10000098cceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/27/fernanda-gentil-mao-boba-apalpada.png", "verticalCrop": null, "alt": null, "horizontalCrop": null}, "title": "#m\u00e3oboba: menino d\u00e1 apalpada e Fernanda Gentil posta foto", "channels": [{"name": "Gente", "url": "http://diversao.terra.com.br/gente/", "metricsChannel": "br.diversao.gente", "path": "Brasil.diversao.gente", "metricsSiteId": "300169", "id": "2301493d73088310VgnVCM4000009bcceb0aRCRD"}], "mobile": "http://m.terra.com.br/noticia?n=ee3ebf4cf1d2b410VgnVCM10000098cceb0aRCRD", "id": "ee3ebf4cf1d2b410VgnVCM10000098cceb0aRCRD"}], "croupier": {"reasons": {"s": {}}}, "label": null, "reason": "s", "date": "2015-01-28 18:18:52 -0800 ", "logo": null, "type": "N"}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422606703, "tgmKey": "br.news_ciencia", "logo": null, "cartola": {"url": "http://noticias.terra.com.br/ciencia/pesquisa/", "label": "Pesquisa"}, "id": "558329", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500976,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 18:31:43 -0200", "configs": {"idItemMenu": "not-cien-pesq"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500976,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 16:48:28 -0200", "subTitle": null, "socialURL": "http://noticias.terra.com.br/ciencia/pesquisa/,2b15971e1913b410VgnCLD200000b1bf46d0RCRD.html", "publishedDate": "2015-01-28 18:03:48 -0200", "url": "http://noticias.terra.com.br/ciencia/pesquisa/humanos-e-neandertais-conviveram-no-oriente-medio,2b15971e1913b410VgnCLD200000b1bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/craniohumanoap.jpg", "verticalCrop": null, "alt": "Pesquisador exibe um cr\u00e2nio antigo encontrado dentro de uma caverna israelense Foto: AP", "horizontalCrop": null, "squareCrop": null}, "title": "Humanos e neandertais conviveram no Oriente M\u00e9dio", "locations": [{"city": null, "country": "il", "longitude": "35.0015196", "countryName": "Israel", "state": null, "latitude": "30.8760272"}], "id": "2b15971e1913b410VgnCLD200000b1bf46d0RCRD", "channels": [{"hide": false, "name": "Pesquisa", "reference": true, "title": "Not\u00edcias de novas pesquisa e descobertas - Ci\u00eancia - Terra", "url": "http://noticias.terra.com.br/ciencia/pesquisa/", "description": "Confira as \u00faltimas not\u00edcias sobre novas pesquisas e descobertas da ci\u00eancia em  gen\u00e9tica, c\u00e9lulas-tronco, bact\u00e9rias e mais.", "usedInURL": true, "label": "Pesquisa", "metricsChannel": "br.noticias.ciencia", "originalPath": "/Home/Not\u00edcias/Ci\u00eancia/Pesquisa", "path": "Brasil.noticias.ciencia.pesquisa", "metricsSiteId": "300041", "id": "77c74e877b64a310VgnVCM3000009acceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=2b15971e1913b410VgnCLD200000b1bf46d0RCRD", "configs": null, "fullTitle": "Humanos e neandertais conviveram no Oriente M\u00e9dio"}], "time": 1422477103000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422603365, "tgmKey": "br.carnaval", "logo": null, "cartola": {"url": "http://diversao.terra.com.br/carnaval/", "label": "Carnaval "}, "id": "558243", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500974,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 17:36:05 -0200", "configs": {"idItemMenu": "carn", "background": "#F99D1C"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500974,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 16:40:28 -0200", "subTitle": null, "socialURL": "http://diversao.terra.com.br/carnaval/,14b564df46c2b410VgnVCM10000098cceb0aRCRD.html", "publishedDate": "2015-01-28 16:48:42 -0200", "url": "http://diversao.terra.com.br/carnaval/qeur-enhcer-a-cara-no-cavarnal-saiba-amenizar-a-ressaca,14b564df46c2b410VgnVCM10000098cceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/27/encheracaratumblr.gif", "verticalCrop": null, "alt": "Foto: Tumblr / Reprodu\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": null}, "title": "QeUr ENhCeR a CaRa no CaVaRnaL? Saiba amenizar a ressaca", "locations": null, "id": "14b564df46c2b410VgnVCM10000098cceb0aRCRD", "channels": [{"hide": false, "name": "Carnaval", "reference": true, "title": "Carnaval 2015: Desfiles, escolas, famosos e mais - Terra", "url": "http://diversao.terra.com.br/carnaval/", "description": "Confira tudo na melhor cobertura do Carnaval 2015 do Rio de Janeiro, S\u00e3o Paulo, Salvador e mais. Tudo sobre os desfiles, blocos, sambas-enredo, famosos e muito mais.", "usedInURL": true, "label": "Carnaval ", "metricsChannel": "br.diversao.carnaval", "originalPath": "/Home/Divers\u00e3o/Carnaval", "path": "Brasil.diversao.carnaval", "logo": "http://images.terra.com/2015/01/20/carnaval3.png", "metricsSiteId": "510176", "id": "dd8becf8e03bb310VgnVCM3000009acceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=14b564df46c2b410VgnVCM10000098cceb0aRCRD", "configs": null, "fullTitle": "QeUr ENhCeR a CaRa no CaVaRnaL? Saiba amenizar a ressaca"}], "time": 1422473765000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422584835, "tgmKey": "br.specials_cabelos", "logo": null, "cartola": {"url": "http://beleza.terra.com.br/cabelos/", "label": "Cabelos e Sal\u00e3o"}, "id": "557597", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500971,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 12:27:15 -0200", "configs": {"idItemMenu": "bele-cabe"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500971,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2014-03-31 16:01:08 -0300", "subTitle": null, "socialURL": "http://beleza.terra.com.br/cabelos/manual-da-franja/", "publishedDate": "2014-04-03 17:16:19 -0300", "url": "http://beleza.terra.com.br/cabelos/manual-da-franja/", "image": {"url": "http://images.terra.com/2015/01/28/cabelosinfomicrofranja.jpg", "verticalCrop": "/619/931/0/0/", "alt": "Foto: Reprodu\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": "/619/619/0/0/"}, "title": "Microfranja \u00e9 tend\u00eancia? Veja o manual e escolha a sua", "locations": null, "id": "d570257e85915410VgnVCM10000098cceb0aRCRD", "channels": [{"hide": false, "name": "Cabelos", "reference": true, "title": "Cabelos: cortes e penteados para cabelos curtos, longos, cacheados e lisos \u2013 Terra", "url": "http://beleza.terra.com.br/cabelos/", "description": "Confira novos tratamentos, estilos de cortes e penteados para seus cabelos. Mude o visual com dicas, truques, novidades e saiba como cuidar e tratar dos fios.", "usedInURL": true, "label": "Cabelos e Sal\u00e3o", "metricsChannel": "br.vidaeestilo.beleza", "originalPath": "/Home/Vida e Estilo/Beleza/Cabelos", "path": "Brasil.vida-e-estilo.beleza.cabelos", "logo": "http://images.terra.com/2014/12/16/logopatrocinador.jpg", "metricsSiteId": "300832", "id": "44904290c3234310VgnVCM20000099f154d0RCRD", "canonical": true}], "mobile": null, "configs": null, "fullTitle": "Microfranja \u00e9 tend\u00eancia? Veja o manual e escolha a sua"}], "time": 1422455235000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422604963, "tgmKey": "br.economy", "logo": null, "cartola": {"url": "http://economia.terra.com.br/", "label": "Economia"}, "id": "558259", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500969,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 18:02:43 -0200", "configs": {"idItemMenu": "econ"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500969,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 17:53:01 -0200", "subTitle": null, "socialURL": "http://economia.terra.com.br/,83f3971e1913b410VgnCLD200000b1bf46d0RCRD.html", "publishedDate": "2015-01-28 17:53:01 -0200", "url": "http://economia.terra.com.br/arrecadacao-federal-fecha-2014-com-1-queda-real-desde-2009,83f3971e1913b410VgnCLD200000b1bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2014/10/29/negocios-macro-arrecadacao-setembro.JPG", "verticalCrop": null, "alt": "O governo federal arrecadou 90,722 bilh\u00f5es de reais em impostos e contribui\u00e7\u00f5es em setembro, informou a Receita Federal nesta quarta-feira, com alta real de 0,92 por cento sobre igual m\u00eas do ano passado. 15/10/2010 Foto: Bruno Domingos/Reuters", "horizontalCrop": null, "squareCrop": null}, "title": "Arrecada\u00e7\u00e3o federal fecha 2014 com 1\u00aa queda real desde 2009", "locations": null, "id": "83f3971e1913b410VgnCLD200000b1bf46d0RCRD", "channels": [{"hide": false, "name": "Economia", "reference": true, "title": "Economia: mercado, finan\u00e7as, bolsa de valores e dinheiro - Terra", "url": "http://economia.terra.com.br/", "description": "Not\u00edcias da economia do Brasil e do mundo. Tudo sobre imposto de renda, mercado financeiro, cota\u00e7\u00f5es, d\u00f3lar, investimentos, empresas e conversor de moedas.", "usedInURL": true, "label": "Economia", "metricsChannel": "br.noticias.economia", "originalPath": "/Home/Economia", "path": "Brasil.economia", "metricsSiteId": "300035", "id": "6f22bd10e1c4a310VgnVCM4000009bcceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=83f3971e1913b410VgnCLD200000b1bf46d0RCRD", "configs": null, "fullTitle": "Arrecada\u00e7\u00e3o federal fecha 2014 com 1\u00aa queda real desde 2009"}], "time": 1422475363000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": null, "tgmKey": "br.economy_carrosemotos", "logo": null, "cartola": {"url": "http://economia.terra.com.br/carros-motos/", "label": "Ve\u00edculos"}, "id": "557536", "subTitle": null, "title": "Ve\u00edculos", "label": "Ve\u00edculos", "source": null, "type": "P", "reason_detail_score": "i:2.500967,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 11:41:38 -0200", "configs": {"idItemMenu": "econ-veic"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500967,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": "http://economia.terra.com.br/carros-motos/", "items": [{"category": "N", "firstPublishedDate": "2015-01-28 11:40:01 -0200", "subTitle": null, "socialURL": "http://carroonline.terra.com.br/noticias/ultimas-noticias/2015-os-lancamentos/?rlabs", "publishedDate": "2015-01-28 11:40:01 -0200", "url": "http://carroonline.terra.com.br/noticias/ultimas-noticias/2015-os-lancamentos/?rlabs", "image": {"url": "http://images.terra.com/2015/01/28/tiguan.jpg", "verticalCrop": "/311/468/290/0/", "alt": "Foto: Reprodu\u00e7\u00e3o", "horizontalCrop": "/620/416/0/50/", "squareCrop": "/468/468/152/0/"}, "title": "Confira alguns lan\u00e7amentos importantes programados para 2015", "locations": null, "id": "557535", "channels": null, "mobile": null, "configs": null, "fullTitle": "Confira alguns lan\u00e7amentos importantes programados para 2015"}, {"category": "N", "firstPublishedDate": "2015-01-28 07:36:31 -0200", "subTitle": null, "socialURL": "http://economia.terra.com.br/carros-motos/,80def282f772b410VgnVCM10000098cceb0aRCRD.html", "publishedDate": "2015-01-28 10:53:22 -0200", "url": "http://economia.terra.com.br/carros-motos/audi-equipa-a4-e-a5-com-novo-motor-que-economiza-ate-21,80def282f772b410VgnVCM10000098cceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/26/audia5aportbackdiv1.jpg", "verticalCrop": null, "alt": "Audi A5 Sportback Foto: Divulga\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": null}, "title": "Audi equipa A4 e A5 com novo motor que economiza at\u00e9 21%", "locations": null, "id": "80def282f772b410VgnVCM10000098cceb0aRCRD", "channels": [{"hide": false, "name": "Carros Motos", "reference": true, "title": "Carros e Motos: Lan\u00e7amentos, Guias de Compras e Mercado - Economia - Terra", "url": "http://economia.terra.com.br/carros-motos/", "description": "Todas as informa\u00e7\u00f5es sobre carros, motos, os \u00faltimos lan\u00e7amentos, montadoras e mercado automobil\u00edstico em geral.", "usedInURL": true, "label": "Ve\u00edculos", "metricsChannel": "br.noticias.economia", "originalPath": "/Home/Economia/Carros Motos", "path": "Brasil.economia.carros-motos", "metricsSiteId": "510199", "id": "0c00891274c4a310VgnVCM4000009bcceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=80def282f772b410VgnVCM10000098cceb0aRCRD", "configs": null, "fullTitle": "Audi equipa A4 e A5 com novo motor que economiza at\u00e9 21%"}, {"category": "N", "firstPublishedDate": "2015-01-28 11:41:00 -0200", "subTitle": null, "socialURL": "http://salaodocarro.com.br/curiosidades/consorcio-carros-cresce-85-2014-evita-queda-vendas.html", "publishedDate": "2015-01-28 11:41:00 -0200", "url": "http://salaodocarro.com.br/curiosidades/consorcio-carros-cresce-85-2014-evita-queda-vendas.html", "image": {"url": "http://images.terra.com/2015/01/28/consorcio-carros-cresce-85-2014-evita-queda-vendasoriginal.jpg", "verticalCrop": null, "alt": "Foto: Reprodu\u00e7\u00e3o", "horizontalCrop": "/1491/1001/320/0/", "squareCrop": null}, "title": "Cons\u00f3rcio de carros cresce 8,5% e evita queda das vendas", "locations": null, "id": "557551", "channels": null, "mobile": null, "configs": null, "fullTitle": "Cons\u00f3rcio de carros cresce 8,5% e evita queda das vendas"}], "time": 1422452498000}, {"reason_detail": 18, "fixedPosition": "18", "expirationDate": null, "tgmKey": "br.futebol", "logo": null, "cartola": {"url": "http://esportes.terra.com.br/futebol/", "label": "Futebol"}, "id": "46953", "subTitle": null, "title": null, "label": null, "source": null, "type": "A", "reason_detail_score": "i:0.00,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:0.00", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "f", "date": "2014-10-14 12:21:19 -0300", "configs": {"idItemMenu": "esp-futb"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"f": {"position": 18}}, "score": "i:0.00,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:0.00"}, "url": null, "items": [{"category": "TEAMS", "firstPublishedDate": "2014-04-24 15:40:58 -0300", "subTitle": null, "socialURL": "http://esportes.terra.com.br/futebol/", "publishedDate": "2014-04-24 15:40:58 -0300", "url": "http://esportes.terra.com.br/futebol/", "image": null, "title": "[Clubes]", "locations": null, "id": "46953", "channels": null, "mobile": "http://m.terra.com.br/especial?e=especiais_esportes_br&a=esportes&s=3&c=futebol", "configs": {"cardsizes": ["w2h2"]}, "fullTitle": "[Clubes]"}], "time": 1413300079000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422600466, "tgmKey": "br.sports_corinthians", "logo": null, "cartola": {"url": "http://esportes.terra.com.br/corinthians/", "label": "Corinthians"}, "id": "558109", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500964,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 16:47:46 -0200", "configs": {"idItemMenu": "esp-cori"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500964,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 14:41:29 -0200", "subTitle": null, "socialURL": "http://esportes.terra.com.br/corinthians/,686f92ad0513b410VgnCLD200000b1bf46d0RCRD.html", "publishedDate": "2015-01-28 16:38:28 -0200", "url": "http://esportes.terra.com.br/corinthians/indeciso-guerrero-assume-vontade-de-voltar-a-europa,686f92ad0513b410VgnCLD200000b1bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2014/12/16/guerrerotitulomichaelreganfifagetty.jpg", "verticalCrop": null, "alt": "Guerrero com trof\u00e9u de terceiro melhor jogador do Mundial de Clubes 2012; para corintianos, ele foi o n\u00famero um Foto: Michael Regan/Fifa/Getty Images ", "horizontalCrop": null, "squareCrop": null}, "title": "Indeciso, Guerrero assume vontade de voltar \u00e0 Europa", "locations": [{"city": null, "country": "br", "longitude": "-49.0232348", "countryName": "Brasil", "state": "S\u00e3o Paulo", "latitude": "-21.9549806"}, {"city": null, "country": "br", "longitude": "-53.2", "countryName": "Brasil", "state": null, "latitude": "-10.3333333"}], "id": "686f92ad0513b410VgnCLD200000b1bf46d0RCRD", "channels": [{"hide": false, "name": "Corinthians", "reference": true, "title": "Corinthians: jogos, estat\u00edsticas e fotos \u2013 Terra", "url": "http://esportes.terra.com.br/corinthians/", "description": "Not\u00edcias e informa\u00e7\u00f5es sobre Corinthians. Confira a lista de jogos, fotos, estat\u00edstica da temporada e um pouco da hist\u00f3ria do seu time de futebol favorito.", "usedInURL": true, "label": "Corinthians", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Equipes/Corinthians", "path": "Brasil.esportes.equipes.corinthians", "logo": "http://images.terra.com/2012/10/22/corinthians.jpg", "metricsSiteId": "300845", "id": "006f2f079b98a310VgnVCM20000099cceb0aRCRD", "canonical": true}, {"hide": false, "name": "Campeonato Paulista", "reference": true, "title": "Campeonato Paulista 2015 - Futebol - Terra ", "url": "http://esportes.terra.com.br/futebol/estaduais/campeonato-paulista/", "label": "Campeonato Paulista S\u00e9rie A1", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol/Estaduais/Campeonato Paulista", "path": "Brasil.esportes.futebol.estaduais.campeonato-paulista", "metricsSiteId": "300110", "id": "e96e5dc9df66b310VgnVCM3000009acceb0aRCRD", "description": "Confira todas as not\u00edcias do Campeonato Paulista 2015. Veja fotos, v\u00eddeos, tabela de classifica\u00e7\u00e3o, gols e muito mais."}, {"hide": false, "name": "Mercado da Bola", "reference": true, "title": "Mercado da Bola - Futebol - Terra", "url": "http://esportes.terra.com.br/futebol/mercado-da-bola/", "label": "Mercado da Bola", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol/Mercado da Bola", "path": "Brasil.esportes.futebol.mercado-da-bola", "metricsSiteId": "300549", "id": "685729b53c199310VgnVCM4000009bcceb0aRCRD", "description": "Acompanhe as contrata\u00e7\u00f5es dos times no Mercado da Bola: quem chega e quem sai no seu time, \u00faltimas not\u00edcias e mais."}, {"hide": false, "name": "Internacional", "reference": true, "title": "Futebol Internacional: Campeonatos Espanhol, Ingl\u00eas, Italiano e mais - Terra", "url": "http://esportes.terra.com.br/futebol/internacional/", "label": "Futebol Internacional", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol/Internacional", "path": "Brasil.esportes.futebol.internacional", "metricsSiteId": "510063", "id": "42e8d98736199310VgnVCM4000009bcceb0aRCRD", "description": "Confira tudo sobre Futebol Internacional: Campeonatos Espanhol, Ingl\u00eas, Italiano, Alem\u00e3o, Argentino e mais. Veja jogos ao vivo, tabela e classifica\u00e7\u00e3o, artilheiros e mais."}], "mobile": "http://m.terra.com.br/noticia?n=686f92ad0513b410VgnCLD200000b1bf46d0RCRD", "configs": null, "fullTitle": "Indeciso, Guerrero assume vontade de voltar \u00e0 Europa"}], "time": 1422470866000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422607954, "tgmKey": "br.lifestyle", "logo": null, "cartola": {"url": "http://vidaeestilo.terra.com.br/videos/", "label": "Vida e Estilo"}, "id": "558379", "subTitle": null, "title": null, "label": null, "source": null, "type": "V", "reason_detail_score": "i:2.500962,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 18:52:34 -0200", "configs": {"idItemMenu": "vida"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500962,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "V", "firstPublishedDate": "2015-01-28 18:08:46 -0200", "subTitle": null, "socialURL": "http://vidaeestilo.terra.com.br/videos/,7744682.html", "publishedDate": "2015-01-28 18:08:46 -0200", "url": "http://vidaeestilo.terra.com.br/videos/astro-de-carrossel-rabito-rouba-a-cena-e-da-show-de-fofura,7744682.html", "image": {"url": "http://thumbox.terratv.terra.com.br/thumbox/freew/cnt7744682_h0_aNoChange_1422477756000.jpg", "verticalCrop": null, "alt": null, "horizontalCrop": null, "squareCrop": null}, "title": "Astro de 'Carrossel': Rabito rouba cena e d\u00e1 show de fofura", "locations": null, "id": "7744682", "channels": [{"hide": true, "name": "Videos", "reference": false, "title": "V\u00eddeos - Vida e estilo - Terra", "url": "http://vidaeestilo.terra.com.br/videos/", "description": "Videos de amor, sexo e casamento, sa\u00fade e beleza, moda, turismo, carros e outros temas de comportamento de mulheres e homens.", "usedInURL": true, "label": "Vida e Estilo", "metricsChannel": "br.vidaeestilo.vidaeestilo", "originalPath": "/Home/Vida e Estilo/Videos", "path": "Brasil.vida-e-estilo.videos", "metricsSiteId": "300192", "id": "1218b0908c6b2310VgnVCM3000009af154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/video/7744682", "configs": null, "fullTitle": "Astro de 'Carrossel': Rabito rouba cena e d\u00e1 show de fofura"}], "time": 1422478354000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": null, "tgmKey": "br.specials_cabelos", "logo": "http://images.terra.com/2014/12/16/logopatrocinador.jpg", "cartola": {"url": "http://beleza.terra.com.br/cabelos/", "label": "Cabelos e Sal\u00e3o"}, "id": "558204", "subTitle": null, "title": "[Enquete] - 9934 - Neste ver\u00e3o, qual tipo de rabo de...", "label": null, "source": null, "type": "A", "reason_detail_score": "i:2.500960,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 17:46:12 -0200", "configs": {"idItemMenu": "bele-cabe", "BR_pt": "10037", "poll_size": "w2h2", "cardsizes": ["w2h2"], "poll_id": "9934"}, "publishedTime": 1422483122000, "name": "POLL", "croupier": {"reasons": {"e": {}}, "score": "i:2.500960,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "POLL", "firstPublishedDate": "2015-01-28 17:46:02 -0200", "subTitle": null, "socialURL": "http://beleza.terra.com.br/cabelos/", "publishedDate": "2015-01-28 17:46:02 -0200", "url": "http://beleza.terra.com.br/cabelos/", "image": null, "title": "[Enquete] - 9934 - Neste ver\u00e3o, qual tipo de rabo de...", "locations": null, "id": "558204", "channels": null, "mobile": null, "configs": {"BR_pt": "10037", "poll_size": "w2h2", "cardsizes": ["w2h2"], "poll_id": "9934"}, "fullTitle": "[Enquete] - 9934 - Neste ver\u00e3o, qual tipo de rabo de..."}], "time": 1422474372000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422608629, "tgmKey": "br.sports_internacional", "logo": null, "cartola": {"url": "http://esportes.terra.com.br/internacional/", "label": "Internacional"}, "id": "558381", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500957,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 19:03:49 -0200", "configs": {"idItemMenu": "esp-inte"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500957,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 18:11:31 -0200", "subTitle": null, "socialURL": "http://esportes.terra.com.br/internacional/,337d2fb12123b410VgnCLD200000b2bf46d0RCRD.html", "publishedDate": "2015-01-28 18:46:09 -0200", "url": "http://esportes.terra.com.br/internacional/fora-do-inter-jorge-henrique-pode-acertar-com-vasco,337d2fb12123b410VgnCLD200000b2bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2014/05/08/jorgehenriqueintergetty.jpg", "verticalCrop": null, "alt": "Foto: Getty Images ", "horizontalCrop": null, "squareCrop": null}, "title": "Fora do Inter? Jorge Henrique pode acertar com Vasco", "locations": null, "id": "337d2fb12123b410VgnCLD200000b2bf46d0RCRD", "channels": [{"hide": false, "name": "Vasco", "reference": true, "title": "Vasco: jogos, estat\u00edsticas e fotos \u2013 Terra ", "url": "http://esportes.terra.com.br/vasco/", "label": "Vasco", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Equipes/Vasco", "path": "Brasil.esportes.equipes.vasco", "logo": "http://images.terra.com/2012/10/23/vasco.png", "metricsSiteId": "300845", "id": "6c88e1db2939a310VgnVCM5000009ccceb0aRCRD", "description": "Not\u00edcias e informa\u00e7\u00f5es sobre Vasco. Confira a lista de jogos, fotos, estat\u00edstica da temporada e um pouco da hist\u00f3ria do seu time de futebol favorito. "}, {"hide": false, "name": "Internacional", "reference": true, "title": "Internacional: jogos, estat\u00edsticas e fotos \u2013 Terra ", "url": "http://esportes.terra.com.br/internacional/", "description": "Not\u00edcias e informa\u00e7\u00f5es sobre Internacional. Confira a lista de jogos, fotos, estat\u00edstica da temporada e um pouco da hist\u00f3ria do seu time de futebol favorito. ", "usedInURL": true, "label": "Internacional", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Equipes/Internacional", "path": "Brasil.esportes.equipes.internacional", "logo": "http://images.terra.com/2012/10/23/internacional.png", "metricsSiteId": "300845", "id": "69fe1fc53b29a310VgnVCM5000009ccceb0aRCRD", "canonical": true}, {"hide": false, "name": "Campeonato Gaucho", "reference": true, "title": "Campeonato Ga\u00facho 2015 - Futebol - Terra ", "url": "http://esportes.terra.com.br/futebol/estaduais/campeonato-gaucho/", "label": "Campeonato Ga\u00facho", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol/Estaduais/Campeonato Gaucho", "path": "Brasil.esportes.futebol.estaduais.campeonato-gaucho", "metricsSiteId": "300110", "id": "624600bbfe16b310VgnVCM3000009acceb0aRCRD", "description": "Confira todas as not\u00edcias do Campeonato Ga\u00facho 2015. Veja fotos, v\u00eddeos, tabela de classifica\u00e7\u00e3o, gols e muito mais."}, {"hide": false, "name": "Campeonato Carioca", "reference": true, "title": "Campeonato Carioca 2015 - Futebol - Terra", "url": "http://esportes.terra.com.br/futebol/estaduais/campeonato-carioca/", "label": "Campeonato Carioca", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol/Estaduais/Campeonato Carioca", "path": "Brasil.esportes.futebol.estaduais.campeonato-carioca", "metricsSiteId": "300110", "id": "3ef042fc7616b310VgnVCM4000009bcceb0aRCRD", "description": "Confira todas as not\u00edcias do Campeonato Carioca 2015. Veja fotos, v\u00eddeos, tabela de classifica\u00e7\u00e3o, gols e muito mais."}, {"hide": false, "name": "Mercado da Bola", "reference": true, "title": "Mercado da Bola - Futebol - Terra", "url": "http://esportes.terra.com.br/futebol/mercado-da-bola/", "label": "Mercado da Bola", "metricsChannel": "br.esportes.futebol", "originalPath": "/Home/Esportes/Futebol/Mercado da Bola", "path": "Brasil.esportes.futebol.mercado-da-bola", "metricsSiteId": "300549", "id": "685729b53c199310VgnVCM4000009bcceb0aRCRD", "description": "Acompanhe as contrata\u00e7\u00f5es dos times no Mercado da Bola: quem chega e quem sai no seu time, \u00faltimas not\u00edcias e mais."}], "mobile": "http://m.terra.com.br/noticia?n=337d2fb12123b410VgnCLD200000b2bf46d0RCRD", "configs": null, "fullTitle": "Fora do Inter? Jorge Henrique pode acertar com Vasco"}], "time": 1422479029000}, {"reason_detail": "", "title": null, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-27 18:24:42 -0200", "socialURL": "http://esportes.terra.com.br/corinthians/,c916a58720d2b410VgnVCM10000098cceb0aRCRD.html", "publishedDate": "2015-01-27 19:49:01 -0200", "url": "http://esportes.terra.com.br/corinthians/gobbi-deter-12-em-oruro-foi-crime-maior-que-morte-de-kevin,c916a58720d2b410VgnVCM10000098cceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/15/mariogobbicorinthianscuidadovenenogp.jpg", "verticalCrop": null, "alt": "M\u00e1rio Gobbi exaltou-se em programa ao vivo", "horizontalCrop": null}, "title": "Gobbi: deter 12 em Oruro foi crime maior que morte de Kevin", "channels": [{"name": "Futebol", "url": "http://esportes.terra.com.br/futebol/", "metricsChannel": "br.esportes.futebol", "path": "Brasil.esportes.futebol", "metricsSiteId": "300549", "id": "04d1b3f715879310VgnVCM5000009ccceb0aRCRD"}], "mobile": "http://m.terra.com.br/noticia?n=c916a58720d2b410VgnVCM10000098cceb0aRCRD", "id": "c916a58720d2b410VgnVCM10000098cceb0aRCRD"}], "croupier": {"reasons": {"s": {}}}, "label": null, "reason": "s", "date": "2015-01-28 18:18:52 -0800 ", "logo": null, "type": "N"}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422606730, "tgmKey": "br.sports_tenis", "logo": null, "cartola": {"url": "http://esportes.terra.com.br/tenis/", "label": "T\u00eanis"}, "id": "558318", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500955,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 18:32:10 -0200", "configs": {"idItemMenu": "esp-teni"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500955,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 18:18:09 -0200", "subTitle": null, "socialURL": "http://esportes.terra.com.br/tenis/,ba2521de9123b410VgnVCM4000009bcceb0aRCRD.html", "publishedDate": "2015-01-28 18:19:01 -0200", "url": "http://esportes.terra.com.br/tenis/saque-a-192-kmh-e-19-anos-conheca-rival-de-serena-em-semi,ba2521de9123b410VgnVCM4000009bcceb0aRCRD.html", "image": {"url": "http://images.terra.com/2015/01/28/madisonkeystenisaustralianopen2015gettyhannah-peters.jpg", "verticalCrop": null, "alt": "Foto: Hannah Peters/Getty Images ", "horizontalCrop": null, "squareCrop": null}, "title": "Saque a 192 km/h e 19 anos: conhe\u00e7a rival de Serena em semi", "locations": [{"city": null, "country": "au", "longitude": "134.755", "countryName": "Austr\u00e1lia", "state": null, "latitude": "-24.7761086"}, {"city": null, "country": "br", "longitude": "-53.2", "countryName": "Brasil", "state": null, "latitude": "-10.3333333"}], "id": "ba2521de9123b410VgnVCM4000009bcceb0aRCRD", "channels": [{"hide": false, "name": "T\u00eanis", "reference": true, "title": "T\u00eanis: ATP, Copa Davis, not\u00edcias, fotos e v\u00eddeos - Terra", "url": "http://esportes.terra.com.br/tenis/", "description": "Confira no Terra tudo sobre os principais torneios de t\u00eanis.  Veja os rankings da ATP e WTA, not\u00edcias, v\u00eddeos, fotos, e muito mais do t\u00eanis mundial.", "usedInURL": true, "label": "T\u00eanis", "metricsChannel": "br.esportes.tenis", "originalPath": "/Home/Esportes/T\u00eanis", "path": "Brasil.esportes.tenis", "metricsSiteId": "300135", "id": "1601022858799310VgnVCM5000009ccceb0aRCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=ba2521de9123b410VgnVCM4000009bcceb0aRCRD", "configs": null, "fullTitle": "Saque a 192 km/h e 19 anos: conhe\u00e7a rival de Serena em semi"}], "time": 1422477130000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422611371, "tgmKey": null, "logo": null, "cartola": null, "id": "558400", "subTitle": null, "title": null, "label": null, "source": {"description": "Moda, beleza e estilo de vida em um s\u00f3 site", "url": "http://www.harpersbazaar.com.br/", "image": {"url": "http://images.terra.com/2014/07/01/logo-bazaar.jpg", "verticalCrop": null, "alt": null, "horizontalCrop": null, "squareCrop": null}, "keywords": "moda, mulher, consumo, turismo", "id": "7bdab0cab5724410VgnVCM20000099cceb0aRCRD", "name": "Harper\u00b4s Bazaar"}, "type": "S", "reason_detail_score": "i:2.500952,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 19:49:31 -0200", "configs": null, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500952,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 19:49:15 -0200", "subTitle": null, "socialURL": "http://www.harpersbazaar.com.br/beleza/cinco-truques-para-garantir-um-sorriso-mais-branco", "publishedDate": "2015-01-28 19:49:15 -0200", "url": "http://www.harpersbazaar.com.br/beleza/cinco-truques-para-garantir-um-sorriso-mais-branco", "image": {"url": "http://images.terra.com/2015/01/28/terra-beleza-dentes-brancos-5.jpg", "verticalCrop": null, "alt": "Foto: Reprodu\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": null}, "title": "Cinco truques para garantir um sorriso mais branco", "locations": null, "id": "558400", "channels": null, "mobile": null, "configs": null, "fullTitle": "Cinco truques para garantir um sorriso mais branco"}], "time": 1422481771000}, {"reason_detail": 26, "fixedPosition": "26", "expirationDate": null, "tgmKey": null, "logo": null, "cartola": null, "id": "2582", "subTitle": null, "title": null, "label": null, "source": null, "type": "A", "reason_detail_score": "i:0.00,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:0.00", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "f", "date": "2014-10-13 15:33:37 -0300", "configs": null, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"f": {"position": 26}}, "score": "i:0.00,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:0.00"}, "url": null, "items": [{"category": "HOROSCOPE", "firstPublishedDate": "2014-02-14 17:50:20 -0200", "subTitle": null, "socialURL": null, "publishedDate": "2014-02-14 17:50:20 -0200", "url": null, "image": null, "title": "Hor\u00f3scopo", "locations": null, "id": "2582", "channels": null, "configs": {"cardsizes": ["w2h2"]}, "fullTitle": "Hor\u00f3scopo"}], "time": 1413225217000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422603519, "tgmKey": "br.news_brasil", "logo": null, "cartola": {"url": "http://noticias.terra.com.br/brasil/policia/", "label": "Pol\u00edcia"}, "id": "558201", "subTitle": null, "title": null, "label": null, "source": null, "type": "N", "reason_detail_score": "i:2.500950,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 17:38:39 -0200", "configs": {"idItemMenu": "not-bras-poli"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500950,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "N", "firstPublishedDate": "2015-01-28 17:36:23 -0200", "subTitle": null, "socialURL": "http://noticias.terra.com.br/brasil/policia/,55d1ce541c13b410VgnCLD200000b2bf46d0RCRD.html", "publishedDate": "2015-01-28 17:37:37 -0200", "url": "http://noticias.terra.com.br/brasil/policia/juiz-da-lava-jato-prisoes-sao-advertencia-para-empreiteiras,55d1ce541c13b410VgnCLD200000b2bf46d0RCRD.html", "image": {"url": "http://images.terra.com/2014/11/22/juizsergiomorooperacaolavajatodiv.jpeg", "verticalCrop": null, "alt": "Juiz Federal do Paran\u00e1 S\u00e9rgio Moro Foto: Divulga\u00e7\u00e3o", "horizontalCrop": null, "squareCrop": null}, "title": "Juiz da Lava Jato: pris\u00f5es s\u00e3o advert\u00eancia para empreiteiras", "locations": [{"city": "Bras\u00edlia", "country": "br", "longitude": "-47.8822933", "countryName": "Brasil", "state": "Distrito Federal", "latitude": "-15.7934003"}, {"city": "Curitiba", "country": "br", "longitude": "-49.2713192", "countryName": "Brasil", "state": "Paran\u00e1", "latitude": "-25.4295985"}, {"city": null, "country": "br", "longitude": "-53.2", "countryName": "Brasil", "state": null, "latitude": "-10.3333333"}], "id": "55d1ce541c13b410VgnCLD200000b2bf46d0RCRD", "channels": [{"hide": false, "name": "Pol\u00edcia", "reference": true, "title": "Not\u00edcias policiais: crimes  e investiga\u00e7\u00f5es  - Terra", "url": "http://noticias.terra.com.br/brasil/policia/", "description": "Confira as principais not\u00edcias policiais, crimes, roubos, tr\u00e1fico de drogas, crimes virtuais e as grandes investiga\u00e7\u00f5es da pol\u00edcia.", "usedInURL": true, "label": "Pol\u00edcia", "metricsChannel": "br.noticias.brasil", "originalPath": "/Home/Not\u00edcias/Brasil/Pol\u00edcia", "path": "Brasil.noticias.brasil.policia", "metricsSiteId": "300033", "id": "423251a77fb05310VgnVCM4000009bf154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/noticia?n=55d1ce541c13b410VgnCLD200000b2bf46d0RCRD", "configs": null, "fullTitle": "Juiz da Lava Jato: pris\u00f5es s\u00e3o advert\u00eancia para empreiteiras"}], "time": 1422473919000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422607954, "tgmKey": "br.lifestyle", "logo": null, "cartola": {"url": "http://vidaeestilo.terra.com.br/videos/", "label": "Vida e Estilo"}, "id": "558353", "subTitle": null, "title": null, "label": null, "source": null, "type": "V", "reason_detail_score": "i:2.500948,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 18:52:34 -0200", "configs": {"idItemMenu": "vida"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500948,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "V", "firstPublishedDate": "2015-01-28 18:40:49 -0200", "subTitle": null, "socialURL": "http://vidaeestilo.terra.com.br/videos/,7744774.html", "publishedDate": "2015-01-28 18:40:49 -0200", "url": "http://vidaeestilo.terra.com.br/videos/mito-castracao-nao-deixa-animal-mais-calmo-diz-coach,7744774.html", "image": {"url": "http://thumbox.terratv.terra.com.br/thumbox/freew/cnt7744774_h0_aNoChange_1422477650000.jpg", "verticalCrop": null, "alt": null, "horizontalCrop": null, "squareCrop": null}, "title": "Mito! Castra\u00e7\u00e3o n\u00e3o deixa animal mais calmo, diz coach", "locations": null, "id": "7744774", "channels": [{"hide": true, "name": "Videos", "reference": false, "title": "V\u00eddeos - Vida e estilo - Terra", "url": "http://vidaeestilo.terra.com.br/videos/", "description": "Videos de amor, sexo e casamento, sa\u00fade e beleza, moda, turismo, carros e outros temas de comportamento de mulheres e homens.", "usedInURL": true, "label": "Vida e Estilo", "metricsChannel": "br.vidaeestilo.vidaeestilo", "originalPath": "/Home/Vida e Estilo/Videos", "path": "Brasil.vida-e-estilo.videos", "metricsSiteId": "300192", "id": "1218b0908c6b2310VgnVCM3000009af154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/video/7744774", "configs": null, "fullTitle": "Mito! Castra\u00e7\u00e3o n\u00e3o deixa animal mais calmo, diz coach"}], "time": 1422478354000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": null, "tgmKey": null, "logo": null, "cartola": null, "id": "553798", "subTitle": null, "title": null, "label": null, "source": null, "type": "A", "reason_detail_score": "i:2.500945,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-26 11:05:31 -0200", "configs": null, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500945,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "STANDINGS", "firstPublishedDate": "2015-01-26 11:05:08 -0200", "subTitle": null, "socialURL": null, "publishedDate": "2015-01-26 11:05:08 -0200", "url": null, "image": null, "title": "[Tabela] Paulista 2015 - 323", "locations": null, "id": "553798", "channels": null, "configs": {"menu": "true", "cardsizes": ["w2h4"], "id_championship": "323"}, "fullTitle": "[Tabela] Paulista 2015 - 323"}], "time": 1422277531000}, {"reason_detail": "", "fixedPosition": null, "expirationDate": 1422606703, "tgmKey": "br.lifestyle", "logo": null, "cartola": {"url": "http://vidaeestilo.terra.com.br/videos/", "label": "Vida e Estilo"}, "id": "558316", "subTitle": null, "title": null, "label": null, "source": null, "type": "V", "reason_detail_score": "i:2.500943,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501", "publishedDate": "2015-01-28 20:12:02 -0200", "reason": "e", "date": "2015-01-28 18:31:43 -0200", "configs": {"idItemMenu": "vida"}, "publishedTime": 1422483122000, "name": null, "croupier": {"reasons": {"e": {}}, "score": "i:2.500943,t:0.00,s:0.00,c:0.00,e:0.00,p:0.00,d:0.00,o:0.00,f:2.501"}, "url": null, "items": [{"category": "V", "firstPublishedDate": "2015-01-28 18:24:24 -0200", "subTitle": null, "socialURL": "http://vidaeestilo.terra.com.br/videos/,7744631.html", "publishedDate": "2015-01-28 18:24:24 -0200", "url": "http://vidaeestilo.terra.com.br/videos/rabito-mostra-que-e-100-carisma-e-arrasa-com-truques,7744631.html", "image": {"url": "http://thumbox.terratv.terra.com.br/thumbox/freew/cnt7744631_h0_aNoChange_1422476665000.jpg", "verticalCrop": null, "alt": null, "horizontalCrop": null, "squareCrop": null}, "title": "'Rabito' mostra que \u00e9 100% carisma e arrasa com truques", "locations": null, "id": "7744631", "channels": [{"hide": true, "name": "Videos", "reference": false, "title": "V\u00eddeos - Vida e estilo - Terra", "url": "http://vidaeestilo.terra.com.br/videos/", "description": "Videos de amor, sexo e casamento, sa\u00fade e beleza, moda, turismo, carros e outros temas de comportamento de mulheres e homens.", "usedInURL": true, "label": "Vida e Estilo", "metricsChannel": "br.vidaeestilo.vidaeestilo", "originalPath": "/Home/Vida e Estilo/Videos", "path": "Brasil.vida-e-estilo.videos", "metricsSiteId": "300192", "id": "1218b0908c6b2310VgnVCM3000009af154d0RCRD", "canonical": true}], "mobile": "http://m.terra.com.br/video/7744631", "configs": null, "fullTitle": "'Rabito' mostra que \u00e9 100% carisma e arrasa com truques"}], "time": 1422477103000}], "page": 1}
+        /***** FEED CROUPIER ****/
+    </script>
+    
+	<script type="text/javascript">
+        zaz.use(function(pkg){ 
+        pkg.context.page.set("country", "br");
+        pkg.context.page.set("lang", "pt");
+        pkg.context.page.set("locale", "pt-BR");
+        pkg.context.page.set('channel','home');
+        pkg.context.page.set('feedLive','feedLive');
+        pkg.context.page.set('feedCroupier','timeline_cb');
+        pkg.context.page.set('pageSize','30');
+        pkg.context.page.set('timelineSize','240');
+        pkg.context.page.set('dflt','0');
+        pkg.context.page.set('lomas','br.*.*');   
+        pkg.context.page.set("uuid","c59f8294-c0a2-42cd-bf7a-8edad0726185");
+        pkg.context.page.set("mediaService","");
+        pkg.context.platform.set("type", "web");
+        pkg.context.browser.set('agentProfile','modern');
+        pkg.context.page.set("channelID", "20e07ef2795b2310VgnVCM3000009af154d0RCRD");
+        pkg.context.page.set("channelPath", "Brasil");
+        pkg.context.publisher.set("detail", "");
+        pkg.context.publisher.set("env", "prd");
+        pkg.context.publisher.set("id", "v7");
+        pkg.context.publisher.set("template", "home");   
+        pkg.context.publisher.set("version", "1.0.0");  
+        pkg.context.page.set('feedTagman','tgmkeys');
+        pkg.context.page.set('tableManifest', 'tableManifest');
+                     
+            pkg.context.page.set('ticker', true);
+        });
+
+    </script><noscript><!-- - no script mess here --></noscript>
+
+
+	
+		
+		
+		
+		
+			
+		
+		
+
+	
+		
+
+		<script type="application/ld+json">
+		{
+		   "@context": "http://schema.org",
+		   "@type": "WebSite",
+		   "url": "http://www.terra.com.br/",
+		   "potentialAction": {
+			 "@type": "SearchAction",
+			 "target": "http://buscador.terra.com.br/Default.aspx?source=Search&ca=l&query={search_term_string}",
+			 "query-input": "required name=search_term_string"
+		   }
+		}
+		</script>
+
+		<script type="application/ld+json">
+		{ 
+		  "@context" : "http://schema.org",
+		  "@type" : "Organization",
+		  "name" : "Terra",
+		  "url" : "http://www.terra.com.br/",
+		  "logo": "http://s1.trrsf.com/fe/zaz-morph/_img/terra-logo-google.jpg",
+		  "sameAs" : ["https://www.facebook.com/TerraBrasil", "http://twitter.com/TerraNoticiasBR", "http://plus.google.com/115961647624943558279"],
+		  "contactPoint" : [ 
+							{  "@type" : "ContactPoint",
+							   "telephone" : "+55-0800-777-1234",
+							   "contactType" : "sales",
+							   "contactOption": "TollFree",
+							   "availableLanguage": "Portuguese",
+							   "areaServed": "BR"
+						    },
+							{ 
+							   "@type" : "ContactPoint",
+							   "telephone" : "+55-4003-5799",
+							   "contactType" : "technical support",
+							   "availableLanguage": "Portuguese",
+							   "areaServed": "BR"
+							}
+		  ]
+		}
+		</script>
+	
+</head>
+
+<body class="pt-BR">
+	
+		<a href="http://www.terra.com.br/"><h1 class="seoTitle">Terra</h1></a>
+	
+	
+	<!-- NAVBAR -->
+    <!--// Device:  //-->
+	
+		
+		
+		
+			<div id="trr-navbar" class="trr-navbar"><div id="trr-globalnav" class="trr-globalnav"><div id="trr-navcontent" class="trr-navcontent"><div id="trr-globalburger" class="trr-globalburger"><div id="trr-burgernav" class="trr-burgernav"><div id="searchcontent" class="content">
+<div><ul>
+<li>
+<a href="http://diversao.terra.com.br/arte-e-cultura">Arte e Cultura</a><ul>
+<li>
+<a href="http://googleboys.com.br/">Google Boys</a><ul></ul>
+</li>
+<li>
+<a href="http://judao.com.br/">Judão</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://beleza.terra.com.br/">Beleza</a><ul>
+<li>
+<a href="http://beleza.terra.com.br/cabelos">Cabelos e Salão</a><ul>
+<li><a href="http://beleza.terra.com.br/cabelos/cabelo-do-dia">Cabelo do dia</a></li>
+<li><a href="http://beleza.terra.com.br/cabelos/dicas-profissionais">Dicas Profissionais</a></li>
+<li><a href="http://beleza.terra.com.br/cabelos/faca-voce-mesma">Faça você mesma</a></li>
+<li><a href="http://beleza.terra.com.br/cabelos/quero-esse-cabelo">Quero esse cabelo</a></li>
+<li><a href="http://beleza.terra.com.br/cabelos/tratamento-e-tintura">Tratamento e tintura</a></li>
+<li><a href="http://beleza.terra.com.br/cabelos/salao-em-casa">Salão em Casa</a></li>
+</ul>
+</li>
+<li>
+<a href="http://beleza.terra.com.br/corpo-em-forma">Corpo em forma</a><ul></ul>
+</li>
+<li>
+<a href="http://beleza.terra.com.br/esmaltes-e-unhas">Esmaltes e unhas</a><ul></ul>
+</li>
+<li>
+<a href="http://beleza.terra.com.br/maquiagem">Maquiagem</a><ul>
+<li><a href="http://beleza.terra.com.br/maquiagem/inspiracao">Inspiração</a></li>
+<li><a href="http://beleza.terra.com.br/maquiagem/truques">Truques</a></li>
+<li><a href="http://beleza.terra.com.br/maquiagem/batons-e-beijos">Beijos e batons</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.patricinhaesperta.com.br/">Patricinha Esperta</a><ul></ul>
+</li>
+<li>
+<a href="http://beleza.terra.com.br/sua-pele/">Pele</a><ul>
+<li><a href="http://beleza.terra.com.br/sua-pele/certo-e-errado">Certo e Errado</a></li>
+<li><a href="http://beleza.terra.com.br/sua-pele/cuidados-especiais">Cuidados especiais</a></li>
+<li><a href="http://beleza.terra.com.br/sua-pele/depilacao">Depilação</a></li>
+<li><a href="http://beleza.terra.com.br/sua-pele/dica-das-estrelas">Dica das estrelas</a></li>
+<li><a href="http://beleza.terra.com.br/sua-pele/mitos-e-verdades">Mitos e verdades</a></li>
+<li><a href="http://beleza.terra.com.br/sua-pele/novidades">Novidades</a></li>
+<li><a href="http://beleza.terra.com.br/sua-pele/para-sua-pele">Para sua pele</a></li>
+<li><a href="http://beleza.terra.com.br/sua-pele/vitrine">Vitrine</a></li>
+</ul>
+</li>
+<li>
+<a href="http://socialbeauty.com.br/">Social Beauty</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://diversao.terra.com.br/carnaval/">Carnaval </a><ul></ul>
+</li>
+<li>
+<a href="http://economia.terra.com.br/">Economia</a><ul>
+<li>
+<a href="http://economia.terra.com.br/blog-carreiras/blog">Blog Carreiras</a><ul></ul>
+</li>
+<li>
+<a href="http://economia.terra.com.br/crescimento-profissional/blog">Blog Crescimento Profissional</a><ul></ul>
+</li>
+<li>
+<a href="http://economia.terra.com.br/vida-de-empresario">Vida de Empresário</a><ul></ul>
+</li>
+<li>
+<a href="http://www.clickcarreira.com.br/">Carreira</a><ul></ul>
+</li>
+<li>
+<a href="http://www.concursos.correioweb.com.br/index_frame.php?http://terra.concursos.correioweb.com.br">Concursos</a><ul><li><a href="https://www.iobconcursos.com/noticias-sobre-concursos">IOB Concursos</a></li></ul>
+</li>
+<li>
+<a href="http://vidaeestilo.terra.com.br/turismo/cruzeiros/">Cruzeiros</a><ul></ul>
+</li>
+<li>
+<a href="http://diarionet.terra.com.br">DiárioNet</a><ul></ul>
+</li>
+<li>
+<a href="http://economia.terra.com.br/direitos-do-consumidor">Direitos do Consumidor</a><ul></ul>
+</li>
+<li>
+<a href="http://www.moving.com.br/">Imóveis</a><ul></ul>
+</li>
+<li>
+<a href="http://economia.terra.com.br/imposto-de-renda">Imposto de Renda</a><ul></ul>
+</li>
+<li>
+<a href="http://www.istoedinheiro.com.br/">IstoÉ Dinheiro</a><ul></ul>
+</li>
+<li>
+<a href="http://revistadinheirorural.com.br/">Revista Dinheiro Rural</a><ul></ul>
+</li>
+<li>
+<a href="http://economia.terra.com.br/terra-da-diversidade">Terra da diversidade</a><ul></ul>
+</li>
+<li>
+<a href="http://economia.terra.com.br/tributos/">Tributos</a><ul></ul>
+</li>
+<li>
+<a href="http://economia.terra.com.br/carros-motos">Veículos</a><ul>
+<li><a href="http://economia.terra.com.br/carros-motos/auto-mais/videos/">Auto+</a></li>
+<li><a href="http://www.webmotors.com.br/webmotors/terra/index.aspx">Carro</a></li>
+<li><a href="http://carroonline.terra.com.br/">Carro Online</a></li>
+<li><a href="http://www.dezeroacem.com.br/">De 0 a 100</a></li>
+<li><a href="http://www.motorshow.com.br/">Motorshow</a></li>
+<li><a href="http://salaodocarro.com.br/">Salão do carro</a></li>
+<li><a href="http://economia.terra.com.br/carros-motos/salao-do-automovel-de-sao-paulo/">Salão do Automóvel de SP</a></li>
+</ul>
+</li>
+<li>
+<a href="http://vidaeestilo.terra.com.br/turismo/turismo-internacional/">Turismo Internacional</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/">Esportes</a><ul>
+<li>
+<a href="#mod-teamguide!256,257">Guia de clubes</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/atletismo">Atletismo</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/automobilismo/">Automobilismo</a><ul>
+<li><a href="http://esportes.terra.com.br/automobilismo/formula1/">Fórmula 1</a></li>
+<li><a href="http://esportes.terra.com.br/automobilismo/formula-indy">Fórmula Indy</a></li>
+<li><a href="http://www.totalrace.com.br/site/">Total Race</a></li>
+</ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/basquete">Basquete</a><ul>
+<li><a href="http://esportes.terra.com.br/basquete/nba/">NBA</a></li>
+<li><a href="http://esportes.terra.com.br/basquete/nbb">NBB</a></li>
+</ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/esportes-aquaticos/">Esportes Aquáticos</a><ul></ul>
+</li>
+<li>
+<a href="http://360graus.terra.com.br/">360 graus</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/futebol/">Futebol</a><ul>
+<li><a href="http://esportes.terra.com.br/futebol/brasileiro-serie-a">Brasileiro Série A</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/brasileiro-serie-b">Brasileiro Série B</a></li>
+<li><a href="http://cruzeiroweb.com.br/">Cruzeiro Web</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/estaduais/campeonato-carioca/">Campeonato Carioca</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/estaduais/campeonato-gaucho/">Campeonato Gaúcho</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/estaduais/campeonato-catarinense/">Campeonato Catarinense</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/estaduais/campeonato-mineiro/">Campeonato Mineiro</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/estaduais/campeonato-paulista/">Campeonato Paulista </a></li>
+<li><a href="http://esportes.terra.com.br/futebol/internacional/">Futebol Internacional</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/mercado-da-bola/">Mercado da Bola</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/libertadores/">Libertadores</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/copa-2018">Copa 2018</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/copa-do-brasil/">Copa do Brasil</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/copa-nordeste">Copa Nordeste</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/copa-sao-paulo/">Copa São Paulo</a></li>
+<li><a href="http://futirinhas.com/">Futirinhas</a></li>
+<li><a href="http://gremioavalanche.com.br/">Grêmio Avalanche</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/lance-tv/videos/">Lance TV</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/mundialdeclubes/">Mundial de Clubes</a></li>
+<li><a href="http://spfc.terra.com.br/">SPFC.net</a></li>
+<li><a href="http://www.torcidaflamengo.com.br/">Torcida Flamengo</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/estaduais/campeonato-cearense/">Campeonato Cearense</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/estaduais/campeonato-paranaense/">Campeonato Paranaense</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/estaduais/campeonato-pernambucano/">Campeonato Pernambucano</a></li>
+<li><a href="http://esportes.terra.com.br/brasil/">Seleção Brasileira</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/blogdoboleiro/blog">Blog do Boleiro</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/entrando-no-jogo/blog/">Blog Entrando no Jogo</a></li>
+<li><a href="http://www.tudotimao.com.br/">Tudo Timão</a></li>
+<li><a href="http://verdaoweb.com.br/">Verdão Web</a></li>
+<li><a href="http://esportes.terra.com.br/futebol/sulamericano-sub20/">Sul-Americano Sub-20</a></li>
+</ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/futebol-americano">Futebol Americano</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/futsal/">Futsal</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/ginastica/">Ginástica</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/lutas/">Lutas</a><ul>
+<li><a href="http://esportes.terra.com.br/lutas/boxe">Boxe</a></li>
+<li><a href="http://esportes.terra.com.br/lutas/lutas-olimpicas">Lutas Olímpicas</a></li>
+<li><a href="http://esportes.terra.com.br/lutas/mma">MMA</a></li>
+<li><a href="http://www.superlutas.com.br/">Superlutas</a></li>
+<li><a href="http://www.tatame.com.br/">Tatame</a></li>
+</ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/motociclismo">Motociclismo</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/jogos-olimpicos/2016/">Rio 2016	</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/tenis/">Tênis</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/volei">Vôlei</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/surfe">Surfe</a><ul></ul>
+</li>
+<li>
+<a href="http://waves.terra.com.br/%20">Waves</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/timeout/blog">Blog Time Out</a><ul></ul>
+</li>
+<li>
+<a href="http://esportes.terra.com.br/jogos-pan-americanos/">Jogos Pan Americanos</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://games.terra.com.br/">Games</a><ul>
+<li>
+<a href="http://www.terra.com.br/webgames/pop/">Jogos online</a><ul></ul>
+</li>
+<li>
+<a href="http://jogoscasuais.terra.com.br/">Jogos casuais</a><ul></ul>
+</li>
+<li>
+<a href="http://outerspace.terra.com.br/">Outer Space</a><ul></ul>
+</li>
+<li>
+<a href="http://www.papajogos.com.br/">Papa jogos</a><ul></ul>
+</li>
+<li>
+<a href="http://www.jogosdemeninas.net/">Jogos de meninas</a><ul></ul>
+</li>
+<li>
+<a href="http://games.terra.com.br/plataformas/playstation">Playstation</a><ul></ul>
+</li>
+<li>
+<a href="http://games.terra.com.br/plataformas/xbox">Xbox</a><ul></ul>
+</li>
+<li>
+<a href="http://judao.com.br/">Judão</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://vidaeestilo.terra.com.br/horoscopo">Horóscopo</a><ul>
+<li>
+<a href="http://aparecidaliberato.terra.com.br/">Aparecida Liberato</a><ul></ul>
+</li>
+<li>
+<a href="http://vidaeestilo.terra.com.br/horoscopo/astrologia">Astrologia</a><ul></ul>
+</li>
+<li>
+<a href="http://vidaeestilo.terra.com.br/horoscopo/esoterico">Esotérico</a><ul></ul>
+</li>
+<li>
+<a href="http://vidaeestilo.terra.com.br/horoscopo/feng-shui">Feng Shui</a><ul></ul>
+</li>
+<li>
+<a href="http://vidaeestilo.terra.com.br/horoscopo/previsoes-de-hoje-para-os-signos,603f7aefc106d310VgnVCM3000009acceb0aRCRD.html">Signos</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://diversao.terra.com.br/gente/">Famosos</a><ul>
+<li>
+<a href="http://blog-da-katylene.blogs.terra.com/">Blog da Katylene</a><ul></ul>
+</li>
+<li>
+<a href="http://diversao.terra.com.br/gente/spot/blog/">Blog Spot</a><ul></ul>
+</li>
+<li>
+<a href="http://www.ofuxico.com.br/">O Fuxico</a><ul></ul>
+</li>
+<li>
+<a href="http://siterg.terra.com.br/">Site RG</a><ul></ul>
+</li>
+<li>
+<a href="http://www.oscarfilho.com.br/">Oscar Filho</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://moda.terra.com.br/">Moda</a><ul>
+<li>
+<a href="http://moda.terra.com.br/blogdoarlindogrund/blog">Blog do Arlindo Grund</a><ul></ul>
+</li>
+<li>
+<a href="http://moda.terra.com.br/fashion-rio">Fashion Rio</a><ul>
+<li><a href="http://moda.terra.com.br/fashion-rio/bastidores/ultimas">Bastidores</a></li>
+<li><a href="http://moda.terra.com.br/fashion-rio/desfiles/ultimas">Desfiles</a></li>
+<li><a href="http://moda.terra.com.br/fashion-rio/famosos-no-fashion-rio/">Famosos no Fashion Rio</a></li>
+</ul>
+</li>
+<li>
+<a href="http://ffw.com.br/">FFW</a><ul></ul>
+</li>
+<li>
+<a href="http://harpersbazaar.com.br/blog/">Harper's bazaar</a><ul></ul>
+</li>
+<li>
+<a href="http://www.isabellafiorentino.com.br/">Isabella Fiorentino</a><ul></ul>
+</li>
+<li>
+<a href="http://moda.terra.com.br/moda-no-mundo">Moda no Mundo</a><ul>
+<li><a href="http://moda.terra.com.br/moda-no-mundo/paris/">Paris</a></li>
+<li><a href="http://moda.terra.com.br/moda-no-mundo/milao/">Milão</a></li>
+<li><a href="http://moda.terra.com.br/moda-no-mundo/londres/">Londres</a></li>
+<li><a href="http://moda.terra.com.br/moda-no-mundo/nova-york/">Nova York</a></li>
+</ul>
+</li>
+<li>
+<a href="http://moda.terra.com.br/spfw">SPFW</a><ul>
+<li><a href="http://moda.terra.com.br/spfw/desfiles/ultimas">Desfiles</a></li>
+<li><a href="http://moda.terra.com.br/spfw/famosos-no-spfw/">Famosos no SPFW</a></li>
+<li><a href="http://moda.terra.com.br/spfw/sorriso-instantaneo">Sorriso Instantâneo</a></li>
+</ul>
+</li>
+<li>
+<a href="http://tempodemoda.climatempo.com.br/">Tempo de Moda</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://mulher.terra.com.br/">Mulher</a><ul>
+<li>
+<a href="http://mulher.terra.com.br/vida-a-dois">Amor e sexo</a><ul></ul>
+</li>
+<li>
+<a href="http://blogdamimis.com.br/">Blog da Mimis</a><ul></ul>
+</li>
+<li>
+<a href="http://vidaeestilo.terra.com.br/casa-e-decoracao">Casa e Decoração</a><ul></ul>
+</li>
+<li>
+<a href="http://zankyou.terra.com.br/">Zankyou</a><ul></ul>
+</li>
+<li>
+<a href="http://circolare.terra.com.br/">Circolare</a><ul></ul>
+</li>
+<li>
+<a href="http://mulher.terra.com.br/comportamento">Comportamento</a><ul></ul>
+</li>
+<li>
+<a href="http://daquidali.com.br/">Daqui Dali</a><ul></ul>
+</li>
+<li>
+<a href="http://www.entendaoshomens.com.br/">Entenda os homens</a><ul></ul>
+</li>
+<li>
+<a href="http://www.istoegente.com.br/">IstoÉ Gente</a><ul></ul>
+</li>
+<li>
+<a href="http://mulher.terra.com.br/noivas">Noivas</a><ul></ul>
+</li>
+<li>
+<a href="http://www.revistamenu.com.br/">Revista Menu</a><ul></ul>
+</li>
+<li>
+<a href="http://www.taofeminino.com.br/">Tão Feminino</a><ul></ul>
+</li>
+<li>
+<a href="http://mulher.terra.com.br/vida-de-mae">Vida de mãe</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://musica.terra.com.br/">Música</a><ul>
+<li>
+<a href="http://www.billboard.com.br/">Billboard</a><ul></ul>
+</li>
+<li>
+<a href="http://www.cifraclub.com.br/">Cifra Club</a><ul></ul>
+</li>
+<li>
+<a href="http://www.kboing.com.br/">Kboing</a><ul></ul>
+</li>
+<li>
+<a href="http://kissfm.com.br/">Kiss FM</a><ul></ul>
+</li>
+<li>
+<a href="http://musica.terra.com.br/independencia-ou-morte/blog">Independência ou Morte</a><ul></ul>
+</li>
+<li>
+<a href="http://letras.mus.br/">Letras</a><ul></ul>
+</li>
+<li>
+<a href="http://napster.terra.com.br/">Napster</a><ul></ul>
+</li>
+<li>
+<a href="http://musica.terra.com.br/planetaterra">Planeta Terra</a><ul></ul>
+</li>
+<li>
+<a href="http://musica.terra.com.br/terra-live-music/">Terra Live Music</a><ul></ul>
+</li>
+<li>
+<a href="http://www.territoriodamusica.com/">Território da Música</a><ul></ul>
+</li>
+<li>
+<a href="http://musica.terra.com.br/videoclipes/videos/">Videoclipes</a><ul></ul>
+</li>
+<li>
+<a href="http://palcomp3.com/%20">Palco Mp3</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://noticias.terra.com.br/">Notícias</a><ul>
+<li>
+<a href="http://noticias.terra.com.br/brasil/">Brasil</a><ul>
+<li><a href="http://atualidadesdodireito.com.br/">Atualidades do Direito</a></li>
+<li><a href="http://catve.tv">Catve</a></li>
+<li><a href="http://noticias.terra.com.br/brasil/cidades">Cidades</a></li>
+<li><a href="http://diariosp.com.br/">Diário SP</a></li>
+<li><a href="http://www.folhape.com.br/%20">FolhaPE</a></li>
+<li><a href="http://www.istoe.com.br/capa">IstoÉ</a></li>
+<li><a href="http://noticias.terra.com.br/brasil/policia">Polícia</a></li>
+<li><a href="http://noticias.terra.com.br/brasil/politica">Política</a></li>
+<li><a href="http://redebomdia.com.br/">Rede Bom Dia</a></li>
+<li><a href="http://noticias.terra.com.br/brasil/transito/">Trânsito</a></li>
+</ul>
+</li>
+<li>
+<a href="http://noticias.terra.com.br/ciencia/">Ciência</a><ul>
+<li><a href="http://noticias.terra.com.br/ciencia/animais">Animais</a></li>
+<li><a href="http://noticias.terra.com.br/ciencia/espaco">Espaço</a></li>
+<li><a href="http://noticias.terra.com.br/ciencia/sustentabilidade">Sustentabilidade</a></li>
+<li><a href="http://revistaplaneta.terra.com.br/">Revista Planeta</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.climatempo.com.br/">Climatempo</a><ul></ul>
+</li>
+<li>
+<a href="http://noticias.terra.com.br/educacao/">Educação</a><ul>
+<li><a href="http://www.colegioweb.com.br/">Colégio Web</a></li>
+<li><a href="http://noticias.terra.com.br/educacao/enem">ENEM</a></li>
+<li><a href="http://noticias.terra.com.br/educacao/historia">História</a></li>
+<li><a href="http://noticias.terra.com.br/educacao/vestibular">Vestibular</a></li>
+<li><a href="http://noticias.terra.com.br/educacao/voce-sabia">Você sabia</a></li>
+</ul>
+</li>
+<li>
+<a href="http://noticias.terra.com.br/eleicoes/">Eleições</a><ul><li><a href="http://noticias.terra.com.br/eleicoes/como-eu-me-sinto-na-eleicao/blog">Blog Como eu me sinto na eleição</a></li></ul>
+</li>
+<li>
+<a href="http://noticias.terra.com.br/loterias/">Loterias</a><ul>
+<li><a href="http://noticias.terra.com.br/loterias/dupla-sena">Dupla sena</a></li>
+<li><a href="http://noticias.terra.com.br/loterias/loteca">Loteca</a></li>
+<li><a href="http://noticias.terra.com.br/loterias/loteria-federal/">Loteria Federal</a></li>
+<li><a href="http://noticias.terra.com.br/loterias/lotomania">Lotomania</a></li>
+<li><a href="http://noticias.terra.com.br/loterias/lotofacil">Lotofácil</a></li>
+<li><a href="http://noticias.terra.com.br/loterias/mega-sena">Mega sena</a></li>
+<li><a href="http://noticias.terra.com.br/loterias/quina">Quina</a></li>
+</ul>
+</li>
+<li>
+<a href="http://noticias.terra.com.br/mundo">Mundo</a><ul>
+<li><a href="http://noticias.terra.com.br/mundo/africa">África</a></li>
+<li><a href="http://noticias.terra.com.br/mundo/america-latina">América Latina</a></li>
+<li><a href="http://noticias.terra.com.br/mundo/asia">Ásia</a></li>
+<li><a href="http://noticias.terra.com.br/mundo/estados-unidos">Estados Unidos</a></li>
+<li><a href="http://noticias.terra.com.br/mundo/europa">Europa</a></li>
+<li><a href="http://noticias.terra.com.br/mundo/oceania">Oceania</a></li>
+<li><a href="http://noticias.terra.com.br/mundo/oriente-medio">Oriente Médio</a></li>
+</ul>
+</li>
+<li>
+<a href="http://tecnologia.terra.com.br/">Tecnologia</a><ul>
+<li><a href="http://tecnologia.terra.com.br/celular">Celular</a></li>
+<li><a href="http://cio.com.br/">CIO</a></li>
+<li><a href="http://computerworld.com.br/">ComputerWorld</a></li>
+<li><a href="http://tecnologia.terra.com.br/hardware-e-software">Hardware e software</a></li>
+<li><a href="http://idgnow.com.br/">IDGNow!</a></li>
+<li><a href="http://macworldbrasil.com.br/">MacWorldBrasil</a></li>
+<li><a href="http://tecnologia.terra.com.br/robos">Rôbos</a></li>
+<li><a href="http://tecnologia.terra.com.br/negocios-e-ti">Negócios e TI</a></li>
+<li><a href="http://www.pcmag.com.br/">PCMag</a></li>
+<li><a href="http://pcworld.com.br/">PCWorld</a></li>
+<li><a href="http://www.scriptbrasil.com.br/">Script Brasil</a></li>
+<li><a href="http://www.telesintese.com.br">Telesíntese</a></li>
+<li><a href="http://twitcom.com.br/">Twitcom</a></li>
+<li><a href="http://www.select.art.br/">Revista Select</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.revistastatus.com.br/">Revista Status</a><ul></ul>
+</li>
+<li>
+<a href="http://www.vejoaovivo.com.br/">VejoaoVivo</a><ul></ul>
+</li>
+<li>
+<a href="http://noticias.terra.com.br/retrospectiva/">Retrospectiva 2014</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://saude.terra.com.br/">Saúde</a><ul>
+<li>
+<a href="http://saude.terra.com.br/bem-estar">Bem-estar</a><ul></ul>
+</li>
+<li>
+<a href="http://blogdamimis.com.br/">Blog da Mimis</a><ul></ul>
+</li>
+<li>
+<a href="http://www.boasaude.com.br/">Boa saúde</a><ul></ul>
+</li>
+<li>
+<a href="http://www.terra.com.br/saude/infograficos/imc/">Calculadora IMC</a><ul></ul>
+</li>
+<li>
+<a href="http://www.terra.com.br/saude/infograficos/calorias/">Calorias dos alimentos</a><ul></ul>
+</li>
+<li>
+<a href="http://www.terra.com.br/saude/infograficos/gasto-calorico/">Calorias e atividades</a><ul></ul>
+</li>
+<li>
+<a href="http://saude.terra.com.br/dietas">Dietas</a><ul></ul>
+</li>
+<li>
+<a href="http://doutissima.com.br/">Doutíssima</a><ul></ul>
+</li>
+<li>
+<a href="http://saude.terra.com.br/gestacao">Gestação</a><ul></ul>
+</li>
+<li>
+<a href="http://idmed.terra.com.br/">IDMed</a><ul></ul>
+</li>
+<li>
+<a href="http://saude.terra.com.br/marmita-saudavel/blog">Marmiteira</a><ul></ul>
+</li>
+<li>
+<a href="http://saude.terra.com.br/nutricao">Nutrição</a><ul></ul>
+</li>
+<li>
+<a href="http://saude.terra.com.br/saude-bucal/">Saúde Bucal</a><ul>
+<li><a href="http://saude.terra.com.br/saude-bucal/atualidades/">Atualidades</a></li>
+<li><a href="http://saude.terra.com.br/saude-bucal/artigos-da-ada/">Artigos da ADA</a></li>
+<li><a href="http://saude.terra.com.br/saude-bucal/boa-higiene-oral/">Boa higiene oral</a></li>
+<li><a href="http://saude.terra.com.br/saude-bucal/condicoes-medicas">Condições Médicas</a></li>
+<li><a href="http://saude.terra.com.br/saude-bucal/estagios-da-vida/">Estágios da vida </a></li>
+<li><a href="http://saude.terra.com.br/saude-bucal/indexgames,b9a7b9c9d0d78310VgnVCM4000009bcceb0aRCRD.html">Games</a></li>
+<li><a href="http://saude.terra.com.br/saude-bucal/indexguias,8233a35ae7188310VgnVCM3000009acceb0aRCRD.html">Guias Interativos</a></li>
+<li><a href="http://saude.terra.com.br/saude-bucal/problemas-comuns">Problemas Comuns</a></li>
+<li><a href="http://saude.terra.com.br/saude-bucal/tratamentos-dentais/%20">Tratamentos dentais</a></li>
+</ul>
+</li>
+<li>
+<a href="http://saude.terra.com.br/vegetarianismo/blog">Vegê</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://terratv.terra.com.br/">Terra TV</a><ul></ul>
+</li>
+<li>
+<a href="http://diversao.terra.com.br/tv/">TV</a><ul>
+<li>
+<a href="http://diversao.terra.com.br/tv/a-fazenda">A Fazenda</a><ul></ul>
+</li>
+<li>
+<a href="http://diversao.terra.com.br/tv/bbb/">BBB 15</a><ul></ul>
+</li>
+<li>
+<a href="http://crackle.terra.com.br/">Crackle</a><ul></ul>
+</li>
+<li>
+<a href="http://diversao.terra.com.br/tv/novelas">Novelas</a><ul>
+<li><a href="http://diversao.terra.com.br/tv/novelas/imperio">Império</a></li>
+<li><a href="http://diversao.terra.com.br/tv/novelas/malhacao">Malhação</a></li>
+<li><a href="http://diversao.terra.com.br/tv/novelas/boogie-oogie/">Boggie Oogie</a></li>
+<li><a href="http://diversao.terra.com.br/tv/novelas/geracao-brasil/">Geração Brasil</a></li>
+</ul>
+</li>
+<li>
+<a href="http://www.terra.com.br/diversao/infograficos/novelas/">Resumo de novelas</a><ul></ul>
+</li>
+<li>
+<a href="http://diversao.terra.com.br/tv/sala-de-tv/blog">Sala de TV</a><ul></ul>
+</li>
+<li>
+<a href="http://diversao.terra.com.br/tv/series">Séries</a><ul></ul>
+</li>
+<li>
+<a href="http://diversao.terra.com.br/tv/the-voice/">The Voice Brasil</a><ul></ul>
+</li>
+</ul>
+</li>
+<li>
+<a href="http://vcreporter.terra.com.br/">vc repórter</a><ul></ul>
+</li>
+</ul></div>
+<div><ul>
+<li><a href="http://antivirus.terra.com.br/promoa/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-antivirus-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Antivírus </a></li>
+<li><a href="http://apoioescolar.terra.com.br/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-apoioesco-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Apoio Escolar</a></li>
+<li><a href="http://backup.terra.com.br/web/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-tbackup-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Backup</a></li>
+<li><a href="http://acesso.terra.com.br/bandalarga/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-bandalarga-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Banda Larga</a></li>
+<li><a href="http://celular.terra.com.br/?&amp;par=1469&amp;hash=7d661730c396e86956425418a466c957">Celular</a></li>
+<li><a href="http://chat.terra.com.br/">Chat</a></li>
+<li><a href="http://concursopublico.terra.com.br/planos-disponiveis?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-tcpublico-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Concurso Público</a></li>
+<li><a href="http://cursodeingles.terra.com.br/web/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-ingl-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Cursos de Inglês</a></li>
+<li><a href="http://cursosonline.terra.com.br/cgi-bin/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-tcursos-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Cursos Online</a></li>
+<li><a href="http://discovirtual.terra.com.br/vdmain.shtml?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-disvirtu-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Disco Virtual</a></li>
+<li><a href="http://www.terra.com.br/mailassinaturas/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-tmg-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">E-Mail </a></li>
+<li><a href="http://napster.terra.com.br/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-tmusica-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Música</a></li>
+<li><a href="http://fuxico.parperfeito.com.br/">Namoro</a></li>
+<li><a href="http://nuvemdelivros.terra.com.br/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-nuvlivros-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Nuvem de Livros</a></li>
+<li><a href="http://shopping.terra.com.br/?id=id_pagina">Shopping</a></li>
+<li><a href="https://clube.terra.com.br/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-clube-scamp-pulldown-home-capa-cp&amp;cdConvenio=CVTR00001820">Terra Clube</a></li>
+<li><a href="http://terraempresas.com.br/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-tempresas-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Terra Empresas</a></li>
+<li><a href="http://resolve.terra.com.br/?utm_source=cp-texto&amp;utm_medium=br-mktperf-home-pulldown&amp;utm_campaign=br-mktperf-resolve-scamp-pulldown-home-menu-cp&amp;cdConvenio=CVTR00001820">Terra Resolve </a></li>
+</ul></div>
+</div></div></div></div></div></div>
+
+		
+	
+	<!-- NAVBAR -->
+
+	
+	
+	<div id="trr-ctn-general">
+
+		
+		
+	
+		<div id="top" class="advertising header">
+		
+		</div>	
+		
+		<div id="zaz-gambit" class="zaz-gambit">
+			<div class="gambit-gridsize"></div>
+			<div class="gambit-notifications"></div>
+			<div id="zaz-news-histories" class="zaz-news-histories"></div>
+			<div id="zaz-gambit-table" class="zaz-gambit-table"></div>
+		</div>
+	
+		<div id="progbar">
+			<div class="meter animate">
+				<span style="width: 100%"><span></span></span>
+			</div>
+		</div>
+
+		
+
+		<script> 
+			//lo mas br.*.*
+			// special.qs
+			//br  
+			//home
+			//home
+			//Mozilla/5.0 (compatible; pycurl)
+				//----------
+			//c59f8294-c0a2-42cd-bf7a-8edad0726185
+			//20e07ef2795b2310VgnVCM3000009af154d0RCRD
+			//Unknown cookie
+			//www.terra.com.br
+			//Unknown cookie
+		</script><noscript><!--  no script mess here --></noscript>	
+
+		
+		<script  type="text/javascript">
+			var hostNames = {
+					"montador": '1c5',
+					"croupier": '',
+					"includer": ''
+			}
+		
+		</script><noscript><!--  no script mess here --></noscript>
+		
+		<div id="trr-navbar-footer">© COPYRIGHT 2014, TERRA NETWORKS S.A.</div> 
+	</div>
+	
+		
+	<!-- zaz start -->
+	
+	<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1420642447/metrics/v2/br/t-g-d.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1418945428/fe/zaz-mod-xact/core/zaz-xact.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1419943223/fe/zaz-mod-rum/_js/zaz-rum.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1420720831/fe/zaz-mod-viewable/_js/zaz-mod-viewable.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1419887707/fe/zaz-mod-render/_js/zaz-render.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1421843717/fe/zaz-admanager/zaz-admanager.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1422452432/fe/zaz-gambit/_js/zaz-gambit-std.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1417716909/fe/zaz-mod-headlines/_js/zaz-mod-headlines.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1410898228/fe/portal/_js/common.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1421930719/fe/zaz-comp-socialbuttons/_js/comp-socialbuttons.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1422462918/fe/zaz-navbar/_js/navbar.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1416486617/fe/zaz-app-contentstatus/_js/zaz-app-contentstatus.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1411151847/fe/zaz-app-teams/_js/zaz-app-teams.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1404929724/fe/zaz-app-breakingnews/_js/zaz-app-breakingnews.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1422449442/fe/zaz-app-social-panel/_js/zaz-app-social-panel.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1398721836/fe/zaz-app-oneday/_js/zaz-app-oneday.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1420748106/fe/zaz-app-essential/_js/app-essential.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1422385509/fe/zaz-app-live/_js/app-live.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1400005519/fe/zaz-app-standings/_js/templates.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1411478110/fe/zaz-app-standings/_js/zaz-app-standings.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1421429717/fe/zaz-app-horoscope/_js/zaz-app-horoscope.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1414603519/fe/zaz-app-weather/_js/zaz-app-weather.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1400005519/fe/zaz-app-financial/_js/zaz-app-financial.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1399926639/fe/zaz-app-subjects-list/_js/subjects-list.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1402428907/fe/zaz-app-profiles-list/_js/zaz-app-profiles-list.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1412882425/fe/zaz-app-survey/_js/zaz-app-survey.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1411138292/fe/zaz-app-video-stream/_js/zaz-app-video-stream.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1422463513/fe/zaz-app-special-content/_js/zaz-app-special-content.min.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1421943310/fe/zaz-app-related-content/_js/zaz-app-related-content.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1422038427/fe/zaz-app-special-menu/_js/zaz-app-special-menu.min.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s1.trrsf.com/update-1415297421/fe/zaz-app-topstories/_js/zaz-app-topstories.js"></script><noscript><!-- behavior layer --></noscript>
+<script type="text/javascript" charset="utf-8" src="http://s2.trrsf.com/update-1422303630/fe/portal/home/_js/context.js"></script><noscript><!-- behavior layer --></noscript>
+
+	
+	<!-- ZaZ end -->
+	
+
+    <!-- SETUP tgmkey="br.homepage.home" -->
+<script type="text/javascript">
+try { AdManager.set('backend_getviewport', { }) } catch(e) { };
+var sizeAreasAd={"1":{width:300,height:250}};try{if(tgmKey.search("articles")!=-1){AdManager.configure({VIEWPORT_MAX:3,VIEWPORT_ORDER:[2,2,3],THIRDPARTY_TIMEOUT:9000000})}else{AdManager.configure({VIEWPORT_MAX:4,VIEWPORT_ORDER:[3,2,3,4],THIRDPARTY_TIMEOUT:9000000})}}catch(error){}try{AdManager.load3rdPartyCode({url:"//www.terra.com.br/ads2/adops/js/integracao3rd.js"}).then(function(a){AdManager.set("iframe3rd",a)},function(a){console.log(a)});top.AdManager.set("ppiCompanion","0");top.AdManager.set("google_tag","/1211/br.terra.homepage/home")}catch(error){}top.window.getCookie=function(j){var i,g,h,f=document.cookie.split(";");for(i=0;i<f.length;i++){g=f[i].substr(0,f[i].indexOf("="));h=f[i].substr(f[i].indexOf("=")+1);g=g.replace(/^\s+|\s+$/g,"");if(g==j){return unescape(h)}}return""};top.window.keyGen=function(d,c,e){keyword=d;customCriteria={};if(keyword.search("viewport=galleries")!=-1&&top.window.trr.contextData.np!=undefined){keyword=keyword.replace("viewport=galleries","viewport=galleries_new")}if(keyword.search("viewport")==-1){keyword="viewport=s"+e+";"+keyword}if(top.location.toString().search("lineid=")!=-1){keyword=keyword+";lineid="+top.location.toString().split("lineid=")[1]}try{if(c.search("300x250")!=-1&&top.AdManager.get("ppiCompanion")!="0"){keyword=keyword+";companion="+top.AdManager.get("ppiCompanion");top.AdManager.set("ppiCompanion","0")}}catch(f){}try{keyword=keyword+";"+top.getSegments(c)}catch(f){}if(keyword!=""){var b=keyword.split(";");for(var a=0;a<b.length;a++){if(b[a].search("=")!=-1){customCriteriaArray2=b[a].split("=");customCriteria[customCriteriaArray2[0]]=customCriteriaArray2[1].split(",")}}}return customCriteria};top.window.sizeGen=function(sizes,device){var slotSize=sizes;if(slotSize!=""){var slotSizeArray1=slotSize.split(";");slotSize="";for(var i=0;i<slotSizeArray1.length;i++){slotSize=slotSize+"["+slotSizeArray1[i].replace("x",",")+"],"}slotSize=(slotSizeArray1.length>=2&&device=="web")?"[1,1],"+slotSize:slotSize;slotSize=eval("["+slotSize.substring(0,slotSize.length-1)+"]")}return slotSize};top.window.loadOFP=function(){if(document.getElementById("out-of-page-terra-ad")==null){var a=document.createElement("div");a.setAttribute("id","out-of-page-terra-ad");document.getElementsByTagName("body")[0].appendChild(a);googletag.cmd.push(function(){var b=googletag.defineOutOfPageSlot(top.AdManager.get("google_tag"),"out-of-page-terra-ad");b.addService(googletag.pubads());if(top.location.toString().search("lineid=")!=-1){b.setTargeting("lineid",[top.location.toString().split("lineid=")[1]])}else{if(top.window.getCookie("uv")!=""){b.setTargeting("dmpid",[top.window.getCookie("uv")])}else{b.setTargeting("dmpid",["adopserror"])}}googletag.enableServices()});googletag.cmd.push(function(){googletag.display("out-of-page-terra-ad")})}};top.window.addEventListener("message",function(a){if(a.origin=="http://rvv.terra.com.br"){top.AdManager.set("ppiCompanion",a.data)}},false);sizeAreasAd[2]=[{"width":300,"height":250},{"width":300,"height":250}];AdManager.configure({VIEWPORT_MAX:4,VIEWPORT_ORDER:[3,5,3,4]});
+</script>
+<!-- AREA s1 -->
+<script type="text/javascript">
+try { AdManager.get('backend_getviewport')['s1'] = function() { (function(){try{if(""=="true"){top.loadOFP()}}catch(b){}try{viewPort=top.AdManager.getCurrentViewport()}catch(b){viewPort="Off"}try{slotSize=top.sizeGen("300x250","web")}catch(b){slotSize=[[1,1]]}try{if(top.window.getCookie("uv")!=""){customCriteria=top.keyGen(";dmpid="+top.window.getCookie("uv"),"300x250",viewPort)}else{customCriteria=top.keyGen(";dmpid=null;","300x250",viewPort)}}catch(b){customCriteria={seg:["error"]}}try{single=(window.frameElement.id.search("stickad")!=-1)?true:false}catch(b){single=false}try{reloadKey=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?false:true;reloadTime=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?600:35}catch(b){reloadKey=true;reloadTime=35}googleTag=("br.terra.homepage/home"=="/")?top.AdManager.get("google_tag"):"/1211/br.terra.homepage/home";try{AdManager.defineAd({platform:"web",adserver:"dfp",type:"card",single:single,sizes:slotSize,google_tag:googleTag,keywords:customCriteria,reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:"viewable",times:1000,app:"ad_ops"}})}catch(b){}})();(function(){try{if(""=="true"){top.loadOFP()}}catch(b){}try{viewPort=top.AdManager.getCurrentViewport()}catch(b){viewPort="Off"}try{slotSize=top.sizeGen("300x250","mob")}catch(b){slotSize=[[1,1]]}try{if(top.window.getCookie("uv")!=""){customCriteria=top.keyGen(";dmpid="+top.window.getCookie("uv"),"300x250",viewPort)}else{customCriteria=top.keyGen(";dmpid=null;","300x250",viewPort)}}catch(b){customCriteria={seg:["error"]}}try{single=(window.frameElement.id.search("stickad")!=-1)?true:false}catch(b){single=false}try{reloadKey=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?false:true;reloadTime=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?600:35}catch(b){reloadKey=true;reloadTime=35}googleTag=("br.terra.homepage/home"=="/")?top.AdManager.get("google_tag"):"/1211/br.terra.homepage/home";try{AdManager.defineAd({platform:"mob",adserver:"dfp",type:"card",single:single,sizes:slotSize,google_tag:googleTag,keywords:customCriteria,reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:"viewable",times:1000,app:"ad_ops"}})}catch(b){}})();function showFloater(){articleBack=1;top.loadOFP()}function hideFloater(){if(top.document.getElementById("out-of-page-terra-ad").textContent!=""){top.document.getElementById("out-of-page-terra-ad").innerHTML=""}clearInterval(checkFloater)}var keyword="";var articleBack=0;var checkFloater=setInterval(function(){var b=0;var a=0;var f=(navigator.appName=="Microsoft Internet Explorer")?top.document.documentElement.scrollTop:top.window.scrollY;var e=window.innerHeight;var d=top.document.getElementById("article_s0_advertising");var c=top.document.getElementById("card-ad_4_full-0");if(d){b=d.offsetTop-window.innerHeight;if(f>=b&&articleBack==0&&b>=0){showFloater()}if(f<=b&&articleBack==1){hideFloater()}if(c){a=d.offsetTop+c.offsetTop+d.offsetHeight-e;if((f<=b||(f>=a&&a>2000))){hideFloater()}}}else{if(articleBack==0){showFloater()}if(c){a=c.offsetTop+document.getElementById("zaz-gambit").offsetTop-e+20;if(f>=a&&a>2000){hideFloater()}}}},100); } } catch(e) { }
+</script>
+<!-- AREA s2 -->
+<script type="text/javascript">
+try { AdManager.get('backend_getviewport')['s2'] = function() { (function(){try{if(""=="true"){top.loadOFP()}}catch(b){}try{viewPort=top.AdManager.getCurrentViewport()}catch(b){viewPort="Off"}try{slotSize=top.sizeGen("300x250","mob")}catch(b){slotSize=[[1,1]]}try{if(top.window.getCookie("uv")!=""){customCriteria=top.keyGen(";dmpid="+top.window.getCookie("uv"),"300x250",viewPort)}else{customCriteria=top.keyGen(";dmpid=null;","300x250",viewPort)}}catch(b){customCriteria={seg:["error"]}}try{single=(window.frameElement.id.search("stickad")!=-1)?true:false}catch(b){single=false}try{reloadKey=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?false:true;reloadTime=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?600:35}catch(b){reloadKey=true;reloadTime=35}googleTag=("br.terra.homepage/home"=="/")?top.AdManager.get("google_tag"):"/1211/br.terra.homepage/home";try{AdManager.defineAd({platform:"mob",adserver:"dfp",type:"card",single:single,sizes:slotSize,google_tag:googleTag,keywords:customCriteria,reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:"viewable",times:1000,app:"ad_ops"}})}catch(b){}})();(function(){try{if(""=="true"){top.loadOFP()}}catch(b){}try{viewPort=top.AdManager.getCurrentViewport()}catch(b){viewPort="Off"}try{slotSize=top.sizeGen("300x250","web")}catch(b){slotSize=[[1,1]]}try{if(top.window.getCookie("uv")!=""){customCriteria=top.keyGen("kw=card1;dmpid="+top.window.getCookie("uv"),"300x250",viewPort)}else{customCriteria=top.keyGen("kw=card1;dmpid=null;","300x250",viewPort)}}catch(b){customCriteria={seg:["error"]}}try{single=(window.frameElement.id.search("stickad")!=-1)?true:false}catch(b){single=false}try{reloadKey=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?false:true;reloadTime=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?600:35}catch(b){reloadKey=true;reloadTime=35}googleTag=("br.terra.homepage/home"=="/")?top.AdManager.get("google_tag"):"/1211/br.terra.homepage/home";try{AdManager.defineAd({platform:"web",adserver:"dfp",type:"card",single:single,sizes:slotSize,google_tag:googleTag,keywords:customCriteria,reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:"viewable",times:1000,app:"ad_ops"}})}catch(b){}})();(function(){try{if(""=="true"){top.loadOFP()}}catch(b){}try{viewPort=top.AdManager.getCurrentViewport()}catch(b){viewPort="Off"}try{slotSize=top.sizeGen("300x250","web")}catch(b){slotSize=[[1,1]]}try{if(top.window.getCookie("uv")!=""){customCriteria=top.keyGen("kw=card2;dmpid="+top.window.getCookie("uv"),"300x250",viewPort)}else{customCriteria=top.keyGen("kw=card2;dmpid=null;","300x250",viewPort)}}catch(b){customCriteria={seg:["error"]}}try{single=(window.frameElement.id.search("stickad")!=-1)?true:false}catch(b){single=false}try{reloadKey=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?false:true;reloadTime=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?600:35}catch(b){reloadKey=true;reloadTime=35}googleTag=("br.terra.homepage/home"=="/")?top.AdManager.get("google_tag"):"/1211/br.terra.homepage/home";try{AdManager.defineAd({platform:"web",adserver:"dfp",type:"card",single:single,sizes:slotSize,google_tag:googleTag,keywords:customCriteria,reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:"viewable",times:1000,app:"ad_ops"}})}catch(b){}})();(function(){var windowWidth=top.window.innerWidth;var slotSize="0x315";var adTag="http://www.terra.com.br/ads2/varejo/barradevarejo_br.html?ord=%%ord%%&wwidth=%%wWidth%%";var single=false;var ord=1;if(typeof(channel)=="undefined"){var channel="br.terra.homepage/home"}if(typeof(AdManager.get("web_varejo"))=="undefined"){AdManager.set("web_varejo",ord)}else{ord=AdManager.get("web_varejo")+1;AdManager.set("web_varejo",ord)}if(windowWidth>=1280){windowWidth="1280"}else if(windowWidth>=1024&&windowWidth<=1279){windowWidth="1024"}else if(windowWidth>=500&&windowWidth<=1023){windowWidth="800"}else{windowWidth="0"}adTag=adTag.replace("%%ord%%",ord);adTag=adTag.replace("%%rnd%%",Math.floor(Math.random()*99999999999));adTag=adTag.replace("%%wWidth%%",windowWidth);adTag=adTag.replace("%%channel%%",channel);if(slotSize!=""){slotSize=eval("[["+slotSize.replace("x",",")+"]]")}try{if(window.frameElement.id.search("stickad")!=-1){var single=true}}catch(error){}try{AdManager.defineAd({platform:'web',adserver:'uri',type:"full",single:single,uri:adTag,sizes:slotSize})}catch(error){}})(); } } catch(e) { }
+</script>
+<!-- AREA s3 -->
+<script type="text/javascript">
+try { AdManager.get('backend_getviewport')['s3'] = function() { (function(){try{if(""=="true"){top.loadOFP()}}catch(b){}try{viewPort=top.AdManager.getCurrentViewport()}catch(b){viewPort="Off"}try{slotSize=top.sizeGen("300x250;300x600;120x600;160x600","web")}catch(b){slotSize=[[1,1]]}try{if(top.window.getCookie("uv")!=""){customCriteria=top.keyGen(";dmpid="+top.window.getCookie("uv"),"300x250;300x600;120x600;160x600",viewPort)}else{customCriteria=top.keyGen(";dmpid=null;","300x250;300x600;120x600;160x600",viewPort)}}catch(b){customCriteria={seg:["error"]}}try{single=(window.frameElement.id.search("stickad")!=-1)?true:false}catch(b){single=false}try{reloadKey=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?false:true;reloadTime=(customCriteria.viewport.toString()=="s1"||viewPort%4==0)?600:35}catch(b){reloadKey=true;reloadTime=35}googleTag=("br.terra.homepage/home"=="/")?top.AdManager.get("google_tag"):"/1211/br.terra.homepage/home";try{AdManager.defineAd({platform:"web",adserver:"dfp",type:"card",single:single,sizes:slotSize,google_tag:googleTag,keywords:customCriteria,reloadRule:{reload:reloadKey,loop:reloadTime*1000,type:"viewable",times:1000,app:"ad_ops"}})}catch(b){}})();(function(){var windowWidth=top.window.innerWidth;var slotSize="0x315";var adTag="http://www.terra.com.br/ads2/varejo/barradevarejo_br.html?ord=%%ord%%&wwidth=%%wWidth%%";var single=false;var ord=1;if(typeof(channel)=="undefined"){var channel="br.terra.homepage/home"}if(typeof(AdManager.get("mob_varejo"))=="undefined"){AdManager.set("mob_varejo",ord)}else{ord=AdManager.get("mob_varejo")+1;AdManager.set("mob_varejo",ord)}if(windowWidth>=1280){windowWidth="1280"}else if(windowWidth>=1024&&windowWidth<=1279){windowWidth="1024"}else if(windowWidth>=500&&windowWidth<=1023){windowWidth="800"}else{windowWidth="0"}adTag=adTag.replace("%%ord%%",ord);adTag=adTag.replace("%%rnd%%",Math.floor(Math.random()*99999999999));adTag=adTag.replace("%%wWidth%%",windowWidth);adTag=adTag.replace("%%channel%%",channel);if(slotSize!=""){slotSize=eval("[["+slotSize.replace("x",",")+"]]")}try{if(window.frameElement.id.search("stickad")!=-1){var single=true}}catch(error){}try{AdManager.defineAd({platform:'mob',adserver:'uri',type:"full",single:single,uri:adTag,sizes:slotSize})}catch(error){}})(); } } catch(e) { }
+</script>
+
+
+    <script type="text/javascript">
+    try {
+        AdManager.configure({
+            DFP_TIMEOUT : 1500
+         });
+    } catch (error) {
+    }
+    </script><noscript><!--  no script mess here --></noscript>
+
+</body>
+
+</html>

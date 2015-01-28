@@ -4,7 +4,6 @@ require 'vendor/autoload.php';
 
 $input['terra'] =  file_get_contents("http://terra.com.br");
 $input['uol'] =  file_get_contents("http://uol.com.br");
-$input['globo'] =  file_get_contents("http://globo.com");
 
 function analyze($input){
     
@@ -36,23 +35,34 @@ $range = [$Q,$Q+$Q*2];
 $rangeData = [];
 $i = 0 ;
 foreach ($ffinal as $word => $count){
-
     if ($i <= $range[0]*2 /*&& $i <= $range[1]*/ )
         $rangeData[$word] = $count;
     $i++;
 }
 return $rangeData;
 }
-
-$input['terra'] = analyze($input['terra']);
-$input['uol'] = analyze($input['uol']);
-$input['globo'] = analyze($input['globo']);
-
-$commonWords = array_uintersect_assoc($input['uol'],$input['terra'], "strcasecmp");
-foreach($commonWords as $cwords=>$v){
-    $words = unserialize($cwords);
-    echo "
-    Palavra: {$words[0]}
-    ..Terra  : {$input['terra'][$cwords]} 
-    ..UOL    : {$input['uol'][$cwords]}\n";
+//processar conteudos
+foreach ($input as $name => $content){
+    $t = fopen("{$name}.txt","w");
+    fwrite($t, $content);
+    fclose($t);
+    $input[$name] = analyze($content);
+}
+$commons=[];
+foreach ($input['terra'] as $idx => $k){
+    if (array_key_exists($idx, $input['uol']))
+    {
+        $commons[$idx]['terra']= $input['terra'][$idx];
+        $commons[$idx]['uol']= $input['uol'][$idx];
+    }
+}
+    printf("%10s%10s%10s\n",    'PALAVRA','Terra','UOL');
+foreach($commons as $word=>$k){
+    $words = unserialize($word);
+    if (strlen($words[0])>3){
+        $terra = $k['terra'];
+        $uol = $k['uol'];
+        $word = $words[0];
+        printf("%10s%10s%10s\n",    $word,$terra,$uol);
+    }
 }
