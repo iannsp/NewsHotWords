@@ -1,0 +1,22 @@
+{
+    "name": "iannsp/news-hot-words",
+    "description": "What is hot in the home page of some pt-br web-portals",
+    "require": {
+        "html2text/html2text": "dev-master",
+        "iannsp/ngram": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "~4.4"
+    },
+    "minimum-stability":"dev",
+    "authors": [
+        {
+            "name": "Ivo Nascimento",
+            "email": "iannsp@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"": ["src/"]}
+    }
+
+}
