@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/mtibben/html2text.git",
-                "reference": "9f7cc61eb2aa857db00144294b52e422500627d1"
+                "reference": "1ff30ba6b0905fc1714385f747e0228d6bfcab15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/mtibben/html2text/zipball/9f7cc61eb2aa857db00144294b52e422500627d1",
-                "reference": "9f7cc61eb2aa857db00144294b52e422500627d1",
+                "url": "https://api.github.com/repos/mtibben/html2text/zipball/1ff30ba6b0905fc1714385f747e0228d6bfcab15",
+                "reference": "1ff30ba6b0905fc1714385f747e0228d6bfcab15",
                 "shasum": ""
             },
             "require-dev": {
@@ -37,7 +37,7 @@
                 "GPLv2"
             ],
             "description": "Converts HTML to formatted plain text",
-            "time": "2014-10-29 11:01:16"
+            "time": "2015-01-28 23:10:17"
         },
         {
             "name": "iannsp/ngram",
@@ -45,12 +45,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/iannsp/NGram.git",
-                "reference": "35240ce863f17ad09b6a8af5cbd9d40ce0243531"
+                "reference": "25efac26451783ba010e088391b5bb29d8814ee2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/iannsp/NGram/zipball/35240ce863f17ad09b6a8af5cbd9d40ce0243531",
-                "reference": "35240ce863f17ad09b6a8af5cbd9d40ce0243531",
+                "url": "https://api.github.com/repos/iannsp/NGram/zipball/25efac26451783ba010e088391b5bb29d8814ee2",
+                "reference": "25efac26451783ba010e088391b5bb29d8814ee2",
                 "shasum": ""
             },
             "require": {
@@ -61,8 +61,8 @@
             },
             "type": "library",
             "autoload": {
-                "psr-0": {
-                    "": "src/"
+                "psr-4": {
+                    "Ngram\\": "src/Ngram/"
                 }
             },
             "notification-url": "https://packagist.org/downloads/",
@@ -76,7 +76,7 @@
                 }
             ],
             "description": "A n-gram toolset.",
-            "time": "2015-01-28 19:23:21"
+            "time": "2015-01-30 14:46:33"
         }
     ],
     "packages-dev": [

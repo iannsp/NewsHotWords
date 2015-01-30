@@ -1,0 +1,27 @@
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+<script src="Chart/Chart.js"></script> 
+<script src="stat.json"></script> 
+<script>
+$(document).ready(function(){
+    console.log($(document).width());
+    console.log($("#statgraph"));
+    $("#statgraph").css('width',$(document).width()-50);
+    $("#statgraph").css('height',500);
+    var ctx = $("#statgraph").get(0).getContext("2d");
+    var myBarChart = new Chart(ctx).Line(stat,{"scaleShowHorizontalLines": false});
+});
+</script>
+<body style="padding:none; border:none">
+    <center><h2>Termos cruzados nos portais <a href="http://terra.com.br" target="blank">Terra</a> e <a href="http://uol.com.br" target="blank">Uol</a> com intervalo de 5 minutos.</h1>
+    </center>
+    <canvas id="statgraph" width="500" height="200"></canvas>
+<p>o processamento utilizou <a href="https://packagist.org/packages/iannsp/ngram" target="blank">Iannsp/Ngram</a></p>
+<p>O projeto esta em <a href="https://github.com/iannsp/NewsHotWords">NewsHotWords<a/></p>
+<p>Versão: 0.0.0.0.0.0.0.0.0.0.0.1</p>
+<p>um dia vai responder a pergunta: <strong>O que será que eles tanto falam?</a></p>
+<p><A href="https://github.com/iannsp" target="blank">Ivo Nascimento</a> iannsp [at] gmail.com</p>
+<p style="color:#fff">aposto que alguem vai la no código do projeto dizer eca. Meu caro, a ideia era o mais importante pra mim. ;)</p>
+</body>
+
+</html>
