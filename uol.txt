@@ -123,7 +123,7 @@
 
 		<script type="text/javascript">
 		var homeUOL        = window.homeUOL || {};
-		homeUOL.serverTime = "13";
+		homeUOL.serverTime = "15";
 		homeUOL.afterload  = [];
 		homeUOL.push       = function(f) {
 			if(this.loaded === true) {
@@ -920,9 +920,9 @@ function testePagSeguro(a){
 			</a></li>
 			
 			<li class="cotacao">
-				<a name="cabecalho-cotacoes" href="http://economia.uol.com.br/cotacoes/" class="opacity-hover-this cor7" title="Variação: +2,51%">
+				<a name="cabecalho-cotacoes" href="http://economia.uol.com.br/cotacoes/" class="opacity-hover-this cor7" title="Variação: +2,92%">
 					<strong class="cor7">Dólar</strong> <i class="sprite-widgets sprite-widgets-cotacao-alta"></i>
-					<span class="valor">R$ 2,678</span>
+					<span class="valor">R$ 2,688</span>
 				</a>
 			</li>
 			
@@ -2763,12 +2763,6 @@ homeUOL.push(function() {
 	</h1>
 
   
-      <ul class="sub">
-        
-            <li><a href="http://educacao.uol.com.br/noticias/2015/01/30/matricula-dos-aprovados-no-sisu-2015-comeca-hoje-prazo-termina-na-terca.htm" name="supertopo-manchete-modulo1-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Matrícula dos aprovados no Sisu 2015 começa hoje; prazo termina na terça </a></li>
-          
-      </ul>
-    
 </div>
 
 					
@@ -2794,6 +2788,12 @@ homeUOL.push(function() {
 				</a>
 			</h2>
 			
+					<ul class="sub">
+						
+								<li><a href="http://noticias.uol.com.br/ultimas-noticias/reuters/2015/01/30/governo-do-rj-negocia-reducao-no-consumo-de-agua-com-industrias.htm" name="supertopo-submanchete-modulo2-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Rio quer redução no consumo de indústrias </a></li>
+							
+					</ul>
+				
 		</div>
 	
 
@@ -2810,16 +2810,16 @@ homeUOL.push(function() {
 												
 		<div class="modulo moduloChamada">
 			<h2>
-				<a href="http://uol.com/bdd688" name="supertopo-chamada-modulo3" class="opacity-hover-this">
+				<a href="http://uol.com/bfd7pm" name="supertopo-chamada-modulo3" class="opacity-hover-this">
 					<strong class="cor2">Mercado financeiro</strong>
-					Dólar sobe 2% e vai a R$ 2,67  <span class="comentariosContainer"></span>
+					Dólar sobe 3% e vai a R$ 2,69  <span class="comentariosContainer"></span>
 					
 				</a>
 			</h2>
 			
 					<ul class="sub">
 						
-								<li><a href="http://uol.com/bld7kr" name="supertopo-chamada-modulo3-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Ações da Petrobras vão caindo mais de 7% </a></li>
+								<li><a href="http://uol.com/byd7fZ" name="supertopo-chamada-modulo3-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Ações da Petrobras vão caindo mais de 5% </a></li>
 							
 					</ul>
 				
@@ -2913,6 +2913,12 @@ homeUOL.push(function() {
 				</a>
 			</h2>
 			
+					<ul class="sub">
+						
+								<li><a href="http://www1.folha.uol.com.br/mercado/2015/01/1582805-ministro-diz-que-petrobras-foi-de-uma-transparencia-absoluta.shtml" name="supertopo-chamada-modulo4-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Ministro: Balanço teve transparência absoluta </a></li>
+							
+					</ul>
+				
 		</div>
 	
 
@@ -2929,9 +2935,9 @@ homeUOL.push(function() {
 												
 		<div class="modulo moduloChamada">
 			<h2>
-				<a href="http://www1.folha.uol.com.br/poder/2015/01/1582620-bradesco-processa-filha-de-delator-por-cheque-de-r-500-milhoes.shtml" name="supertopo-chamada-modulo2" class="opacity-hover-this">
-					<strong class="cor2">Delator da Lava Jato</strong>
-					Bradesco processa filha de Costa por cheque de R$ 500 milhões  <span class="comentariosContainer"></span>
+				<a href="http://noticias.uol.com.br/ultimas-noticias/agencia-estado/2015/01/30/secretario-diz-que-foi-desnecessario-uso-de-bomba-no-metro-de-sp-durante-protesto.htm" name="supertopo-chamada-modulo2" class="opacity-hover-this">
+					<strong class="cor2">Protesto contra a tarifa de transporte</strong>
+					PM usar bomba no metrô de SP foi desnecessário, diz secretário  <span class="comentariosContainer"></span>
 					
 				</a>
 			</h2>
@@ -3037,25 +3043,19 @@ homeUOL.push(function() {
 						
 								
 		
-				<div class="modulo moduloChamada i142x200">
+				<div class="modulo moduloChamada i80x80">
 			
 		<h2>
-			<a href="http://outrocanal.blogfolha.uol.com.br/2015/01/30/silvio-planeja-aposentadoria-com-sucessao-de-filha-e-neto/" name="supertopo-chamada-modulo15" class="opacity-hover">
-				<img width="142" height="200" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30silvioh.jpg" alt="Reprodução/SBT" title="Reprodução/SBT" class="opacity-90 lazyload" />
-				<noscript><img width="142" height="200" src="http://h.imguol.com/1501/30silvioh.jpg" alt="Reprodução/SBT" title="Reprodução/SBT" /></noscript>
-				<strong class="cor2 opacity-60">Aos 84</strong>
-				<span class="chamada opacity-60">Silvio planeja aposentadoria com sucessão de filha e neto  <span class="comentariosContainer"></span></span>
+			<a href="http://noticias.uol.com.br/saude/ultimas-noticias/redacao/2015/01/30/vai-beijar-muito-no-carnaval-veja-os-riscos-para-a-sua-saude.htm" name="supertopo-chamada-modulo14" class="opacity-hover">
+				<img width="80" height="80" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30beijo2h.jpg" alt="RAPHAEL MESQUITA 10.fev.2013/ FOTO RIO NEWS" title="RAPHAEL MESQUITA 10.fev.2013/ FOTO RIO NEWS" class="opacity-90 lazyload" />
+				<noscript><img width="80" height="80" src="http://h.imguol.com/1501/30beijo2h.jpg" alt="RAPHAEL MESQUITA 10.fev.2013/ FOTO RIO NEWS" title="RAPHAEL MESQUITA 10.fev.2013/ FOTO RIO NEWS" /></noscript>
+				<strong class="cor2 opacity-60">Previna-se</strong>
+				<span class="chamada opacity-60">Vai beijar muito no Carnaval? Veja os riscos para sua saúde  <span class="comentariosContainer"></span></span>
 				
 			</a>
 		</h2>
 		
 		
-					<ul class="sub">
-					
-						<li><a href="http://caras.uol.com.br/especial/tv/post/aos-84-anos-silvio-santos-revela-ter-uma-tatuagem-secreta-nao-mostro-para-ninguem " name="supertopo-chamada-modulo15-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Apresentador<br> brinca e diz ter uma tatuagem secreta </a></li>
-						
-					</ul>
-			
 			</div>
 	
 
@@ -3069,19 +3069,27 @@ homeUOL.push(function() {
 								<div class="moduloSemBorda ultimoModulo">
 									
 		
-				<div class="modulo moduloChamada i80x80">
+				<div class="modulo moduloChamada i142x200">
 			
 		<h2>
-			<a href="http://esporte.uol.com.br/tenis/ultimas-noticias/2015/01/30/ele-era-apontado-como-sucessor-de-guga-agora-so-pensa-em-ser-engenheiro.htm" name="supertopo-chamada-modulo14" class="opacity-hover">
-				<img width="80" height="80" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/ap30tenish.jpg" alt="Shuji Kajiyama/AP" title="Shuji Kajiyama/AP" class="opacity-90 lazyload" />
-				<noscript><img width="80" height="80" src="http://h.imguol.com/1501/ap30tenish.jpg" alt="Shuji Kajiyama/AP" title="Shuji Kajiyama/AP" /></noscript>
-				<strong class="cor2 opacity-60">Lembra do Tiago Fernandes?</strong>
-				<span class="chamada opacity-60">Ele era apontado como sucessor de Guga. Hoje estagia em 2 empresas  <span class="comentariosContainer"></span></span>
+			<a href="http://www1.folha.uol.com.br/comida/2015/01/1582165-soylent-tem-gosto-de-que-alimento-do-futuro-virou-hit-nos-estados-unidos.shtml" name="supertopo-chamada-modulo15" class="opacity-hover">
+				<img width="142" height="200" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30compostoh.jpg" alt="Eduardo Knapp/Folhapress" title="Eduardo Knapp/Folhapress" class="opacity-90 lazyload" />
+				<noscript><img width="142" height="200" src="http://h.imguol.com/1501/30compostoh.jpg" alt="Eduardo Knapp/Folhapress" title="Eduardo Knapp/Folhapress" /></noscript>
+				<strong class="cor2 opacity-60">Soylent</strong>
+				<span class="chamada opacity-60">Composto <br>em pó com nutrientes vira<br> hit nos EUA  <span class="comentariosContainer"></span></span>
 				
 			</a>
 		</h2>
 		
 		
+					<ul class="sub">
+					
+						<li><a href="http://www1.folha.uol.com.br/comida/2015/01/1582170-chefs-e-critico-da-folha-degustam-soylent-confira-as-avaliacoes.shtml" name="supertopo-chamada-modulo15-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Chefs: produto não causou boa impressão </a></li>
+						
+						<li><a href="http://www1.folha.uol.com.br/comida/2015/01/1582168-voltar-a-mastigar-apos-dois-dias-de-soylent-foi-um-grande-alivio.shtml" name="supertopo-chamada-modulo15-sub2" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Repórter fica 2 dias ingerindo o pó <i class="icoVideo"></i></a></li>
+						
+					</ul>
+			
 			</div>
 	
 
@@ -3438,7 +3446,7 @@ homeUOL.push(function() {
 	
 		
   <li class=" ">
-    <a class="menuGroup opacity-hover-this" href="http://clicklogger.rm.uol.com.br/?prd=32&grp=teste4:cartoes-debcred2;src:13;chn:0;creative:linkfixo_home2013_menu;thm:PagSeguro-titulo&msr=Cliques%20de%20Origem:1&oper=11&redir=https://pagseguro.uol.com.br/" name="menu">
+    <a class="menuGroup opacity-hover-this" href="http://clicklogger.rm.uol.com.br/?prd=32&grp=teste4:vendas25meios;src:13;chn:0;creative:linkfixo_home2013_menu;thm:PagSeguro-titulo&msr=Cliques%20de%20Origem:1&oper=11&redir=https://pagseguro.uol.com.br/" name="menu">
       
       
       
@@ -3461,12 +3469,12 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=32&grp=teste4:cartoes-debcred2;src:13;chn:0;creative:linkfixo_home2013_menu;thm:PagSeguro-imagem-texto-descritivo&msr=Cliques%20de%20Origem:1&oper=11&redir=https://pagseguro.uol.com.br/vender/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=32&grp=teste4:vendas25meios;src:13;chn:0;creative:linkfixo_home2013_menu;thm:PagSeguro-imagem-texto-descritivo&msr=Cliques%20de%20Origem:1&oper=11&redir=https://pagseguro.uol.com.br/vender/" name="menu">
       
           
               <span class="opacity-hover">
-                <img class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1411/pagseguro_cartoes.jpg" title="UOL" alt="UOL" width="142" height="100" />
-                <noscript><img class="opacity-90" src="http://h.imguol.com/1411/pagseguro_cartoes.jpg" title="UOL" alt="UOL" width="142" height="100" /></noscript>
+                <img class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/pagseguro-25meios.jpg" title="UOL" alt="UOL" width="142" height="100" />
+                <noscript><img class="opacity-90" src="http://h.imguol.com/1501/pagseguro-25meios.jpg" title="UOL" alt="UOL" width="142" height="100" /></noscript>
               </span>
             
         
@@ -3475,7 +3483,7 @@ homeUOL.push(function() {
         
       
       
-          Débito ou crédito? Os dois! Aceite cartão e aumente suas vendas
+          Aumente suas vendas oferecendo mais de 25 formas de pagamento
         
       
           </strong>
@@ -3493,7 +3501,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=32&grp=teste4:cartoes-debcred2;src:13;chn:0;creative:linkfixo_home2013_menu;thm:PagSeguro-TesteVenderPelaInternet&msr=Cliques%20de%20Origem:1&oper=11&redir=https://pagseguro.uol.com.br/vender/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=32&grp=teste4:vendas25meios;src:13;chn:0;creative:linkfixo_home2013_menu;thm:PagSeguro-TesteVenderPelaInternet&msr=Cliques%20de%20Origem:1&oper=11&redir=https://pagseguro.uol.com.br/vender/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -3518,7 +3526,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=32&grp=teste4:cartoes-debcred2;src:13;chn:0;creative:linkfixo_home2013_menu;thm:PagSeguro-TesteVenderPeloCelular&msr=Cliques%20de%20Origem:1&oper=11&redir=https://pagseguro.uol.com.br/venda-pelo-celular/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=32&grp=teste4:vendas25meios;src:13;chn:0;creative:linkfixo_home2013_menu;thm:PagSeguro-TesteVenderPeloCelular&msr=Cliques%20de%20Origem:1&oper=11&redir=https://pagseguro.uol.com.br/venda-pelo-celular/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -3723,7 +3731,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="menuGroup opacity-hover-this" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-controle-laranja3;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost-titulo&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/" name="menu">
+    <a class="menuGroup opacity-hover-this" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-variacao-amor;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost-titulo&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/" name="menu">
       
       
       
@@ -3746,12 +3754,12 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-controle-laranja3;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost-imagem-texto-descritivo&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-variacao-amor;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost-imagem-texto-descritivo&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/" name="menu">
       
           
               <span class="opacity-hover">
-                <img class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1404/24suaempresalaranja.jpg" title="" alt="" width="142" height="100" />
-                <noscript><img class="opacity-90" src="http://h.imguol.com/1404/24suaempresalaranja.jpg" title="" alt="" width="142" height="100" /></noscript>
+                <img class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/homeuol_menu_host_criarsites.jpg" title="UOL" alt="UOL" width="142" height="100" />
+                <noscript><img class="opacity-90" src="http://h.imguol.com/1501/homeuol_menu_host_criarsites.jpg" title="UOL" alt="UOL" width="142" height="100" /></noscript>
               </span>
             
         
@@ -3760,7 +3768,7 @@ homeUOL.push(function() {
         
       
       
-          Crie e hospede seu site, loja virtual, blog e muito mais
+          Crie seu site em minutos! É só arrastar textos, fotos e vídeos
         
       
           </strong>
@@ -3778,7 +3786,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-controle-laranja3;servico:CloudComputing;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost_cloud&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/uol-cloud-computing.html" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-variacao-amor;servico:CloudComputing;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost_cloud&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/uol-cloud-computing.html" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -3803,7 +3811,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-controle-laranja3;servico:Hospedagem;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost_Hospedagem&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/hospedagem-de-sites.html" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-variacao-amor;servico:Hospedagem;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost_Hospedagem&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/hospedagem-de-sites.html" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -3828,7 +3836,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-controle-laranja3;servico:LojaVirtual;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost_LojaVirtual&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/loja-virtual.html" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-variacao-amor;servico:LojaVirtual;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost_LojaVirtual&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/loja-virtual.html" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -3853,7 +3861,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-controle-laranja3;servico:Dominio;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost_RegistrodeDominio&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/registro-de-dominio.html" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=16&grp=teste4:menu-variacao-amor;servico:Dominio;src:13;chn:0;creative:linkfixo_home2013_menu;thm:uolhost_RegistrodeDominio&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uolhost.com.br/registro-de-dominio.html" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -3905,8 +3913,8 @@ homeUOL.push(function() {
       
           
               <span class="opacity-hover">
-                <img class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1304/selo-home2013-antivirus.jpg" title="" alt="" width="142" height="100" />
-                <noscript><img class="opacity-90" src="http://h.imguol.com/1304/selo-home2013-antivirus.jpg" title="" alt="" width="142" height="100" /></noscript>
+                <img class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1304/selo-home2013-antivirus.jpg" title="UOL" alt="UOL" width="142" height="100" />
+                <noscript><img class="opacity-90" src="http://h.imguol.com/1304/selo-home2013-antivirus.jpg" title="UOL" alt="UOL" width="142" height="100" /></noscript>
               </span>
             
         
@@ -3992,7 +4000,7 @@ homeUOL.push(function() {
       
       
       
-          Controle dos Pais
+          Controle dos pais
         
       
       
@@ -4106,7 +4114,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=22&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:produtosuol-assistenciatecnica&msr=Cliques%20de%20Origem:1&oper=11&redir=http://assistenciatecnica.uol.com.br/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=22&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:produtosuol-assistenciatecnica&msr=Cliques%20de%20Origem:1&oper=11&redir=http://assistenciatecnica.uol.com.br/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4215,7 +4223,7 @@ homeUOL.push(function() {
       
       
       
-          Emprego Certo 
+          Emprego Certo
         
       
       
@@ -4231,7 +4239,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=18&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:produtosuol-Gigamail&msr=Cliques%20de%20Origem:1&oper=11&redir=http://email.uol.com.br/gigamail/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=18&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:produtosuol-Gigamail&msr=Cliques%20de%20Origem:1&oper=11&redir=http://email.uol.com.br/gigamail/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4281,7 +4289,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://produtos.uol.com.br/megastore/" name="menu">
+    <a class="t-cor cor2-hover" href="http://produtos.uol.com.br/megastore/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4306,7 +4314,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=11&grp=src:13;chn:0;creative:linkfixo_home2013_Menu;thm:produtosuol-assinaturas&msr=Cliques%20de%20Origem:1&oper=11&redir=http://assine.uol.com.br/?cmpid=home-linkfixo_home2013_Menu-planos_banda_larga" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=11&grp=src:13;chn:0;creative:linkfixo_home2013_Menu;thm:produtosuol-assinaturas&msr=Cliques%20de%20Origem:1&oper=11&redir=http://assine.uol.com.br/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4331,7 +4339,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=54&grp=src:13;chn:0;creative:linkfixo_home2013_Menu;thm:produtosuol-RevelacaoDigital&msr=Cliques%20de%20Origem:1&oper=11&redir=http://revelacaodigital.uol.com.br/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=54&grp=src:13;chn:0;creative:linkfixo_home2013_Menu;thm:produtosuol-RevelacaoDigital&msr=Cliques%20de%20Origem:1&oper=11&redir=http://revelacaodigital.uol.com.br/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4356,7 +4364,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=4&grp=src:13;chn:0;creative:linkfixo_home2013_Menu;thm:produtosuol-WiFi&msr=Cliques%20de%20Origem:1&oper=11&redir=http://wifi.uol.com.br/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=4&grp=src:13;chn:0;creative:linkfixo_home2013_Menu;thm:produtosuol-WiFi&msr=Cliques%20de%20Origem:1&oper=11&redir=http://wifi.uol.com.br/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4381,7 +4389,7 @@ homeUOL.push(function() {
     
   
   <li class="testeB ">
-    <a class="menuGroup opacity-hover-this" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=12&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:compras_online-todaoferta&msr=Cliques%20de%20Origem:1&oper=11&redir=http://todaoferta.uol.com.br/" name="menu">
+    <a class="menuGroup opacity-hover-this" href="http://clicklogger.rm.uol.com.br/?prd=12&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:compras_online-todaoferta&msr=Cliques%20de%20Origem:1&oper=11&redir=http://todaoferta.uol.com.br/" name="menu">
       
       
       
@@ -4404,7 +4412,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=11&grp=skin:uol;src:13;chn:0;creative:linkfixo_home2013_menu;thm:compras_online-Shopping&redir=http://shopping.uol.com.br/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/shopping/?prd=239&msr=Cliques%20de%20Origem:1&oper=11&grp=skin:uol;src:13;chn:0;creative:linkfixo_home2013_menu;thm:compras_online-Shopping&redir=http://shopping.uol.com.br/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4413,7 +4421,7 @@ homeUOL.push(function() {
       
       
       
-          Comparar Preços
+          Comparar preços
         
       
       
@@ -4454,7 +4462,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=12&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:compras_online_to&msr=Cliques%20de%20Origem:1&oper=11&redir=http://todaoferta.uol.com.br/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=12&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:compras_online_to&msr=Cliques%20de%20Origem:1&oper=11&redir=http://todaoferta.uol.com.br/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4502,7 +4510,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=21&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:empregos_cadastrarvagas&msr=Cliques%20de%20Origem:1&oper=11&redir=http://empregocerto.uol.com.br/empresa" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=21&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:empregos_cadastrarvagas&msr=Cliques%20de%20Origem:1&oper=11&redir=http://empregocerto.uol.com.br/empresa" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4527,7 +4535,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=21&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:empregos_enviarcurriculo&msr=Cliques%20de%20Origem:1&oper=11&redir=http://empregocerto.uol.com.br/info/cadastre-se.html" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=21&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:empregos_enviarcurriculo&msr=Cliques%20de%20Origem:1&oper=11&redir=http://empregocerto.uol.com.br/info/cadastre-se.html" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4552,7 +4560,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=21&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:empregos_vagasdeemprego&msr=Cliques%20de%20Origem:1&oper=11&redir=http://empregocerto.uol.com.br/info/vagas_por_area.html" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=21&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:empregos_vagasdeemprego&msr=Cliques%20de%20Origem:1&oper=11&redir=http://empregocerto.uol.com.br/info/vagas_por_area.html" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4600,7 +4608,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=246&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:negocios-afiliados&msr=Cliques%20de%20Origem:1&oper=11&redir=http://afiliados.uol.com.br/" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=246&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:negocios-afiliados&msr=Cliques%20de%20Origem:1&oper=11&redir=http://afiliados.uol.com.br/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4650,7 +4658,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=7&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:negocios-Cliques&msr=Cliques%20de%20Origem:1&oper=11&redir=http://cliques.uol.com.br/ " name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=7&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:negocios-Cliques&msr=Cliques%20de%20Origem:1&oper=11&redir=http://cliques.uol.com.br/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4675,7 +4683,7 @@ homeUOL.push(function() {
     
   
   <li class=" ">
-    <a class="t-cor cor2-hover" href="http://click.uol.com.br/?rf=home2011-menu&u=http://clicklogger.rm.uol.com.br/?prd=59&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:negocios-Diveo&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uoldiveo.com.br/#rmcl" name="menu">
+    <a class="t-cor cor2-hover" href="http://clicklogger.rm.uol.com.br/?prd=59&grp=src:13;chn:0;creative:linkfixo_home2013_menu;thm:negocios-Diveo&msr=Cliques%20de%20Origem:1&oper=11&redir=http://www.uoldiveo.com.br/" name="menu">
       
           
               <i class="sprite-setas sprite-setas-marcador-s"></i>
@@ -4835,7 +4843,7 @@ homeUOL.push(function() { homeUOL.Playlist.init(); });
 			<div class="fotoDireita">
 				<div>
 					<h2>
-						<a href="http://f5.folha.uol.com.br/televisao/2015/01/1582771-apos-talita-pedir-pilula-do-dia-seguinte-no-bbb15-encontro-com-fatima-bernardes-debate-tema.shtml" name="vertical-especial-bbb1-direita" class="opacity-hover">
+						<a href="http://televisao.uol.com.br/bbb/bbb15/noticias/redacao/2015/01/30/evitar-gravidez-e-funcao-dos-dois-diz-fatima-sobre-cena-de-sexo-no-bbb.htm" name="vertical-especial-bbb1-direita" class="opacity-hover">
 							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30bbb5al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" class="opacity-90 lazyload" />
 							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30bbb5al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" /></noscript>
 							<strong class="cor2 opacity-60">Sexo sem camisinha</strong>
@@ -4858,11 +4866,11 @@ homeUOL.push(function() { homeUOL.Playlist.init(); });
 			<div class="fotoEsquerda">
 				<div>
 					<h2>
-						<a href="http://televisao.uol.com.br/bbb/bbb15/noticias/redacao/2015/01/30/cezar-garante-que-teria-coragem-de-posar-nu-para-revista-masculina.htm" name="vertical-especial-bbb2-esquerda" class="opacity-hover">
-							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30bbb3al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" class="opacity-90 lazyload" />
-							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30bbb3al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" /></noscript>
-							<strong class="cor2 opacity-60">Em revista masculina</strong>
-							<span class="chamada opacity-60">Cézar garante que teria coragem de posar nu  </span>
+						<a href="http://televisao.uol.com.br/bbb/bbb15/album/2015/01/30/veja-fotos-do-11-dia-de-confinamento-do-bbb15.htm?abrefoto=6" name="vertical-especial-bbb2-esquerda" class="opacity-hover">
+							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30bbb7al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" class="opacity-90 lazyload" />
+							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30bbb7al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" /></noscript>
+							<strong class="cor2 opacity-60">Perdeu 100 estalecas</strong>
+							<span class="chamada opacity-60">Cézar é punido após tentar arrombar a academia <i class="icoFoto"></i></span>
 						</a>
 					</h2>	
 				</div>
@@ -4870,11 +4878,11 @@ homeUOL.push(function() { homeUOL.Playlist.init(); });
 			<div class="fotoDireita">
 				<div>
 					<h2>
-						<a href="http://f5.folha.uol.com.br/televisao/2015/01/1582751-bbb15-mariza-e-apontada-como-possivel-alvo-no-paredao-e-chora-consolada-por-aline.shtml" name="vertical-especial-bbb2-direita" class="opacity-hover">
-							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30bbb4al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" class="opacity-90 lazyload" />
-							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30bbb4al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" /></noscript>
-							<strong class="cor2 opacity-60">Alvo de paredão?</strong>
-							<span class="chamada opacity-60">Mariza chora após ameaças, consolada<br>por Aline </span>
+						<a href="http://televisao.uol.com.br/bbb/bbb15/noticias/redacao/2015/01/30/sem-saber-cezar-e-angelica-disputam-colar-de-anjo-decisao-sera-sabado.htm" name="vertical-especial-bbb2-direita" class="opacity-hover">
+							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30bbb6al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" class="opacity-90 lazyload" />
+							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30bbb6al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" /></noscript>
+							<strong class="cor2 opacity-60">Decisão será sábado</strong>
+							<span class="chamada opacity-60">Sem saber, Cézar e Angélica disputam colar de anjo </span>
 						</a>
 					</h2>
 				</div>
@@ -4950,6 +4958,30 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 				
 					
 							
+		
+				<div class="modulo moduloChamada i300x100">
+			
+		<h2>
+			<a href="http://www1.folha.uol.com.br/poder/2015/01/1582620-bradesco-processa-filha-de-delator-por-cheque-de-r-500-milhoes.shtml" name="vertical-A2" class="opacity-hover">
+				<img width="300" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30chequett.jpg" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
+				<noscript><img width="300" height="100" src="http://h.imguol.com/1501/30chequett.jpg" alt="Reprodução" title="Reprodução" /></noscript>
+				<strong class="cor2 opacity-60">Delator da Lava Jato</strong>
+				<span class="chamada opacity-60">Bradesco processa filha de Costa por cheque de R$ 500 milhões </span>
+			</a>
+		</h2>
+		
+		
+			</div>
+	
+
+	
+
+						
+				
+			
+				
+					
+							
 		<div class="modulo moduloChamada">
 			<h2>
 				<a href="http://atarde.uol.com.br/economia/noticias/1656326-brasil-fica-em-5o-como-destino-de-investimentos" name="vertical-A7" class="opacity-hover-this">
@@ -4972,11 +5004,11 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 				<div class="modulo moduloChamada i142x100">
 			
 		<h2>
-			<a href="http://www.redetv.uol.com.br/jornalismo/portaljornalismo/Noticia.aspx?118,4,691068,126,Jovem-ostenta-arma-em-rede-social-e-e-preso-pela-Policia-Civil-de-SP" name="vertical-A3" class="opacity-hover">
-				<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30armatt.jpg" alt="Reprodução/Instagram" title="Reprodução/Instagram" class="opacity-90 lazyload" />
-				<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30armatt.jpg" alt="Reprodução/Instagram" title="Reprodução/Instagram" /></noscript>
-				<strong class="cor2 opacity-60">Aparece com menores</strong>
-				<span class="chamada opacity-60">Jovem ostenta arma em rede social e é preso em São Paulo </span>
+			<a href="http://noticias.uol.com.br/politica/ultimas-noticias/2015/01/30/em-30-dias-rollemberg-corta-r-200-mi-e-enfrenta-greves-de-4-categorias.htm" name="vertical-A3" class="opacity-hover">
+				<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30bsbt.jpg" alt="Joel Rodrigues - 1º.jan.2015/Estadão Conteúdo" title="Joel Rodrigues - 1º.jan.2015/Estadão Conteúdo" class="opacity-90 lazyload" />
+				<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30bsbt.jpg" alt="Joel Rodrigues - 1º.jan.2015/Estadão Conteúdo" title="Joel Rodrigues - 1º.jan.2015/Estadão Conteúdo" /></noscript>
+				<strong class="cor2 opacity-60">Distrito Federal</strong>
+				<span class="chamada opacity-60">Em 30 dias, Rollemberg corta R$ 200 milhões e enfrenta 4 greves </span>
 			</a>
 		</h2>
 		
@@ -5052,20 +5084,33 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 				
 					
 							
-		
-				<div class="modulo moduloChamada i142x100">
-			
-		<h2>
-			<a href="http://noticias.band.uol.com.br/cidades/noticia/100000733572/sp-empresario-e-morto-em-assalto-na-frente-da-mulher.html" name="vertical-A9" class="opacity-hover">
-				<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30empresarion.jpg" alt="Reprodução/Band" title="Reprodução/Band" class="opacity-90 lazyload" />
-				<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30empresarion.jpg" alt="Reprodução/Band" title="Reprodução/Band" /></noscript>
-				<strong class="cor2 opacity-60">Violência</strong>
-				<span class="chamada opacity-60">Empresário é morto em assalto na frente da mulher em SP <i class="icoVideo"></i></span>
-			</a>
-		</h2>
-		
-		
+		<div class="modulo modulo2Foto">
+			<div class="fotoEsquerda">
+				<div>
+					<h2>
+						<a href="http://www.redetv.uol.com.br/jornalismo/portaljornalismo/Noticia.aspx?118,4,691068,126,Jovem-ostenta-arma-em-rede-social-e-e-preso-pela-Policia-Civil-de-SP" name="vertical-A9-esquerda" class="opacity-hover">
+							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30armatt.jpg" alt="Reprodução/Instagram" title="Reprodução/Instagram" class="opacity-90 lazyload" />
+							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30armatt.jpg" alt="Reprodução/Instagram" title="Reprodução/Instagram" /></noscript>
+							<strong class="cor2 opacity-60">Aparece com menores</strong>
+							<span class="chamada opacity-60">Jovem ostenta arma em rede social e é preso em São Paulo </span>
+						</a>
+					</h2>	
+				</div>
 			</div>
+			<div class="fotoDireita">
+				<div>
+					<h2>
+						<a href="http://www.redetv.uol.com.br/jornalismo/portaljornalismo/Noticia.aspx?118,4,691053,126,Pais-e-filhas-morrem-apos-aquaplanagem-na-BR-376-" name="vertical-A9-direita" class="opacity-hover">
+							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30acidenten.jpg" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
+							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30acidenten.jpg" alt="Reprodução" title="Reprodução" /></noscript>
+							<strong class="cor2 opacity-60">Bateu em caminhão</strong>
+							<span class="chamada opacity-60">Acidente na<br>BR-376 mata pais e duas filhas no Paraná </span>
+						</a>
+					</h2>
+				</div>
+			</div>
+			
+		</div>
 	
 
 	
@@ -5094,52 +5139,15 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 				
 					
 							
-		<div class="modulo modulo2Foto">
-			<div class="fotoEsquerda">
-				<div>
-					<h2>
-						<a href="http://www.redetv.uol.com.br/jornalismo/portaljornalismo/Noticia.aspx?118,4,691053,126,Pais-e-filhas-morrem-apos-aquaplanagem-na-BR-376-" name="vertical-A2-esquerda" class="opacity-hover">
-							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30acidenten.jpg" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
-							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30acidenten.jpg" alt="Reprodução" title="Reprodução" /></noscript>
-							<strong class="cor2 opacity-60">Bateu em caminhão</strong>
-							<span class="chamada opacity-60">Acidente na<br>BR-376 mata pais e duas filhas no Paraná </span>
-						</a>
-					</h2>	
-				</div>
-			</div>
-			<div class="fotoDireita">
-				<div>
-					<h2>
-						<a href="http://www1.folha.uol.com.br/cotidiano/2015/01/1582671-governo-da-indonesia-ve-pretexto-e-confirma-execucao-de-brasileiro.shtml" name="vertical-A2-direita" class="opacity-hover">
-							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30indonesiat.jpg" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
-							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30indonesiat.jpg" alt="Reprodução" title="Reprodução" /></noscript>
-							<strong class="cor2 opacity-60">Rodrigo Gularte</strong>
-							<span class="chamada opacity-60">Indonésia fuzilará em fevereiro 2º brasileiro detido por tráfico </span>
-						</a>
-					</h2>
-				</div>
-			</div>
-			
-		</div>
-	
-
-	
-
-						
-				
-			
-				
-					
-							
 		
 				<div class="modulo moduloChamada i80x80">
 			
 		<h2>
-			<a href="http://cgn.uol.com.br/noticia/121867/assessor-suspeito-de-exploracao-sexual-de-menores-e-exonerado" name="vertical-A11" class="opacity-hover">
-				<img width="80" height="80" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30suspeitot.jpg" alt="Reprodução/CGN" title="Reprodução/CGN" class="opacity-90 lazyload" />
-				<noscript><img width="80" height="80" src="http://h.imguol.com/1501/30suspeitot.jpg" alt="Reprodução/CGN" title="Reprodução/CGN" /></noscript>
-				<strong class="cor2 opacity-60">Era servidor do governo</strong>
-				<span class="chamada opacity-60">Exonerado assessor do PR preso por suspeita <br>de explorar menores </span>
+			<a href="http://www1.folha.uol.com.br/bbc/2015/01/1582408-sao-paulo-testa-software-para-modernizar-gestao-dos-onibus-da-cidade.shtml" name="vertical-A11" class="opacity-hover">
+				<img width="80" height="80" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30onibust.jpg" alt="Silva Junior/Folhapress " title="Silva Junior/Folhapress " class="opacity-90 lazyload" />
+				<noscript><img width="80" height="80" src="http://h.imguol.com/1501/30onibust.jpg" alt="Silva Junior/Folhapress " title="Silva Junior/Folhapress " /></noscript>
+				<strong class="cor2 opacity-60">Hoje é manual</strong>
+				<span class="chamada opacity-60">SP testa software para modernizar gestão dos <bR>15 mil ônibus da cidade </span>
 			</a>
 		</h2>
 		
@@ -5157,9 +5165,9 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 							
 		<div class="modulo moduloChamada">
 			<h2>
-				<a href="http://noticias.uol.com.br/ultimas-noticias/afp/2015/01/30/estado-islamico-derruba-aviao-do-exercito-sirio.htm" name="vertical-A10" class="opacity-hover-this">
-					<strong class="cor2">Grupo radical em territórios sírio e iraquiano</strong>
-					Estado Islâmico derruba avião do Exército da Síria, diz ONG </a>
+				<a href="http://www1.folha.uol.com.br/mundo/2015/01/1582792-acusada-de-adulterio-sobrevive-a-apedrejamento-do-ei-na-siria.shtml" name="vertical-A10" class="opacity-hover-this">
+					<strong class="cor2">Punição dada por radicais na Síria</strong>
+					Acusada de adultério sobrevive a apedrejamento do Estado Islâmico </a>
 			</h2>	
 			
 		</div>
@@ -5248,17 +5256,17 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 		<dl onclick="jQuery(this).find('a.link').get(0).click()">
 			<dt class="bg4"><a name="vertical-cotacoes-ibovespa" class="link" href="http://economia.uol.com.br/cotacoes/bolsas.jhtm">Ibovespa</a></dt>
 			<dd class="borda12 t-bg t-cor t-50 bg13-hover cor2-hover">
-				<span class="porcentagem">-1,44<em class="cor9">%</em><i class="sprite-widgets sprite-widgets-cotacao-baixa"></i></span>
-				<span class="valor">47.072,53</span>
-				<span class="hora cor10">13h55</span>
+				<span class="porcentagem">-1,79<em class="cor9">%</em><i class="sprite-widgets sprite-widgets-cotacao-baixa"></i></span>
+				<span class="valor">46.906,55</span>
+				<span class="hora cor10">15h27</span>
 			</dd>
 		</dl>
 		<dl onclick="jQuery(this).find('a.link').get(0).click()">
 			<dt class="bg4"><a name="vertical-cotacoes-dolar" class="link" href="http://economia.uol.com.br/cotacoes/cambio.jhtm">Dólar comercial</a></dt>
 			<dd class="t-bg t-cor t-50 bg13-hover cor2-hover">
-				<span class="porcentagem">+2,51<em class="cor9">%</em><i class="sprite-widgets sprite-widgets-cotacao-alta"></i></span>
-				<span class="valor">R$ 2,678</span>
-				<span class="hora cor10">13h49</span>
+				<span class="porcentagem">+2,92<em class="cor9">%</em><i class="sprite-widgets sprite-widgets-cotacao-alta"></i></span>
+				<span class="valor">R$ 2,688</span>
+				<span class="hora cor10">15h20</span>
 			</dd>
 		</dl>
 	</div>
@@ -5297,9 +5305,9 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 							
 		<div class="modulo moduloChamada">
 			<h1>
-				<a href="http://cinema.uol.com.br/noticias/redacao/2015/01/30/cinebio-de-hawking-segue-formula-inglesa-de-filmes-quadrados-para-o-oscar.htm" name="vertical-B6" class="opacity-hover-this">
-					<strong class="cor2">Entrevista com protagonista e roteirista </strong>
-					Cinebio de Hawking segue fórmula inglesa de filmes "quadrados" para o Oscar </a>
+				<a href="http://musica.uol.com.br/noticias/redacao/2015/01/30/tentativa-de-suicidio-e-tensao-no-estudio-marcam-1-disco-da-legiao-urbana.htm" name="vertical-B6" class="opacity-hover-this">
+					<strong class="cor2">Aniversário do álbum de estreia da banda</strong>
+					Tensão e pulsos cortados marcavam gravação de Legião Urbana há 30 anos </a>
 			</h1>	
 			
 		</div>
@@ -5315,9 +5323,9 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 							
 		<div class="modulo moduloChamada">
 			<h2>
-				<a href="http://rollingstone.uol.com.br/noticia/ringo-starr-revela-titulo-e-lista-de-faixas-do-novo-disco-antes-de-vir-ao-brasil/" name="vertical-B1" class="opacity-hover-this">
-					<strong class="cor2">Postcards from Paradise</strong>
-					Antes de vir ao Brasil, Ringo Starr revela título e lista de faixas de disco </a>
+				<a href="http://televisao.uol.com.br/noticias/redacao/2015/01/30/danny-bond-foi-inspirada-em-garota-de-programa-real-diz-euclydes-marinho.htm" name="vertical-B1" class="opacity-hover-this">
+					<strong class="cor2">Série Felizes para Sempre?</strong>
+					Danny Bond foi inspirada em<br>garota de programa real, diz autor </a>
 			</h2>	
 			
 		</div>
@@ -5335,11 +5343,11 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 				<div class="modulo moduloChamada i142x100">
 			
 		<h2>
-			<a href="http://caras.uol.com.br/tv/veja-primeiras-fotos-de-babilonia-proxima-novela-das-nove-de-gilberto-braga" name="vertical-B4" class="opacity-hover">
-				<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30novelaal.jpg" alt="Divulgação/TV Globo/Alex Carvalho" title="Divulgação/TV Globo/Alex Carvalho" class="opacity-90 lazyload" />
-				<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30novelaal.jpg" alt="Divulgação/TV Globo/Alex Carvalho" title="Divulgação/TV Globo/Alex Carvalho" /></noscript>
-				<strong class="cor2 opacity-60">De Gilberto Braga</strong>
-				<span class="chamada opacity-60">Veja imagens<br>de Babilônia, próxima novela das nove <i class="icoFoto"></i></span>
+			<a href="http://outrocanal.blogfolha.uol.com.br/2015/01/30/silvio-planeja-aposentadoria-com-sucessao-de-filha-e-neto/" name="vertical-B4" class="opacity-hover">
+				<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30silvioal.jpg" alt="Reprodução/SBT" title="Reprodução/SBT" class="opacity-90 lazyload" />
+				<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30silvioal.jpg" alt="Reprodução/SBT" title="Reprodução/SBT" /></noscript>
+				<strong class="cor2 opacity-60">Aos 84</strong>
+				<span class="chamada opacity-60">Silvio planeja aposentadoria com sucessão<br>de filha e neto </span>
 			</a>
 		</h2>
 		
@@ -5357,17 +5365,11 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 							
 		<div class="modulo moduloChamada">
 			<h2>
-				<a href="http://noticiasdatv.uol.com.br/noticia/novelas/imperio-jose-alfredo-demite-jose-pedro-e-o-chama-de-ladrao-barato-6416" name="vertical-B10" class="opacity-hover-this">
+				<a href="http://noticiasdatv.uol.com.br/noticia/novelas/maurilio-instala-camera-na-sala-de-ze-alfredo-e-brinca-de-big-brother-6418" name="vertical-B10" class="opacity-hover-this">
 					<strong class="cor2">Novela das nove</strong>
-					José Alfredo demite José Pedro e o chama de ladrão barato em Império </a>
+					Maurílio instala câmera na sala de Zé Alfredo e "brinca de Big Brother" </a>
 			</h2>	
 			
-					<ul class="sub">
-						
-								<li><a href="http://noticiasdatv.uol.com.br/noticia/novelas/imperio-claudio-fica-entre-a-vida-e-a-morte-e-so-pode-ser-salvo-por-enrico-6408" name="vertical-B10-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Cláudio fica entre a vida e a morte </a></li>
-							
-					</ul>
-				
 		</div>
 	
 
@@ -5383,22 +5385,22 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 				<div class="modulo moduloChamada i80x80">
 			
 		<h2>
-			<a href="http://televisao.uol.com.br/album/2015/01/30/felizes-para-sempre-x-quem-ama-nao-mata.htm?abrefoto=2" name="vertical-B3" class="opacity-hover">
-				<img width="80" height="80" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30felizes2al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" class="opacity-90 lazyload" />
-				<noscript><img width="80" height="80" src="http://h.imguol.com/1501/30felizes2al.jpg" alt="Reprodução/TV Globo" title="Reprodução/TV Globo" /></noscript>
-				<strong class="cor2 opacity-60">Felizes Para Sempre?</strong>
-				<span class="chamada opacity-60">Personagens de série homenageiam atores de Quem Ama Não Mata <i class="icoFoto"></i></span>
+			<a href="http://carnaval.uol.com.br/2015/noticias/redacao/2015/01/30/fora-do-carnaval-do-rio-gracyanne-barbosa-so-pensa-em-voltar-em-2017.htm" name="vertical-B3" class="opacity-hover">
+				<img width="80" height="80" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30graal.jpg" alt="Zulmair Rocha/UOL" title="Zulmair Rocha/UOL" class="opacity-90 lazyload" />
+				<noscript><img width="80" height="80" src="http://h.imguol.com/1501/30graal.jpg" alt="Zulmair Rocha/UOL" title="Zulmair Rocha/UOL" /></noscript>
+				<strong class="cor2 opacity-60">Carnaval 2015</strong>
+				<span class="chamada opacity-60">Fora de festa no Rio, Gracyanne diz que não negocia posto de rainha </span>
 			</a>
 		</h2>
 		
 		
 					<ul class="sub">
 					
-						<li><a href="http://nilsonxavier.blogosfera.uol.com.br/2015/01/30/conheca-quem-ama-nao-mata-minisserie-que-originou-felizes-para-sempre/" name="vertical-B3-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Quem Ama Não Mata originou série; conheça </a></li>
+						<li><a href="http://alalao.blogfolha.uol.com.br/2015/01/30/carnaval-de-rua-de-sp-comeca-hoje-confira-a-agenda-do-fim-de-semana/" name="vertical-B3-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Carnaval de rua de SP começa; veja agenda </a></li>
 						
-						<li><a href="http://f5.folha.uol.com.br/colunistas/thiagostivaletti/2015/01/1581933-felizes-para-sempre-e-a-escola-soft-porn-da-hbo.shtml" name="vertical-B3-sub2" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Análise: Dose de sexo da escola "pornô soft" </a></li>
+						<li><a href="http://alalao.blogfolha.uol.com.br/2015/01/30/confira-os-dias-e-horarios-dos-blocos-de-rua-do-rio/" name="vertical-B3-sub2" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Veja dias e horários de blocos de rua do Rio </a></li>
 						
-						<li><a href="http://televisao.uol.com.br/album/2015/01/29/relembre-as-atrizes-que-surpreenderam-em-papeis-sensuais-na-tv.htm" name="vertical-B3-sub3" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Paolla surpreendeu; relembre atrizes <i class="icoFoto"></i></a></li>
+						<li><a href="http://entretenimento.band.uol.com.br/bandfolia/2015/noticia.asp?m=100000733570" name="vertical-B3-sub3" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Rosas de Ouro se inspira em contos de fadas </a></li>
 						
 					</ul>
 			
@@ -5417,11 +5419,11 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 			<div class="fotoEsquerda">
 				<div>
 					<h2>
-						<a href="http://noticiasdatv.uol.com.br/noticia/televisao/serie-de-leandro-hassum-e-favorita-a-substituir-a-grande-familia-6417" name="vertical-B8-esquerda" class="opacity-hover">
-							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30serieal.jpg" alt="Divulgação/TV Globo" title="Divulgação/TV Globo" class="opacity-90 lazyload" />
-							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30serieal.jpg" alt="Divulgação/TV Globo" title="Divulgação/TV Globo" /></noscript>
-							<strong class="cor2 opacity-60">Na Globo</strong>
-							<span class="chamada opacity-60">Série de Hassum é favorita para substituir A Grande Família </span>
+						<a href="http://natelinha.ne10.uol.com.br/novelas/2015/01/30/alto-astral-laura-vai-dar-tapa-na-cara-de-samantha-saiba-o-motivo-85023.php" name="vertical-B8-esquerda" class="opacity-hover">
+							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30alto2al.jpg" alt="Divulgação/TV Globo" title="Divulgação/TV Globo" class="opacity-90 lazyload" />
+							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30alto2al.jpg" alt="Divulgação/TV Globo" title="Divulgação/TV Globo" /></noscript>
+							<strong class="cor2 opacity-60">Novela Alto Astral</strong>
+							<span class="chamada opacity-60">Laura vai dar<br>tapa na cara<br>de Samantha; saiba o motivo </span>
 						</a>
 					</h2>	
 				</div>
@@ -5451,20 +5453,14 @@ homeUOL.push(function() { homeUOL.BBB14.module.start(); });
 					
 							<div class="moduloSemBorda">
 								
-		
-				<div class="modulo moduloChamada i142x100">
+		<div class="modulo moduloChamada">
+			<h2>
+				<a href="http://caras.uol.com.br/especial/noivas/post/casamento-thiaguinho-fernanda-souza-detalhes-lua-de-mel" name="vertical-B2" class="opacity-hover-this">
+					<strong class="cor2">Com Fernanda Souza</strong>
+					"Estou mais feliz do que ansioso",<br>diz Thiaguinho sobre casamento </a>
+			</h2>	
 			
-		<h2>
-			<a href="http://caras.uol.com.br/especial/noivas/post/casamento-thiaguinho-fernanda-souza-detalhes-lua-de-mel" name="vertical-B2" class="opacity-hover">
-				<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30casalal.jpg" alt="Henrique Oliveira, Marcello Sá Barreto e Delson Silva/AgNews" title="Henrique Oliveira, Marcello Sá Barreto e Delson Silva/AgNews" class="opacity-90 lazyload" />
-				<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30casalal.jpg" alt="Henrique Oliveira, Marcello Sá Barreto e Delson Silva/AgNews" title="Henrique Oliveira, Marcello Sá Barreto e Delson Silva/AgNews" /></noscript>
-				<strong class="cor2 opacity-60">Com Fernanda Souza</strong>
-				<span class="chamada opacity-60">"Estou mais feliz do que ansioso", diz Thiaguinho sobre casamento </span>
-			</a>
-		</h2>
-		
-		
-			</div>
+		</div>
 	
 
 	
@@ -5593,11 +5589,11 @@ homeUOL.push(function() {
 			<div class="fotoEsquerda">
 				<div>
 					<h2>
-						<a href="http://nagradedomma.blogosfera.uol.com.br/2015/01/30/ansiedade-para-volta-de-anderson-tem-explicacao-ele-deixa-o-ufc-mais-rico/" name="vertical-D4-esquerda" class="opacity-hover">
-							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30anderson-g.jpg" alt="Jorge Corrêa/UOL" title="Jorge Corrêa/UOL" class="opacity-90 lazyload" />
-							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30anderson-g.jpg" alt="Jorge Corrêa/UOL" title="Jorge Corrêa/UOL" /></noscript>
-							<strong class="cor2 opacity-60">Lutará no sábado</strong>
-							<span class="chamada opacity-60">Anderson Silva faz UFC vender mais e com ingressos caros </span>
+						<a href="http://esporte.uol.com.br/futebol/ultimas-noticias/2015/01/30/sao-paulo-chega-a-acordo-com-racing-e-contrata-ricardo-centurion.htm" name="vertical-D4-esquerda" class="opacity-hover">
+							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30centurionn.jpg" alt="Alejandro Pagni - 14.dez.2014 / AFP" title="Alejandro Pagni - 14.dez.2014 / AFP" class="opacity-90 lazyload" />
+							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30centurionn.jpg" alt="Alejandro Pagni - 14.dez.2014 / AFP" title="Alejandro Pagni - 14.dez.2014 / AFP" /></noscript>
+							<strong class="cor2 opacity-60">Meia argentino</strong>
+							<span class="chamada opacity-60">Racing confirma venda de Centurión ao<br>São Paulo </span>
 						</a>
 					</h2>	
 				</div>
@@ -5605,11 +5601,11 @@ homeUOL.push(function() {
 			<div class="fotoDireita">
 				<div>
 					<h2>
-						<a href="http://blogdojuca.uol.com.br/2015/01/paulo-andre-vai-jogar-no-time-de-kaka-porque-as-portas-no-brasil-estao-fechadas-para-ele/" name="vertical-D4-direita" class="opacity-hover">
-							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30pandre1n.jpg" alt="Divulgação/ESPN" title="Divulgação/ESPN" class="opacity-90 lazyload" />
-							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30pandre1n.jpg" alt="Divulgação/ESPN" title="Divulgação/ESPN" /></noscript>
-							<strong class="cor2 opacity-60">Nos EUA</strong>
-							<span class="chamada opacity-60">Paulo André,<br>ex-Corinthians, acerta com time de Kaká </span>
+						<a href="http://esporte.uol.com.br/tenis/ultimas-noticias/2015/01/30/ele-era-apontado-como-sucessor-de-guga-agora-so-pensa-em-ser-engenheiro.htm" name="vertical-D4-direita" class="opacity-hover">
+							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/ap30tiagon.jpg" alt="Shuji Kajiyama - jan.2010 / AP" title="Shuji Kajiyama - jan.2010 / AP" class="opacity-90 lazyload" />
+							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/ap30tiagon.jpg" alt="Shuji Kajiyama - jan.2010 / AP" title="Shuji Kajiyama - jan.2010 / AP" /></noscript>
+							<strong class="cor2 opacity-60">Tiago Fernandes</strong>
+							<span class="chamada opacity-60">Ele era apontado como sucessor de Guga. Hoje é estagiário </span>
 						</a>
 					</h2>
 				</div>
@@ -5628,18 +5624,42 @@ homeUOL.push(function() {
 							
 		<div class="modulo moduloChamada">
 			<h2>
-				<a href="http://esporte.uol.com.br/futebol/campeonatos/estadual-do-rio/ultimas-noticias/2015/01/30/racha-no-rio-fla-e-flu-jogam-estadual-sob-protesto-e-querem-liga-em-2016.htm" name="vertical-D2" class="opacity-hover-this">
-					<strong class="cor2">No Rio de Janeiro</strong>
-					Flamengo e Fluminense jogam Estadual sob protesto e querem Liga </a>
+				<a href="http://espn.uol.com.br/noticia/479897_agente-diz-que-pato-esta-indignado-e-da-conselhos-so-depende-dele" name="vertical-D6" class="opacity-hover-this">
+					<strong class="cor2">Atacante será reserva do São Paulo</strong>
+					Pato está muito indignado, mas ele tem que querer, diz empresário </a>
 			</h2>	
 			
 					<ul class="sub">
 						
-								<li><a href="http://espn.uol.com.br/noticia/480090_fred-acerta-permanencia-no-fluminense-por-mais-quatro-anos" name="vertical-D2-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Fred renova contrato com Flu por 4 anos </a></li>
+								<li><a href="http://esporte.uol.com.br/futebol/ultimas-noticias/2015/01/30/sao-paulo-estreia-sem-ganso-pato-segue-fora-mas-muricy-promete-chance.htm" name="vertical-D6-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>São Paulo estreia sem Ganso no Paulista </a></li>
 							
 					</ul>
 				
 		</div>
+	
+
+	
+
+						
+				
+			
+				
+					
+							
+		
+				<div class="modulo moduloChamada i142x100">
+			
+		<h2>
+			<a href="http://esporte.uol.com.br/mma/ultimas-noticias/2015/01/30/tibau-fez-braco-de-diaz-estalar-ha-8-anos-agora-preve-show-de-anderson.htm" name="vertical-D5" class="opacity-hover">
+				<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30diazn.jpg" alt="Jorge Corrêa/UOL" title="Jorge Corrêa/UOL" class="opacity-90 lazyload" />
+				<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30diazn.jpg" alt="Jorge Corrêa/UOL" title="Jorge Corrêa/UOL" /></noscript>
+				<strong class="cor2 opacity-60">Luta no sábado</strong>
+				<span class="chamada opacity-60">Brasileiro que perdeu para Diaz (foto) prevê vitória de Anderson </span>
+			</a>
+		</h2>
+		
+		
+			</div>
 	
 
 	
@@ -5680,33 +5700,50 @@ homeUOL.push(function() {
 				
 					
 							
-		<div class="modulo modulo2Foto">
-			<div class="fotoEsquerda">
-				<div>
-					<h2>
-						<a href="http://grandepremio.uol.com.br/f1/noticias/chefe-da-ferrari-diz-que-sf15-t-e-realmente-muito-sexy-e-traca-ao-menos-duas-vitorias-como-meta-para-2015" name="vertical-D5-esquerda" class="opacity-hover">
-							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30ferrarih.jpg" alt="Divulgação" title="Divulgação" class="opacity-90 lazyload" />
-							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30ferrarih.jpg" alt="Divulgação" title="Divulgação" /></noscript>
-							<strong class="cor2 opacity-60">Fórmula 1</strong>
-							<span class="chamada opacity-60">Ferrari exibe carro de bico longo e diz que modelo é sexy </span>
-						</a>
-					</h2>	
-				</div>
-			</div>
-			<div class="fotoDireita">
-				<div>
-					<h2>
-						<a href="http://grandepremio.uol.com.br/f1/noticias/sauber-retoma-azul-e-amarelo-em-carro-brasileiro-para-disputa-da-temporada-2015-do-mundial-de-f1" name="vertical-D5-direita" class="opacity-hover">
-							<img width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30sauber2h.jpg" alt="Divulgação" title="Divulgação" class="opacity-90 lazyload" />
-							<noscript><img width="142" height="100" src="http://h.imguol.com/1501/30sauber2h.jpg" alt="Divulgação" title="Divulgação" /></noscript>
-							<strong class="cor2 opacity-60">Sauber</strong>
-							<span class="chamada opacity-60">Equipe de Nasr apresenta carro "brasileiro" para <br>a temporada </span>
-						</a>
-					</h2>
-				</div>
-			</div>
+		<div class="modulo moduloChamada">
+			<h2>
+				<a href="http://esporte.uol.com.br/futebol/campeonatos/estadual-do-rio/ultimas-noticias/2015/01/30/racha-no-rio-fla-e-flu-jogam-estadual-sob-protesto-e-querem-liga-em-2016.htm" name="vertical-D2" class="opacity-hover-this">
+					<strong class="cor2">No Rio de Janeiro</strong>
+					Flamengo e Fluminense jogam Estadual sob protesto e querem Liga </a>
+			</h2>	
 			
+					<ul class="sub">
+						
+								<li><a href="http://espn.uol.com.br/noticia/480090_fred-acerta-permanencia-no-fluminense-por-mais-quatro-anos" name="vertical-D2-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Fred renova contrato com Flu por 4 anos </a></li>
+							
+					</ul>
+				
 		</div>
+	
+
+	
+
+						
+				
+			
+				
+					
+							
+		
+				<div class="modulo moduloChamada i80x80">
+			
+		<h2>
+			<a href="http://espn.uol.com.br/post/480066_marshawn-lynch-se-solta-em-programa-de-tv-ao-lado-de-rob-gronkwoski" name="vertical-D1" class="opacity-hover">
+				<img width="80" height="80" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30mortaln.jpg" alt="Reprodução/YouTube" title="Reprodução/YouTube" class="opacity-90 lazyload" />
+				<noscript><img width="80" height="80" src="http://h.imguol.com/1501/30mortaln.jpg" alt="Reprodução/YouTube" title="Reprodução/YouTube" /></noscript>
+				<strong class="cor2 opacity-60">Futebol americano</strong>
+				<span class="chamada opacity-60">Rivais na final, atletas duelam no Mortal Kombat X e se assustam; veja </span>
+			</a>
+		</h2>
+		
+		
+					<ul class="sub">
+					
+						<li><a href="http://espn.uol.com.br/video/480041_defensores-dos-seahawks-concordam-que-brady-tem-que-ser-pressionado-se-nao-ele-vai-nos-fazer-pagar" name="vertical-D1-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Marido de Gisele é temor de campeão <i class="icoVideo"></i></a></li>
+						
+					</ul>
+			
+			</div>
 	
 
 	
@@ -5743,26 +5780,14 @@ homeUOL.push(function() {
 				
 					
 							
-		
-				<div class="modulo moduloChamada i80x80">
+		<div class="modulo moduloChamada">
+			<h2>
+				<a href="http://blogdojuca.uol.com.br/2015/01/paulo-andre-vai-jogar-no-time-de-kaka-porque-as-portas-no-brasil-estao-fechadas-para-ele/" name="vertical-D9" class="opacity-hover-this">
+					<strong class="cor2">Nos EUA</strong>
+					Ex-Corinthians, zagueiro Paulo André acerta com time de Kaká </a>
+			</h2>	
 			
-		<h2>
-			<a href="http://espn.uol.com.br/noticia/478159_ele-estaria-no-super-bowl-mas-foi-para-a-cadeia-e-deu-r-19-mi-de-prejuizo-aos-patriots-em-2014" name="vertical-D1" class="opacity-hover">
-				<img width="80" height="80" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30hernandezn.jpg" alt="Getty Images" title="Getty Images" class="opacity-90 lazyload" />
-				<noscript><img width="80" height="80" src="http://h.imguol.com/1501/30hernandezn.jpg" alt="Getty Images" title="Getty Images" /></noscript>
-				<strong class="cor2 opacity-60">Futebol americano</strong>
-				<span class="chamada opacity-60">Ele era jogador de time finalista da NFL, mas está preso e deu prejuízo </span>
-			</a>
-		</h2>
-		
-		
-					<ul class="sub">
-					
-						<li><a href="http://espn.uol.com.br/video/480041_defensores-dos-seahawks-concordam-que-brady-tem-que-ser-pressionado-se-nao-ele-vai-nos-fazer-pagar" name="vertical-D1-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>Marido de Gisele é temor de campeão <i class="icoVideo"></i></a></li>
-						
-					</ul>
-			
-			</div>
+		</div>
 	
 
 	
@@ -5772,7 +5797,8 @@ homeUOL.push(function() {
 			
 				
 					
-							
+							<div class="moduloSemBorda">
+								
 		
 				<div class="modulo moduloChamada i142x100">
 			
@@ -5793,31 +5819,6 @@ homeUOL.push(function() {
 					</ul>
 			
 			</div>
-	
-
-	
-
-						
-				
-			
-				
-					
-							<div class="moduloSemBorda">
-								
-		<div class="modulo moduloChamada">
-			<h2>
-				<a href="http://espn.uol.com.br/noticia/479897_agente-diz-que-pato-esta-indignado-e-da-conselhos-so-depende-dele" name="vertical-D6" class="opacity-hover-this">
-					<strong class="cor2">Atacante será reserva do São Paulo</strong>
-					Pato está muito indignado, mas ele tem que querer, diz empresário </a>
-			</h2>	
-			
-					<ul class="sub">
-						
-								<li><a href="http://esporte.uol.com.br/futebol/ultimas-noticias/2015/01/30/sao-paulo-estreia-sem-ganso-pato-segue-fora-mas-muricy-promete-chance.htm" name="vertical-D6-sub1" class="opacity-hover-this"><span class="sprite-setas sprite-setas-marcador-p"></span>São Paulo estreia sem Ganso no Paulista </a></li>
-							
-					</ul>
-				
-		</div>
 	
 
 	
@@ -6016,7 +6017,7 @@ homeUOL.push(function() {
 	homeUOL.webservice.defined['horoscopo'] = {
 		'aquario' : 'Período de análises e revisões dos projetos mais importantes. É tempo de restaurar suas energias e avaliar os recursos que possui. O Sol encontra-se com Mercúrio retrógrado em seu signo: evite tecer c' 
   ,
-		'aries' : 'Muitos assuntos velhos chegam ao fim, novos caminhos se abrem com o Sol em Aquário. Mas a comunicação está dificultada por Mercúrio retrógrado. Se tiver um compromisso importante, procure sair com ant' 
+		'aries' : 'Bom período para estar entra amigos, trabalhar em grupo e expandir sua rede de contatos. Muitos assuntos chegam ao clímax. Hoje é dia de Lua cheia, em harmonia com Urano: conte com boa capacidade de i' 
   ,
 		'cancer' : 'Você pode deixar para trás velhas atitudes, pessoas e tudo o que não for produtivo. Momento de revisar os detalhes que o ajudarão a superar todos os inconvenientes. A Lua segue fora de curso em Gêmeos' 
   ,
@@ -6024,7 +6025,7 @@ homeUOL.push(function() {
   ,
 		'escorpiao' : 'A comunicação e os assuntos práticos estão dificultados por conta da retrogradação de Mercúrio. Momento indicado para você avaliar como equilibra a vida em família e suas emoções com o trabalho e os c' 
   ,
-		'gemeos' : 'Indecisões continuam em pauta. A Lua segue fora de curso em seu signo: aproveite para aperfeiçoar os detalhes do trabalho e organizar-se. É tempo de reavaliação para que tudo funcione melhor. No próxi' 
+		'gemeos' : 'Atenção redobrada para não se confundir com datas, números e informações importantes. Mercúrio continua retrógrado até o dia 11, você fica mais aéreo e distraído, sua objetividade fica comprometida. C' 
   ,
 		'leao' : 'É tempo de repensar, reprogramar, rever, relembrar. O Sol se encontra com Mercúrio retrógrado, há muito a revisar nos mecanismos e procedimentos. Os projetos devem amadurecer, por isso ocorrem demoras' 
   ,
@@ -6540,12 +6541,12 @@ homeUOL.push(function() {
                     'salesPackageId' : '130131'
                 },
                 {
-                    'id'             : '55769',
+                    'id'             : '55772',
                     'title'          : 'Vivara',
-                    'description'    : 'Rel&oacute;gio Festina em a&ccedil;o feminino!',
-                    'highlight'      : 'S&oacute; 10x R$ 31,50',
-                    'image'          : 'http://imguol.com/admanager/1501/ads/177/55769.gif',
-                    'redirectTo'     : 'http://click.publicidade.uol.com.br/click?ty=2&ch=1&s=P09&ad=55769&c=177&sa=139042&dt=30012015&redir=http://www.vivara.com.br/produto/relogio-festina-aco-feminino-f166831/FT00002754?utm_source=uol&utm_medium=display&utm_content=uol_115x75_festina-fem_home_cpc_2015-01-16_2015-01-31&utm_campaign=home&utm_term=115x75',
+                    'description'    : 'Rel&oacute;gio Tommy feminino em couro.',
+                    'highlight'      : 'S&oacute; 10x de R$ 39!',
+                    'image'          : 'http://imguol.com/admanager/1501/ads/177/55772.gif',
+                    'redirectTo'     : 'http://click.publicidade.uol.com.br/click?ty=2&ch=1&s=P09&ad=55772&c=177&sa=139042&dt=30012015&redir=http://www.vivara.com.br/produto/relogio-tommy-hilfiger-couro-marrom-feminino-1781363/TO00002306?utm_source=uol&utm_medium=display&utm_content=uol_115x75_tommy-ouro-fem_home_cpc_2015-01-16_2015-01-31&utm_campaign=home&utm_term=115x75',
                     'salesPackageId' : '139042'
                 }
             ]
@@ -6828,7 +6829,19 @@ homeUOL.push(function() {
 		
 				<li class="borda10 cor-estacao-">
 					
-					<a class="opacity-hover bg4" href="http://uolesportevetv.blogosfera.uol.com.br/2015/01/30/reporter-xavecada-por-ronaldinho-faz-sucesso-na-globo-e-nao-e-pela-cantada/" name="corpo-esquerda-fixo-fotos-2-1">
+					<a class="opacity-hover bg4" href="http://f5.folha.uol.com.br/celebridades/2015/01/1582754-nasce-segundo-filho-de-shakira-e-gerard-pique.shtml" name="corpo-esquerda-fixo-fotos-2-1">
+						
+								<img alt="The Grosby Group" title="The Grosby Group" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30shakirah.jpg" class="opacity-90 lazyload" width="142" height="100" />
+								<noscript><img alt="The Grosby Group" title="The Grosby Group" src="http://h.imguol.com/1501/30shakirah.jpg" width="142" height="100" /></noscript>
+							
+						<span class="itemCorpoEsquerdaFixoCanais opacity-60 borda2">2º filho de Shakira nasce e ganha nome de Sasha  </span>
+					</a>
+					
+				</li>
+			
+				<li class="borda10 cor-estacao-">
+					
+					<a class="opacity-hover bg4" href="http://uolesportevetv.blogosfera.uol.com.br/2015/01/30/reporter-xavecada-por-ronaldinho-faz-sucesso-na-globo-e-nao-e-pela-cantada/" name="corpo-esquerda-fixo-fotos-2-2">
 						
 								<img alt="Arquivo pessoal" title="Arquivo pessoal" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30reporterh.jpg" class="opacity-90 lazyload" width="142" height="100" />
 								<noscript><img alt="Arquivo pessoal" title="Arquivo pessoal" src="http://h.imguol.com/1501/30reporterh.jpg" width="142" height="100" /></noscript>
@@ -6840,19 +6853,19 @@ homeUOL.push(function() {
 			
 				<li class="borda10 cor-estacao-">
 					
-					<a class="opacity-hover bg4" href="http://www.redetv.uol.com.br/noticia.aspx?118,4,691080" name="corpo-esquerda-fixo-fotos-2-2">
+					<a class="opacity-hover bg4" href="http://noticias.band.uol.com.br/cidades/noticia/100000733572/sp-empresario-e-morto-em-assalto-na-frente-da-mulher.html" name="corpo-esquerda-fixo-fotos-2-3">
 						
-								<img alt="Reprodução" title="Reprodução" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30caoh.jpg" class="opacity-90 lazyload" width="142" height="100" />
-								<noscript><img alt="Reprodução" title="Reprodução" src="http://h.imguol.com/1501/30caoh.jpg" width="142" height="100" /></noscript>
+								<img alt="Reprodução/Band" title="Reprodução/Band" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30empresarion.jpg" class="opacity-90 lazyload" width="142" height="100" />
+								<noscript><img alt="Reprodução/Band" title="Reprodução/Band" src="http://h.imguol.com/1501/30empresarion.jpg" width="142" height="100" /></noscript>
 							
-						<span class="itemCorpoEsquerdaFixoCanais opacity-60 borda2">Nada impediu o cachorro de fugir do "castigo" </span>
+						<span class="itemCorpoEsquerdaFixoCanais opacity-60 borda2">SP: empresário é morto em assalto na frente da mulher  </span>
 					</a>
 					
 				</li>
 			
 				<li class="borda10 cor-estacao-">
 					
-					<a class="opacity-hover bg4" href="http://www.redetv.uol.com.br/noticia.aspx?118,4,691087" name="corpo-esquerda-fixo-fotos-2-3">
+					<a class="opacity-hover bg4" href="http://www.redetv.uol.com.br/noticia.aspx?118,4,691087" name="corpo-esquerda-fixo-fotos-2-4">
 						
 								<img alt="Reprodução/Mirror" title="Reprodução/Mirror" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30britanicah.jpg" class="opacity-90 lazyload" width="142" height="100" />
 								<noscript><img alt="Reprodução/Mirror" title="Reprodução/Mirror" src="http://h.imguol.com/1501/30britanicah.jpg" width="142" height="100" /></noscript>
@@ -6864,24 +6877,12 @@ homeUOL.push(function() {
 			
 				<li class="borda10 cor-estacao-">
 					
-					<a class="opacity-hover bg4" href="http://uolesporte.blogosfera.uol.com.br/2015/01/30/vai-encarar-holyfield-mostra-porque-nao-vale-a-pena-brigar-no-transito/" name="corpo-esquerda-fixo-fotos-2-4">
+					<a class="opacity-hover bg4" href="http://www.redetv.uol.com.br/noticia.aspx?118,4,691130" name="corpo-esquerda-fixo-fotos-2-5">
 						
-								<img alt="Reprodução" title="Reprodução" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30briga2h.jpg" class="opacity-90 lazyload" width="142" height="100" />
-								<noscript><img alt="Reprodução" title="Reprodução" src="http://h.imguol.com/1501/30briga2h.jpg" width="142" height="100" /></noscript>
+								<img alt="Reprodução" title="Reprodução" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30pandah.jpg" class="opacity-90 lazyload" width="142" height="100" />
+								<noscript><img alt="Reprodução" title="Reprodução" src="http://h.imguol.com/1501/30pandah.jpg" width="142" height="100" /></noscript>
 							
-						<span class="itemCorpoEsquerdaFixoCanais opacity-60 borda2">Holyfield mostra: não vale a pena brigar no trânsito </span>
-					</a>
-					
-				</li>
-			
-				<li class="borda10 cor-estacao-">
-					
-					<a class="opacity-hover bg4" href="http://www.redetv.uol.com.br/noticia.aspx?118,4,691016" name="corpo-esquerda-fixo-fotos-2-5">
-						
-								<img alt="Jorge Silva/Reuters" title="Jorge Silva/Reuters" src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30alargadorh.jpg" class="opacity-90 lazyload" width="142" height="100" />
-								<noscript><img alt="Jorge Silva/Reuters" title="Jorge Silva/Reuters" src="http://h.imguol.com/1501/30alargadorh.jpg" width="142" height="100" /></noscript>
-							
-						<span class="itemCorpoEsquerdaFixoCanais opacity-60 borda2">Americano tem o maior alargamento das orelhas </span>
+						<span class="itemCorpoEsquerdaFixoCanais opacity-60 borda2">Filhotes de panda 'brigam' em <br>parque da China </span>
 					</a>
 					
 				</li>
@@ -7123,71 +7124,75 @@ homeUOL.push(function() {
 						<!-- produtos 6mods -->
 						<div class="horizontalFixo fixoProdutos">
 	
+	
+	<h3><a href="http://clicklogger.rm.uol.com.br/?prd=3&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:games_titulo_lpantiga&msr=Cliques%20de%20Origem:1&oper=7&redir=http://jogos.uol.com.br/loja/" class="opacity-hover-this" name="horizontal-fixo-produtos"><i class="sprite-titulos sprite-titulos-h-lojadejogos">Loja de Jogos</i><i class="sprite-setas sprite-setas-dupla-t3"></i></a></h3>
+
+	<ul class="produtos">
+		<li class="primeiro">
+			<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=3&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:game_poker_fenom_lp_antiga&msr=Cliques%20de%20Origem:1&oper=7&redir=http://jogos.uol.com.br/loja/landing-pages/1mesgratis/poker" name="horizontal-fixo-prod-A1">
+				<span class="borda5 img">
+					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/jogos/poker_1mesgratis.jpg" alt="" title="" />
+					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/jogos/poker_1mesgratis.jpg" alt="" title="" /></noscript>
+				</span>
+				<strong class="opacity-60">Poker Online</strong> <span class="opacity-60 cor7">É pura estratégia. Mostre que a mesa é sua!</span>
+			</a>
+		</li>
+		<li>
+			<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=3&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:games_sinuca_lpnova&msr=Cliques%20de%20Origem:1&oper=7&redir=http://jogos.uol.com.br/loja/landing-pages/gametrack-sinuca/" name="horizontal-fixo-prod-A2">
+				<span class="borda5 img">
+					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/jogos/sinuca_1mesgratis.jpg" alt="" title="" />
+					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/jogos/sinuca_1mesgratis.jpg" alt="" title="" /></noscript>
+				</span>
+				<strong class="opacity-60">Sinuca 3D</strong> <span class="opacity-60 cor7">Aqui, qualquer taco é bom. Desafie quem quiser!</span>
+			</a>
+		</li>
+		<li>
+			<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=3&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:games_truco_lpnova&msr=Cliques%20de%20Origem:1&oper=7&redir=http://jogos.uol.com.br/loja/landing-pages/gametrack-truco-1mesgratis.html" name="horizontal-fixo-prod-A3">
+				<span class="borda5 img">
+					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/jogos/truco_1mesgratis.jpg" alt="" title="" />
+					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/jogos/truco_1mesgratis.jpg" alt="" title="" /></noscript>
+				</span>
+				<strong class="opacity-60">Truco</strong> <span class="opacity-60 cor7">Cole o ?zap? na testa dos adversários! A diversão é garantida!</span>
+			</a>
+		</li>
+		<li>
+			<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=3&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:games_buraco_lpantiga&msr=Cliques%20de%20Origem:1&oper=7&redir=http://jogos.uol.com.br/loja/landing-pages/1mesgratis/buraco" name="horizontal-fixo-prod-A4">
+				<span class="borda5 img">
+					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/jogos/buraco_1mesgratis.jpg" alt="" title="" />
+					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/jogos/buraco_1mesgratis.jpg" alt="" title="" /></noscript>
+				</span>
+				<strong class="opacity-60">Buraco</strong> <span class="opacity-60 cor7">Tradicional jogo de cartas, agora online para você!</span>
+			</a>
+		</li>
+		<li>
+			<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=3&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:games_warlogo_lpnova&msr=Cliques%20de%20Origem:1&oper=7&redir=http://jogos.uol.com.br/loja/landing-pages/1mesgratis/war" name="horizontal-fixo-prod-A5">
+				<span class="borda5 img">
+					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/jogos/war_1mesgratis.jpg" alt="" title="" />
+					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/jogos/war_1mesgratis.jpg" alt="" title="" /></noscript>
+				</span>
+				<strong class="opacity-60">WAR Online</strong> <span class="opacity-60 cor7">Enfrente seus inimigos e domine nações inteiras!</span>
+			</a>
+		</li>
+		<li class="ultimo">
+			<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=3&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:games_xadrez_lpantiga&msr=Cliques%20de%20Origem:1&oper=7&redir=http://jogos.uol.com.br/loja/landing-pages/1mesgratis/xadrez" name="horizontal-fixo-prod-A6">
+				<span class="borda5 img">
+					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/jogos/xadrez_1mesgratis.jpg" alt="" title="" />
+					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/jogos/xadrez_1mesgratis.jpg" alt="" title="" /></noscript>
+				</span>
+				<strong class="opacity-60">Xadrez Online</strong> <span class="opacity-60 cor7">Dispensa apresentação. No mínimo, um clássico dos tabuleiros!</span>
+			</a>
+		</li>
+	</ul>
+
+	
+	
+	
+
+	
+
+
+	
 			
-			<h3><a href="http://ferramentas.uol.com.br/produtos/" class="opacity-hover-this" name="horizontal-fixo-produtos"><i class="sprite-titulos sprite-titulos-h-produtosuol">Produtos UOL</i><i class="sprite-setas sprite-setas-dupla-t3"></i></a></h3>
-
-			<ul class="produtos">
-				<li class="primeiro">
-					<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=2&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:scangratis_produtosuol2&msr=Cliques%20de%20Origem:1&oper=7&redir=http://produtos.uol.com.br/segurancaonline/antivirus/antivirus-online-gratis.html" name="horizontal-fixo-prod-B1">
-						<span class="borda5 img">
-					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/produtos/scan.jpg" alt="" title="" />
-					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/produtos/scan.jpg" alt="" title="" /></noscript>
-				</span>
-						<strong class="opacity-60">Antivírus Grátis</strong> <span class="opacity-60 cor7">Veja se o seu computador está protegido de ameaças.</span>
-					</a>
-				</li>
-				<li>
-					<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=31&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:backup_produtosuol2&msr=Cliques%20de%20Origem:1&oper=7&redir=http://backup.uol.com.br/landing-pages/novosplanos" name="horizontal-fixo-prod-B2">
-						<span class="borda5 img">
-					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/produtos/backup.jpg" alt="" title="" />
-					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/produtos/backup.jpg" alt="" title="" /></noscript>
-				</span>
-						<strong class="opacity-60">UOL Backup</strong> <span class="opacity-60 cor7">Guarde seus arquivos online e acesse de onde estiver.</span>
-					</a>
-				</li>
-				<li>
-					<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=22&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:at_smart099_produtosuol2&msr=Cliques%20de%20Origem:1&oper=7&redir=http://assistenciatecnica.uol.com.br/landing-pages/at-smart-099#rmcl" name="horizontal-fixo-prod-B3">
-						<span class="borda5 img">
-					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/produtos/at.jpg" alt="" title="" />
-					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/produtos/at.jpg" alt="" title="" /></noscript>
-				</span>
-						<strong class="opacity-60">Assistência Técnica</strong> <span class="opacity-60 cor7">Garanta assistência para seu computador, tablet e smartphone.</span>
-					</a>
-				</li>
-				<li>
-					<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=4&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:wifi_produtosuol2_imgnova&msr=Cliques%20de%20Origem:1&oper=7&redir=http://wifi.uol.com.br/landing-page/wifi-velocidade-superior/" name="horizontal-fixo-prod-B4">
-						<span class="borda5 img">
-					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/produtos/wifi.jpg" alt="" title="" />
-					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/produtos/wifi.jpg" alt="" title="" /></noscript>
-				</span>
-						<strong class="opacity-60">UOL WiFi</strong> <span class="opacity-60 cor7">Tenha internet sem fio com velocidade de banda larga.</span>
-					</a>
-				</li>
-				<li>
-					<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=2&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:lpav_multidevice_produtosuol2&msr=Cliques%20de%20Origem:1&oper=7&redir=http://antivirus.uol.com.br/landing-pages/uol-antivirus-099/" name="horizontal-fixo-prod-B5">
-						<span class="borda5 img">
-					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/produtos/av.jpg" alt="" title="" />
-					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/produtos/av.jpg" alt="" title="" /></noscript>
-				</span>
-						<strong class="opacity-60">UOL Antivírus</strong> <span class="opacity-60 cor7">Proteja os seus dados por apenas R$ 0,99 no primeiro mês!</span>
-					</a>
-				</li>
-				<li class="ultimo">
-					<a class="opacity-hover" href="http://clicklogger.rm.uol.com.br/?prd=2&grp=src:12;size:19;chn:0;creative:boxprodutos;thm:controle_pais_produtosuol2&msr=Cliques%20de%20Origem:1&oper=7&redir=http://seguranca.uol.com.br/controle-dos-pais/" name="horizontal-fixo-prod-B6">
-						<span class="borda5 img">
-					<img width="120" height="85" class="opacity-90 lazyload" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/p/pp/caixa_produtos/2014/produtos/ctp_cx_produto.jpg" alt="" title="" />
-					<noscript><img width="120" height="85" src="http://imguol.com/p/pp/caixa_produtos/2014/produtos/ctp_cx_produto.jpg" alt="" title="" /></noscript>
-				</span>
-						<strong class="opacity-60">Controle dos Pais</strong> <span class="opacity-60 cor7">Máxima proteção para o seu filho na internet</span>
-					</a>
-				</li>
-			</ul>
-		
-
-
-	
-
-	
 </div>
 
 					
@@ -7221,16 +7226,16 @@ homeUOL.push(function() {
 						</li>
 					
 						<li class="borda10">
-							<a href="http://f5.folha.uol.com.br/colunistas/thiagostivaletti/2015/01/1581933-felizes-para-sempre-e-a-escola-soft-porn-da-hbo.shtml" name="corpo-direita-lista-A2" class="opacity-hover">
+							<a href="http://www1.folha.uol.com.br/poder/2015/01/1582620-bradesco-processa-filha-de-delator-por-cheque-de-r-500-milhoes.shtml" name="corpo-direita-lista-A2" class="opacity-hover">
 								<em class="cor2 opacity-60">2</em>
-								<span class="opacity-60">Felizes para Sempre? e a boa dose de sexo da escola 'pornô soft' </span>
+								<span class="opacity-60">Bradesco processa filha de delator por cheque de R$ 500 milhões </span>
 							</a>
 						</li>
 					
 						<li class="borda10">
-							<a href="http://www1.folha.uol.com.br/poder/2015/01/1582620-bradesco-processa-filha-de-delator-por-cheque-de-r-500-milhoes.shtml" name="corpo-direita-lista-A3" class="opacity-hover">
+							<a href="http://f5.folha.uol.com.br/colunistas/thiagostivaletti/2015/01/1581933-felizes-para-sempre-e-a-escola-soft-porn-da-hbo.shtml" name="corpo-direita-lista-A3" class="opacity-hover">
 								<em class="cor2 opacity-60">3</em>
-								<span class="opacity-60">Bradesco processa filha de delator por cheque de R$ 500 milhões </span>
+								<span class="opacity-60">Felizes para Sempre? e a boa dose de sexo da escola 'pornô soft' </span>
 							</a>
 						</li>
 					
@@ -7242,9 +7247,9 @@ homeUOL.push(function() {
 						</li>
 					
 						<li class="borda10">
-							<a href="http://esporte.uol.com.br/futebol/ultimas-noticias/2015/01/30/ate-simeone-tentou-bater-em-neymar-diz-jornal-pique-salvou-brasileiro.htm" name="corpo-direita-lista-A5" class="opacity-hover">
+							<a href="http://www1.folha.uol.com.br/cotidiano/2015/01/1582678-em-meio-a-crise-advogado-ganha-na-justica-direito-de-ter-agua-o-dia-todo.shtml" name="corpo-direita-lista-A5" class="opacity-hover">
 								<em class="cor2 opacity-60">5</em>
-								<span class="opacity-60">Até Simeone tentou bater em Neymar, diz jornal espanhol </span>
+								<span class="opacity-60">Advogado ganha direito de ter água o dia todo em São Paulo </span>
 							</a>
 						</li>
 					
@@ -7270,17 +7275,17 @@ homeUOL.push(function() {
 						<li class="opacity-hover borda10">
 							
 									<div class="imagem opacity-hover">
-										<a href="http://tvuol.uol.com.br/video/circulo-ou-quadrado-instalacao-em-galeria-nao-e-o-que-parece-04024E98386AD4995326" name="corpo-direita-lista-B1">
-											<img src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30vp1t.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
-											<noscript><img src="http://h.imguol.com/1501/30vp1t.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" /></noscript>
+										<a href="http://tvuol.uol.com.br/video/essa-partida-de-tenis-esta-deixando-esse-cao-maluco-0402CC983070D4995326" name="corpo-direita-lista-B1">
+											<img src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30cao-rn.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
+											<noscript><img src="http://h.imguol.com/1501/30cao-rn.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" /></noscript>
 											
 										</a>
 									</div>
 								
-							<a href="http://tvuol.uol.com.br/video/circulo-ou-quadrado-instalacao-em-galeria-nao-e-o-que-parece-04024E98386AD4995326" name="corpo-direita-lista-B1" class="opacity-hover">
+							<a href="http://tvuol.uol.com.br/video/essa-partida-de-tenis-esta-deixando-esse-cao-maluco-0402CC983070D4995326" name="corpo-direita-lista-B1" class="opacity-hover">
 								
 								<span class="opacity-60">
-									Círculo ou quadrado? Instalação em galeria não é o que parece
+									Partida de tênis deixa o cão maluco na frente da televisão
 									
 								</span>
 							</a>
@@ -7289,17 +7294,17 @@ homeUOL.push(function() {
 						<li class="opacity-hover borda10">
 							
 									<div class="imagem opacity-hover">
-										<a href="http://tvuol.uol.com.br/video/video-em-timelapse-mostra-chegada-da-neve-nos-eua-0402CC19376CD4995326" name="corpo-direita-lista-B2">
-											<img src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30vp2t.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
-											<noscript><img src="http://h.imguol.com/1501/30vp2t.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" /></noscript>
+										<a href="http://tvuol.uol.com.br/video/tony-hawk-andando-em-um-skatepark-classico-em-1980-na-california-04020E983070D4995326" name="corpo-direita-lista-B2">
+											<img src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30tony-rn.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
+											<noscript><img src="http://h.imguol.com/1501/30tony-rn.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" /></noscript>
 											
 										</a>
 									</div>
 								
-							<a href="http://tvuol.uol.com.br/video/video-em-timelapse-mostra-chegada-da-neve-nos-eua-0402CC19376CD4995326" name="corpo-direita-lista-B2" class="opacity-hover">
+							<a href="http://tvuol.uol.com.br/video/tony-hawk-andando-em-um-skatepark-classico-em-1980-na-california-04020E983070D4995326" name="corpo-direita-lista-B2" class="opacity-hover">
 								
 								<span class="opacity-60">
-									Vídeo em time-lapse mostra chegada da neve nos EUA
+									Veja manobras de Tony Hawk, lenda do skate, na infância
 									
 								</span>
 							</a>
@@ -7308,17 +7313,17 @@ homeUOL.push(function() {
 						<li class="opacity-hover borda10">
 							
 									<div class="imagem opacity-hover">
-										<a href="http://tvuol.uol.com.br/video/doces-ou-travessuras-dois-caes-saem-batendo-de-porta-em-porta-no-halloween-04024E9C3168D4995326" name="corpo-direita-lista-B3">
-											<img src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30vp3t.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
-											<noscript><img src="http://h.imguol.com/1501/30vp3t.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" /></noscript>
+										<a href="http://tvuol.uol.com.br/video/cesta-de-piquenique-e-diversao-garantida-para-este-gatinho-04024D193070D4995326" name="corpo-direita-lista-B3">
+											<img src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30gatinho-rn.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
+											<noscript><img src="http://h.imguol.com/1501/30gatinho-rn.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" /></noscript>
 											
 										</a>
 									</div>
 								
-							<a href="http://tvuol.uol.com.br/video/doces-ou-travessuras-dois-caes-saem-batendo-de-porta-em-porta-no-halloween-04024E9C3168D4995326" name="corpo-direita-lista-B3" class="opacity-hover">
+							<a href="http://tvuol.uol.com.br/video/cesta-de-piquenique-e-diversao-garantida-para-este-gatinho-04024D193070D4995326" name="corpo-direita-lista-B3" class="opacity-hover">
 								
 								<span class="opacity-60">
-									Doce ou travessura? Cães batem nas <br>porta no Halloween
+									Uma cesta de piquenique é tudo o que o gatinho precisa
 									
 								</span>
 							</a>
@@ -7327,17 +7332,17 @@ homeUOL.push(function() {
 						<li class="opacity-hover borda10">
 							
 									<div class="imagem opacity-hover">
-										<a href="http://tvuol.uol.com.br/video/como-seriam-os-simpsons-da-vida-real-04024D9C376AD4995326" name="corpo-direita-lista-B4">
-											<img src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30vp5t.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
-											<noscript><img src="http://h.imguol.com/1501/30vp5t.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" /></noscript>
+										<a href="http://tvuol.uol.com.br/video/garotinho-fica-fascinado-com-o-scroll-de-noticias-na-tv-04028C98376CD4995326" name="corpo-direita-lista-B4">
+											<img src="http://h.imguol.com/x.gif" data-original="http://h.imguol.com/1501/30garotinho-rn.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" class="opacity-90 lazyload" />
+											<noscript><img src="http://h.imguol.com/1501/30garotinho-rn.jpg" width="142" height="100" alt="Reprodução" title="Reprodução" /></noscript>
 											
 										</a>
 									</div>
 								
-							<a href="http://tvuol.uol.com.br/video/como-seriam-os-simpsons-da-vida-real-04024D9C376AD4995326" name="corpo-direita-lista-B4" class="opacity-hover">
+							<a href="http://tvuol.uol.com.br/video/garotinho-fica-fascinado-com-o-scroll-de-noticias-na-tv-04028C98376CD4995326" name="corpo-direita-lista-B4" class="opacity-hover">
 								
 								<span class="opacity-60">
-									Como seriam os Simpsons da vida real? É parecido?
+									Garotinho tenta parar o scroll de notícias, mas só fica frustrado
 									
 								</span>
 							</a>
@@ -7615,18 +7620,16 @@ homeUOL.push(function() { homeUOL.guiaUOL.init(); });
 			
 					
 					<li class="primeiro">
-						<a href="http://clicklogger.rm.uol.com.br/?prd=78&grp=servico:INGLES;src:10;pos:5;cpg:BoxLateralDireitaHomeUOL;creative:uol_ingles_full_trial;chn:0; size:19&msr=Cliques%20de%20Origem:1&oper=7&redir=http://cursodeingles.uol.com.br/landing-pages/full/ingles-fluente.html?cmpid=midia_interna-uol-boxlateraldireitahome-ingles-full-trial" name="corpo-direita-produtos-modulo1-1" class="opacity-hover">
-							<img class="opacity-90 lazyload" width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/cursos-online/2014/10/08/142x100ingles-1412786931164_142x100.jpg" alt="" title="" />
-							<noscript><img width="142" height="100" src="http://imguol.com/cursos-online/2014/10/08/142x100ingles-1412786931164_142x100.jpg" alt="" title="" /></noscript>
-							<strong class="opacity-60">UOL Curso de Inglês</strong> <span class="opacity-60">O UOL paga seu 1º mês de curso. Estude 100% online.</span> <em class="opacity-60">Comece já!</em>
+						<a href="http://clicklogger.rm.uol.com.br/?prd=78&grp=servico:INGLES;src:10;pos:1;cpg:BoxLateralDireitaHomeUOL;creative:quiz_ingles_negocios;chn:0;size:19&msr=Cliques%20de%20Origem:1&oper=7&redir=http://cursodeingles.uol.com.br/teste-seu-ingles-negocios/?cmpid=midia_interna-uol-boxlateraldireitahome-ingles-quiz-negocios&utm_medium=midia_interna&utm_source=uol&utm_campaign=quiz_ingles_negocios&utm_content=BoxLateralDireitaHomeUOL" name="corpo-direita-produtos-modulo1-1" class="opacity-hover">
+							<img class="opacity-90 lazyload" width="142" height="100" src="http://h.imguol.com/x.gif" data-original="http://imguol.com/cursos-online/2014/10/20/142x100-inglesnegocio-1413827111375_142x100.jpg" alt="" title="" />
+							<noscript><img width="142" height="100" src="http://imguol.com/cursos-online/2014/10/20/142x100-inglesnegocio-1413827111375_142x100.jpg" alt="" title="" /></noscript>
+							<strong class="opacity-60">Qual é o seu nível de 'Embromation'?</strong> <span class="opacity-60">Teste o seu Inglês e descubra se você está pronto para se virar em negócios.</span> <em class="opacity-60">Comece já!</em>
 						</a>
 					</li>
 				
 			
 			
-			
-			
-			
+					
 		</ul>
 		<em class="selo-produto">
 			<a href="http://clicklogger.rm.uol.com.br/?prd=78&grp=src:10;pos:5;cpg:BoxLateralDireitaHomeUOL;creative:Rodape;chn:0;size:19&msr=Cliques%20de%20Origem:1&oper=7&redir=http://cursosonline.uol.com.br/assinatura/cursoslivres&cmpid=midia%20interna-BoxLateralDireitaHomeUOL" name="corpo-direita-produtos-modulo1" class="opacity-hover"><img src="http://imguol.com/cursos-online/2014/06/05/uol-educacao-1402000475994_169x34.jpg" alt="UOL Educação" title="UOL Educação" class="opacity-90" /></a>
@@ -9147,7 +9150,7 @@ homeUOL.push(function() { homeUOL.guiaUOL.init(); });
 	homeUOL.insertClickUOL();
 //]]></script>
 <script type="text/javascript">//<![CDATA[
-	homeUOL.push(function() { homeUOL.qtdComentarios({"data":[{"url":"http://economia.uol.com.br/noticias/redacao/2014/10/01/emprestimos-para-eletricas-vao-custar-r-266-bi-aos-consumidores-diz-tcu.htm","qtd":"57"},{"url":"http://eleicoes.uol.com.br/2014/especiais/eduardo-campos.htm/","qtd":null},{"url":"http://olimpiadas.uol.com.br/noticias/2015/01/29/rj-volta-atras-e-confirma-meta-olimpica-de-limpeza-da-baia-de-guanabara.htm","qtd":"21"},{"url":"http://esporte.uol.com.br/futebol/ultimas-noticias/2015/01/30/ate-simeone-tentou-bater-em-neymar-diz-jornal-pique-salvou-brasileiro.htm","qtd":"79"},{"url":"http://noticias.uol.com.br/saude/ultimas-noticias/redacao/2014/10/01/brasileiro-que-nasceu-com-anomalia-rara-no-pescoco-dara-palestra-nos-eua.htm","qtd":"50"},{"url":"http://televisao.uol.com.br/noticias/redacao/2015/01/27/em-imperio-maria-isis-chora-ao-ver-ze-alfredo-na-cama-com-outra-mulher.htm","qtd":"16"},{"url":"http://www1.folha.uol.com.br/poder/2014/10/1525320-romario-lidera-corrida-para-senador-pelo-rio-diz-datafolha.shtml","qtd":null},{"url":"http://esporte.uol.com.br/futebol/ultimas-noticias/2014/04/14/injusticados-de-felipao-brilham-na-semana-europeia.htm","qtd":"15"},{"url":"http://esporte.uol.com.br/tenis/ultimas-noticias/2015/01/30/djokovic-se-vinga-de-wawrinka-elimina-atual-campeao-e-vai-a-final.htm","qtd":"15"},{"url":"http://espn.uol.com.br/noticia/425365_thomas-muller-se-irrita-com-pergunta-e-dispara-a-reporter-pode-colocar-a-chuteira-de-ouro-em-outro-lugar","qtd":null},{"url":"http://copadomundo.uol.com.br/noticias/redacao/2014/07/14/luiz-felipe-scolari-nao-e-mais-treinador-da-selecao-brasileira-diz-tv.htm","qtd":"881"},{"url":"http://economia.uol.com.br/noticias/efe/2015/01/30/portugal-poe-estacoes-de-trem-abandonadas-a-venda.htm","qtd":"4"},{"url":"http://esporte.uol.com.br/futebol/ultimas-noticias/2015/01/30/arouca-assina-contrato-de-quatro-anos-e-e-o-17-reforco-do-palmeiras.htm","qtd":"57"}]}) });
+	homeUOL.push(function() { homeUOL.qtdComentarios({"data":[{"url":"http://www1.folha.uol.com.br/poder/2014/10/1525320-romario-lidera-corrida-para-senador-pelo-rio-diz-datafolha.shtml","qtd":null},{"url":"http://esporte.uol.com.br/futebol/ultimas-noticias/2014/04/14/injusticados-de-felipao-brilham-na-semana-europeia.htm","qtd":"15"},{"url":"http://economia.uol.com.br/noticias/redacao/2014/10/01/emprestimos-para-eletricas-vao-custar-r-266-bi-aos-consumidores-diz-tcu.htm","qtd":"57"},{"url":"http://esporte.uol.com.br/futebol/ultimas-noticias/2015/01/30/ate-simeone-tentou-bater-em-neymar-diz-jornal-pique-salvou-brasileiro.htm","qtd":"97"},{"url":"http://eleicoes.uol.com.br/2014/especiais/eduardo-campos.htm/","qtd":null},{"url":"http://espn.uol.com.br/noticia/425365_thomas-muller-se-irrita-com-pergunta-e-dispara-a-reporter-pode-colocar-a-chuteira-de-ouro-em-outro-lugar","qtd":null},{"url":"http://esporte.uol.com.br/tenis/ultimas-noticias/2015/01/30/djokovic-se-vinga-de-wawrinka-elimina-atual-campeao-e-vai-a-final.htm","qtd":"15"},{"url":"http://copadomundo.uol.com.br/noticias/redacao/2014/07/14/luiz-felipe-scolari-nao-e-mais-treinador-da-selecao-brasileira-diz-tv.htm","qtd":"881"},{"url":"http://noticias.uol.com.br/saude/ultimas-noticias/redacao/2014/10/01/brasileiro-que-nasceu-com-anomalia-rara-no-pescoco-dara-palestra-nos-eua.htm","qtd":"50"},{"url":"http://economia.uol.com.br/noticias/efe/2015/01/30/portugal-poe-estacoes-de-trem-abandonadas-a-venda.htm","qtd":"8"},{"url":"http://esporte.uol.com.br/futebol/ultimas-noticias/2015/01/30/arouca-assina-contrato-de-quatro-anos-e-e-o-17-reforco-do-palmeiras.htm","qtd":"76"},{"url":"http://televisao.uol.com.br/noticias/redacao/2015/01/27/em-imperio-maria-isis-chora-ao-ver-ze-alfredo-na-cama-com-outra-mulher.htm","qtd":"16"}]}) });
 //]]></script>
 <!-- /uolhome:arq -->
 

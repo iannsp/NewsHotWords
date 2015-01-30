@@ -45,12 +45,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/iannsp/NGram.git",
-                "reference": "25efac26451783ba010e088391b5bb29d8814ee2"
+                "reference": "01814badb532648db09aa747b3d94c289e4a8ece"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/iannsp/NGram/zipball/25efac26451783ba010e088391b5bb29d8814ee2",
-                "reference": "25efac26451783ba010e088391b5bb29d8814ee2",
+                "url": "https://api.github.com/repos/iannsp/NGram/zipball/01814badb532648db09aa747b3d94c289e4a8ece",
+                "reference": "01814badb532648db09aa747b3d94c289e4a8ece",
                 "shasum": ""
             },
             "require": {
@@ -76,7 +76,7 @@
                 }
             ],
             "description": "A n-gram toolset.",
-            "time": "2015-01-30 14:46:33"
+            "time": "2015-01-30 16:32:02"
         }
     ],
     "packages-dev": [

@@ -5,7 +5,7 @@ require 'vendor/autoload.php';
 $input['terra'] =  file_get_contents("http://terra.com.br");
 $input['uol'] =  file_get_contents("http://uol.com.br");
 
-function analyze($input){
+function analyze($input, $portal){
 $blacklist = $lines = file("blacklist.txt", FILE_IGNORE_NEW_LINES);
     
 $txt = Ngram\Tool\Input\HtmlToText::get($input);
@@ -48,48 +48,42 @@ foreach ($input as $name => $content){
     $t = fopen("{$name}.txt","w");
     fwrite($t, $content);
     fclose($t);
-    $input[$name] = analyze($content);
+    $input[$name] = analyze($content,$name);
 }
-$commons=[];
+$commons=['words'=>[],'portals'=>[]];
+
 foreach ($input['terra'] as $idx => $k){
     if (array_key_exists($idx, $input['uol']))
     {
-        $commons[$idx]['terra']= $input['terra'][$idx];
-        $commons[$idx]['uol']= $input['uol'][$idx];
+        $words = implode(" ",unserialize($idx));
+        if(strlen($words)<=2)
+            continue;
+        $commons['words'][]= $words;
+        $commons['portals']['terra'][]= (int)$input['terra'][$idx];
+        $commons['portals']['uol'][]= (int)$input['uol'][$idx];
+        $commons['total'][$words]= (int)$input['terra'][$idx] + (int)$input['uol'][$idx];
     }
 }
-//    printf("%20s%10s%10s\n",    'PALAVRA','Terra','UOL');
-$totalCount = [];
-$max = 0;
-foreach($commons as $word=>$k){
-    $words = unserialize($word);
-    if (strlen($words[0])>3){
-        $word = $words[0];
-        $terra = $k['terra'];
-        $uol = $k['uol'];
-        $totalCount[$word]=((int)$terra+ (int)$uol);
-        if ($totalCount[$word]> $max){
-            $max = $totalCount[$word];
-        }
-//        printf("%20s%10s%10s\n",    $word,$terra,$uol);
-    }
-}
-asort($totalCount);
-/*
-var_dump($max);
-var_dump($totalCount);
-*/
+
 
 $graphData = [
-  "labels"=>array_keys($totalCount),
+  "labels"=>array_values($commons['words']),
   "datasets"=>[
       [ 
-          "label"=>"Frequencia",
-          "fillColor"=>"rgba(255, 33, 44, 0.9)",
+          "label"=>"uol",
+          "fillColor"=>"rgba(237, 121, 43, 0.4)",
           "highlightFill"=> "rgba(220,220,220,0.75)",
           "highlightStroke"=> "rgba(220,220,220,1)",
-          "data"=>array_values($totalCount)
-       ]
+          "data"=>array_values($commons['portals']['uol'])
+       ],
+       [ 
+           "label"=>"Terra",
+           "fillColor"=>"rgba(232, 200, 96, 0.4)",
+           "highlightFill"=> "rgba(220,220,220,0.75)",
+           "highlightStroke"=> "rgba(220,220,220,1)",
+           "data"=>array_values($commons['portals']['terra'])
+        ]
+       
   ] 
 ];
 $t = fopen("./public/stat.json","w");
