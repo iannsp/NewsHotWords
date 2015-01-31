@@ -2,88 +2,153 @@
 require 'vendor/autoload.php';
 
 
-$input['terra'] =  file_get_contents("http://terra.com.br");
-$input['uol'] =  file_get_contents("http://uol.com.br");
+$input['terra'] = ['url'=>"http://terra.com.br","encondig"=>'utf-8']; 
+$input['uol']   = ['url'=>"http://uol.com.br",'encondig'=>'utf-8'];
+$input['folha'] = ['url'=>"http://www.folha.uol.com.br/",'encondig'=>'windows-1252'];
+//$input['estadao'] = ['url'=>"http://topicos.estadao.com.br/rss",'encondig'=>'utf-8'];
 
-function analyze($input, $portal){
-$blacklist = $lines = file("blacklist.txt", FILE_IGNORE_NEW_LINES);
+function analyze($portal, $config, $ngramSize){
+    $enc = $config['encondig'];
+    $stream = fopen($config['url'], 'r');
+    if($enc!='utf-8'){
+        $input = mb_convert_encoding(stream_get_contents($stream),"UTF-8", $enc);
+        
+    }
+    else
+        $input = stream_get_contents($stream);
+$blacklist = $lines = file("blacklist_{$ngramSize}.txt", FILE_IGNORE_NEW_LINES);
     
 $txt = Ngram\Tool\Input\HtmlToText::get($input);
 $txt = Ngram\Tool\Input\TextToArray::get($txt, ['split'=>Ngram\Tool\Input\TextToArray::SPLIT_BY_CR]);
 $paragraphs = [];
 foreach ($txt as $idx =>$line){
-    $l = Ngram\Tool\Input\Sanitize::get($line,['by'=>0]);
-    $l = Ngram\Tool\Input\BlackList::get($l, ['words'=>$blacklist]);
+    $l = Ngram\Tool\Input\Sanitize::get($line,['by'=>0,'normalize'=>Ngram\Tool\Input\Sanitize::NORMALIZETOLOWER]);
+
     if (strlen($l)>2){
         $paragraphs[$idx]['txt']= $l;
-        $w = new Ngram\Frequency\Word($l);
-        $paragraphs[$idx]['words']= $w->extract(1);
+        $w = new Ngram\Frequency\Word($l,$blacklist);
+        $paragraphs[$idx]['words']= $w->extract($ngramSize);
     }
 }
+
 $wordList = [];
 foreach ($paragraphs as $p ){
-    foreach ($p['words'] as $words){
-                $wordList[]= $words;
-        }
-    } 
-    $frequency = Ngram\Tool\Ngram\Frequency::get($wordList);
-$ffinal = [];
-foreach ($frequency as $idx => $f){
-    $ffinal[serialize($f[0])] = $f['count'];
+    $wordList = array_merge($wordList, $p['words']);
 }
-arsort($ffinal);
-$Q = ceil(count($ffinal)/4);
-$range = [$Q,$Q+$Q*2];
-$rangeData = [];
-$i = 0 ;
-foreach ($ffinal as $word => $count){
-//    if ($i <= $range[0] && $i <= $range[1] )
-        $rangeData[$word] = $count;
-//    $i++;
-}
-return $rangeData;
-}
-//processar conteudos
-foreach ($input as $name => $content){
-    $t = fopen("{$name}.txt","w");
-    fwrite($t, $content);
-    fclose($t);
-    $input[$name] = analyze($content,$name);
-}
-$commons=['words'=>[],'portals'=>[]];
 
-foreach ($input['terra'] as $idx => $k){
-    if (array_key_exists($idx, $input['uol']))
-    {
-        $words = implode(" ",unserialize($idx));
+$frequency = Ngram\Tool\Ngram\Frequency::get($wordList);
+$ffinal = $frequency;
+return $ffinal;
+}
+
+//processar conteudos
+$output = [];
+function extractData($output){
+    
+$input = $output;
+$commons=['words'=>[],'portals'=>[],'count'=>[]];
+foreach ($input as $channel=> $contentChannel){
+    $commons['portals'][$channel] = $contentChannel;
+    foreach ($contentChannel as $idx => $k){
+        $words = $idx;
         if(strlen($words)<=2)
             continue;
-        $commons['words'][]= $words;
-        $commons['portals']['terra'][]= (int)$input['terra'][$idx];
-        $commons['portals']['uol'][]= (int)$input['uol'][$idx];
-        $commons['total'][$words]= (int)$input['terra'][$idx] + (int)$input['uol'][$idx];
+        $commons['words'][] = $words; 
+    }
+}
+foreach ($commons['words'] as $word => $k){
+    if (strlen($word)<3){
+        foreach($commons['portals'] as $name =>$values){
+            unset($commons['portals'][$name][$word]);
+        }
     }
 }
 
+$max = 0;
+foreach($commons['portals'] as $name =>$values){
+    asort($commons['portals'][$name]);
+}
+
+foreach ($commons['words'] as $word){
+    foreach($commons['portals'] as $channel=> $inputTerms){
+        if (!array_key_exists($word, $inputTerms))
+            $commons['portals'][$channel][$word] = 0;
+    }
+    if (array_key_exists($word,$commons['count']))
+        $commons['count'][$word]+= $commons['portals'][$channel][$word];
+    else
+        $commons['count'][$word]= $commons['portals'][$channel][$word];
+    if ($commons['count'][$word] > $max)
+        $max = $commons['count'][$word];
+}
+
+foreach($commons['portals'] as $name =>$values){
+    asort($commons['portals'][$name]);
+}
+$frequency = $commons['count'];
+
+asort($commons['count']);
+$Qr = ceil($max/4);
+$Q = [$Qr, $Qr*2, $Qr*3,$Qr*4];
+var_dump($Q);
+$commonsCopy = $commons;
+asort($commons['words']);
+foreach ($commons['words'] as $word => $k){
+    $ktotal = $commons['count'][$k];
+    if (strlen($k)<3 || $ktotal<=1){
+        foreach($commons['portals'] as $name =>$values){
+            unset($commonsCopy['portals'][$name][$k]);
+        }
+    }
+    $commons = $commonsCopy;
+    if ((($ktotal >=2 && $ktotal<= 5)|| $ktotal>$Q[2] )&& $k!='água' ){
+            foreach($commons['portals'] as $name =>$values){
+                unset($commonsCopy['portals'][$name][$k]);
+            }
+    }
+}
+    return $commonsCopy;
+}
+
+foreach ($input as $name => $content){
+    $output[$name] = analyze($name,$content,2);
+}
+$outputProcessed = extractData($output);
+foreach ($input as $name => $content){
+    $output[$name] =analyze($name,$content,1);
+}
+$outputProcessed2 = extractData($output);
+$commons = [];
+$commons['words']= array_merge($outputProcessed['words'],$outputProcessed2['words']);
+$commons['portals']['terra']= array_merge($outputProcessed['portals']['terra'],$outputProcessed2['portals']['terra']);
+$commons['portals']['uol']= array_merge($outputProcessed['portals']['uol'],$outputProcessed2['portals']['uol']);
+$commons['portals']['folha']= array_merge($outputProcessed['portals']['folha'],$outputProcessed2['portals']['folha']);
+$commons['count'] = array_merge($outputProcessed['count'],$outputProcessed2['count']);
 
 $graphData = [
-  "labels"=>array_values($commons['words']),
+  "labels"=>array_keys($commons['portals']['uol']),
   "datasets"=>[
       [ 
           "label"=>"uol",
-          "fillColor"=>"rgba(237, 121, 43, 0.4)",
+          "fillColor"=>"rgba(215, 40, 40, 0.5)",
           "highlightFill"=> "rgba(220,220,220,0.75)",
           "highlightStroke"=> "rgba(220,220,220,1)",
           "data"=>array_values($commons['portals']['uol'])
        ],
        [ 
            "label"=>"Terra",
-           "fillColor"=>"rgba(232, 200, 96, 0.4)",
+           "fillColor"=>"rgba(57, 188, 44, 0.5)",
            "highlightFill"=> "rgba(220,220,220,0.75)",
            "highlightStroke"=> "rgba(220,220,220,1)",
            "data"=>array_values($commons['portals']['terra'])
+        ],
+       [ 
+           "label"=>"folha",
+           "fillColor"=>"rgba(57,188,255, 0.5)",
+           "highlightFill"=> "rgba(220,220,220,0.75)",
+           "highlightStroke"=> "rgba(220,220,220,1)",
+           "data"=>array_values($commons['portals']['folha'])
         ]
-       
   ] 
 ];
 $t = fopen("./public/stat.json","w");

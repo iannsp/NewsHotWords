@@ -10,13 +10,19 @@ $(document).ready(function(){
     $("#statgraph").css('width',$(document).width()-50);
     $("#statgraph").css('height',500);
     var ctx = $("#statgraph").get(0).getContext("2d");
-    var myBarChart = new Chart(ctx).Line(stat,{"scaleShowHorizontalLines": false});
+    var myBarChart = new Chart(ctx).Line(stat,{"scaleShowHorizontalLines": false,"legendTemplate" : "<ul class=\"<%=name.toLowerCase()%>-legend\"><% for (var i=0; i<datasets.length; i++){%><span style=\"font-size:20px;margin-right:20px; color:<%=datasets[i].fillColor%>\"><%if(datasets[i].label){%><%=datasets[i].label%><%}%></span> <%}%>"});
+//    var legend = ;
+    legend = myBarChart.generateLegend();
+    console.log(legend);
+    $("#legenda").html("<div style='font-size:20px;float:left;margin-right:10px'>Legenda</div>"+legend);
+
 });
 </script>
 <body style="padding:none; border:none">
     <center><h2>Frequencia de Termos cruzados nos portais <a href="http://terra.com.br" target="blank">Terra</a> e <a href="http://uol.com.br" target="blank">Uol</a> com intervalo de 5 minutos.</h1>
     </center>
     <canvas id="statgraph" width="500" height="200"></canvas>
+    <div id="legenda"></div>
 <p>o processamento utilizou <a href="https://packagist.org/packages/iannsp/ngram" target="blank">Iannsp/Ngram</a></p>
 <p>O projeto esta em <a href="https://github.com/iannsp/NewsHotWords">NewsHotWords<a/></p>
 <p>Versão: 0.0.0.0.0.0.0.0.0.0.0.1</p>
