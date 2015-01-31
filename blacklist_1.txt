@@ -662,3 +662,9 @@ loterias
 time
 copa
 veículos
+york
+outro
+neste
+te
+km
+semana
