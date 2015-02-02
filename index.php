@@ -28,9 +28,16 @@ foreach ($txt as $idx =>$line){
         $paragraphs[$idx]['txt']= $l;
         $w = new Ngram\Frequency\Word($l,$blacklist);
         $paragraphs[$idx]['words']= $w->extract($ngramSize);
+        $pAux =[]; 
+        foreach($paragraphs[$idx]['words'] as $idxAux=>$wordAux){
+            if(strlen($wordAux)>2){
+                $pAux[] = trim($wordAux);
+            }
+        }
+        $paragraphs[$idx]['words'] = $pAux;
     }
 }
-
+//die();
 $wordList = [];
 foreach ($paragraphs as $p ){
     $wordList = array_merge($wordList, $p['words']);
