@@ -31,7 +31,7 @@ foreach ($txt as $idx =>$line){
         $pAux =[]; 
         foreach($paragraphs[$idx]['words'] as $idxAux=>$wordAux){
             if(strlen($wordAux)>2){
-                echo trim(trim($wordAux))."\n";
+                //echo trim(trim($wordAux))."\n";
                 $pAux[] = trim($wordAux);
             }
         }
