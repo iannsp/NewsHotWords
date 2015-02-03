@@ -31,6 +31,7 @@ foreach ($txt as $idx =>$line){
         $pAux =[]; 
         foreach($paragraphs[$idx]['words'] as $idxAux=>$wordAux){
             if(strlen($wordAux)>2){
+                echo trim(trim($wordAux))."\n";
                 $pAux[] = trim($wordAux);
             }
         }
@@ -108,7 +109,10 @@ foreach ($commons['words'] as $word => $k){
         }
     }
     $commons = $commonsCopy;
-    if ((($ktotal >=2 && $ktotal<= 5)|| $ktotal>$Q[2] )&& $k!='água' ){
+    if (
+        ($ktotal <=2 || $ktotal>= 7)
+        && $k!='água' 
+        ){
             foreach($commons['portals'] as $name =>$values){
                 unset($commonsCopy['portals'][$name][$k]);
             }
@@ -148,7 +152,9 @@ $graphData = [
            "highlightFill"=> "rgba(220,220,220,0.75)",
            "highlightStroke"=> "rgba(220,220,220,1)",
            "data"=>array_values($commons['portals']['terra'])
-        ],
+        ]
+/*
+               ,
        [ 
            "label"=>"folha",
            "fillColor"=>"rgba(57,188,255, 0.5)",
@@ -156,6 +162,7 @@ $graphData = [
            "highlightStroke"=> "rgba(220,220,220,1)",
            "data"=>array_values($commons['portals']['folha'])
         ]
+*/
   ] 
 ];
 $t = fopen("./public/stat.json","w");
