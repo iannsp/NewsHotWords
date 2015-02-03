@@ -153,7 +153,6 @@ $graphData = [
            "highlightStroke"=> "rgba(220,220,220,1)",
            "data"=>array_values($commons['portals']['terra'])
         ]
-/*
                ,
        [ 
            "label"=>"folha",
@@ -162,7 +161,6 @@ $graphData = [
            "highlightStroke"=> "rgba(220,220,220,1)",
            "data"=>array_values($commons['portals']['folha'])
         ]
-*/
   ] 
 ];
 $t = fopen("./public/stat.json","w");
